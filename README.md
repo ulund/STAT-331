@@ -1,2 +1,2 @@
 # STAT-331-Data-Files
-Data file for STAT 331
+Data files for STAT 331
