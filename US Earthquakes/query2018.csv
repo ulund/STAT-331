@@ -1,0 +1,557 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2018-01-01T01:35:34.240Z,34.0316667,-117.593,4.08,3.09,ml,173,15,0.07663,0.22,ci,ci37844303,2018-07-16T04:01:59.764Z,"4km SE of Ontario, CA",earthquake,0.09,0.34,0.175,330,reviewed,ci,ci
+2018-01-01T04:18:57.330Z,31.8491667,-116.1185,12.31,3.09,ml,15,126,0.2124,0.19,ci,ci37844527,2018-03-23T23:16:47.040Z,"45km ENE of Maneadero, B.C., MX",earthquake,0.4,1.02,0.222,168,reviewed,ci,ci
+2018-01-02T13:42:52.000Z,31.2227,-103.5728,5,3.1,ml,,50,0.147,0.42,us,us1000bz0l,2018-03-23T23:16:48.040Z,"16 km SSW of Lindsay, Texas",earthquake,0.9,1.9,0.07,64,reviewed,us,us
+2018-01-02T17:43:49.200Z,36.1523,-97.6696,4.492,3.5,ml,,21,,0.22,us,us1000bz2k,2018-03-23T23:16:48.040Z,"Oklahoma",earthquake,1.1,5.1,,,reviewed,tul,tul
+2018-01-03T04:00:29.800Z,36.1603,-98.377,5.667,3.4,ml,,26,,0.84,us,us1000bz81,2018-03-23T23:16:49.040Z,"7 km NW of Okeene, Oklahoma",earthquake,1.3,6.5,,,reviewed,tul,tul
+2018-01-03T08:36:25.940Z,46.2556667,-122.0563333,10.23,3.87,ml,50,124,0.05684,0.14,uw,uw61362346,2018-03-23T23:16:49.040Z,"37 km SSE of Morton, Washington",earthquake,0.24,0.42,0.156,25,reviewed,uw,uw
+2018-01-04T10:39:37.730Z,37.8551667,-122.2568333,12.31,4.38,mw,289,13,0.004662,0.18,nc,nc72948801,2019-10-15T05:55:58.351Z,"2km SE of Berkeley, CA",earthquake,0.11,0.2,,7,reviewed,nc,nc
+2018-01-04T15:42:27.560Z,46.9007,-70.7725,18,3.4,mb_lg,,,,0.79,us,us1000c0wi,2018-03-23T23:16:50.040Z,"18 km SSE of Beaupré, Canada",earthquake,5,7.7,,,reviewed,ott,ott
+2018-01-06T14:19:27.220Z,42.2206,-104.8104,5,3,ml,,104,1.038,1.3,us,us1000c1f3,2018-03-23T23:16:52.040Z,"7 km SW of Guernsey, Wyoming",earthquake,3.2,2,0.064,62,reviewed,us,us
+2018-01-06T15:37:17.770Z,28.8497,-98.119,5,3.6,mb_lg,,82,0.272,1.07,us,us1000c1fk,2020-03-20T02:06:56.877Z,"17 km SW of Falls City, Texas",earthquake,4.1,2,0.068,56,reviewed,us,us
+2018-01-07T01:31:11.150Z,34.42,-120.0015,2.26,3.78,mw,46,74,0.1315,0.24,ci,ci37848263,2018-04-05T19:50:31.411Z,"13km W of Isla Vista, CA",earthquake,0.25,0.83,,4,reviewed,ci,ci
+2018-01-07T08:56:56.380Z,28.8912,-98.2041,5,3.1,mb_lg,,74,0.282,0.43,us,us1000c1ny,2018-03-23T23:16:53.040Z,"20 km WSW of Falls City, Texas",earthquake,2.3,2,0.074,47,reviewed,us,us
+2018-01-07T10:55:39.550Z,35.1145,-95.8344,5,3.1,ml,,224,0.795,0.57,us,us1000c1qh,2018-03-23T23:16:53.040Z,"7 km SW of Indianola, Oklahoma",earthquake,2.6,1.7,0.085,18,reviewed,us,us
+2018-01-07T19:29:41.270Z,46.8422,-112.7436,8.86,3.6,ml,,71,0.128,0.76,us,us1000c1sq,2018-03-23T23:16:54.040Z,"13 km SSW of Lincoln, Montana",earthquake,3,8.1,0.045,64,reviewed,us,us
+2018-01-07T19:30:21.330Z,31.616,-115.8161667,13.98,3.91,ml,19,118,0.2256,0.1,ci,ci37848759,2018-03-23T23:16:54.040Z,"72km E of Maneadero, B.C., MX",earthquake,0.19,0.38,0.179,270,reviewed,ci,ci
+2018-01-08T22:38:51.970Z,38.4521667,-112.4795,11.84,3.5,ml,29,42,0.1591,0.2,uu,uu60264557,2021-05-05T21:05:23.000Z,"21 km W of Marysvale, Utah",earthquake,0.34,0.63,0.138,23,reviewed,uu,uu
+2018-01-11T00:15:13.680Z,36.1563333,-120.2298333,11.36,3.14,ml,62,132,0.1361,0.08,nc,nc72952250,2018-04-03T01:40:25.040Z,"12km E of Coalinga, CA",earthquake,0.19,0.53,0.145,19,reviewed,nc,nc
+2018-01-12T08:41:40.200Z,36.876,-97.442,7.578,3.1,ml,,70,,0.21,us,us2000cisg,2018-04-03T01:40:27.040Z,"7 km N of Nardin, Oklahoma",earthquake,1.1,2.1,,,reviewed,tul,tul
+2018-01-13T01:04:08.100Z,35.6711,-97.4005,6.396,3.6,ml,,24,,0.51,us,us2000cj69,2020-03-20T02:07:50.078Z,"6 km W of Arcadia, Oklahoma",earthquake,1.9,7.6,,,reviewed,tul,tul
+2018-01-13T06:26:58.400Z,33.1141667,-116.0738333,11.53,3.59,ml,134,33,0.08913,0.23,ci,ci38086512,2018-04-03T01:40:29.040Z,"6km ESE of Ocotillo Wells, CA",earthquake,0.13,0.38,0.122,299,reviewed,ci,ci
+2018-01-14T19:56:11.650Z,34.8168333,-116.0733333,3.75,3.71,mw,81,39,0.1483,0.18,ci,ci38087400,2018-04-03T01:40:31.040Z,"13km NE of Ludlow, CA",earthquake,0.11,0.54,,4,reviewed,ci,ci
+2018-01-16T05:03:11.900Z,36.1229,-97.8083,5,3.1,ml,,26,,0.13,us,us2000cjuq,2018-04-10T01:11:41.040Z,"8 km E of Hennessey, Oklahoma",earthquake,1.1,4.8,,,reviewed,tul,tul
+2018-01-16T16:57:54.810Z,36.1631667,-89.686,9.42,3.64,mw,73,36,0.04498,0.13,nm,nm60186242,2018-07-17T11:43:36.491Z,"4 km SW of Caruthersville, Missouri",earthquake,0.13,0.38,,9,reviewed,nm,nm
+2018-01-16T20:17:10.580Z,37.51,-118.8543333,9,3.09,ml,47,68,0.08236,0.04,nc,nc72954970,2018-04-10T01:11:42.040Z,"16km WSW of Toms Place, CA",earthquake,0.19,0.48,0.144,9,reviewed,nc,nc
+2018-01-16T21:40:33.600Z,31.2328333,-115.6746667,12.1,3.44,ml,5,203,0.1837,0.1,ci,ci38088560,2018-01-16T23:16:00.116Z,"100km ESE of Maneadero, B.C., MX",earthquake,1.1,0.4,0.161,146,reviewed,ci,ci
+2018-01-18T05:55:11.950Z,38.785,-122.7433333,1.81,4.22,mw,72,41,0.005457,0.08,nc,nc72955520,2018-05-15T03:39:28.647Z,"1km NE of The Geysers, CA",earthquake,0.11,0.19,,4,reviewed,nc,nc
+2018-01-19T16:17:44.720Z,26.6862,-111.0785,10,6.3,mww,,109,1.214,1.45,us,us2000cl83,2020-07-10T17:00:41.030Z,"79 km NNE of Loreto, Mexico",earthquake,5.7,1.8,0.035,79,reviewed,us,us
+2018-01-19T16:48:28.010Z,26.6067,-111.1312,10,4.5,mb,,146,1.218,1.47,us,us2000cl8x,2018-04-10T01:11:47.040Z,"69 km NNE of Loreto, Mexico",earthquake,7.4,1.9,0.058,87,reviewed,us,us
+2018-01-20T13:48:54.420Z,26.6362,-111.0263,10,4.5,mb,,141,1.28,1.42,us,us2000clsy,2018-04-10T01:11:48.040Z,"76 km NNE of Loreto, Mexico",earthquake,5.2,1.9,0.088,38,reviewed,us,us
+2018-01-21T06:08:55.950Z,46.3836,-75.0633,16.84,3,mb_lg,,102,0.391,0.75,us,us2000cmb5,2018-04-10T01:11:50.040Z,"15 km WSW of Rivière-Rouge, Canada",earthquake,3.8,2.7,,,reviewed,us,ott
+2018-01-21T17:04:12.580Z,30.2302,-114.2468,10,4.5,mb,,197,0.958,1.25,us,us2000cm5c,2018-04-10T01:11:50.040Z,"104 km SSE of San Felipe, Mexico",earthquake,7,1.9,0.058,89,reviewed,us,us
+2018-01-21T17:26:48.200Z,36.459,-98.8168,6.01,3,ml,,53,,0.3,us,us2000cm5r,2018-04-10T01:11:50.040Z,"14 km SSE of Waynoka, Oklahoma",earthquake,1.5,2.3,,,reviewed,tul,tul
+2018-01-22T01:44:48.060Z,48.0996,-114.1276,10.21,3,ml,,98,0.049,0.85,us,us2000cma6,2018-04-20T07:05:06.040Z,"5 km NW of Bigfork, Montana",earthquake,4.7,8.3,0.057,40,reviewed,us,us
+2018-01-22T10:45:33.300Z,36.153,-97.661,6.647,3.6,ml,,31,,0.18,us,us2000cmec,2018-04-20T07:05:07.040Z,"3 km W of Marshall, Oklahoma",earthquake,1,5.1,,,reviewed,tul,tul
+2018-01-23T06:33:23.900Z,36.9551,-97.3628,8.029,3,ml,,78,,0.14,us,us2000cmwy,2018-04-20T07:05:07.040Z,"4 km NW of Braman, Oklahoma",earthquake,1.6,1.3,,,reviewed,tul,tul
+2018-01-23T06:42:16.700Z,36.9542,-97.3656,7.988,3,ml,,129,,0.19,us,us2000cmx0,2018-04-20T07:05:07.040Z,"4 km NW of Braman, Oklahoma",earthquake,1.3,5.6,,,reviewed,tul,tul
+2018-01-23T21:00:55.290Z,36.4753333,-121.0278333,7.36,3.41,mw,87,93,0.05103,0.1,nc,nc72957626,2018-04-20T07:05:12.040Z,"12km ESE of Pinnacles, CA",earthquake,0.14,0.23,,5,reviewed,nc,nc
+2018-01-24T06:02:33.030Z,36.9373333,-121.661,7.1,3.6,mw,137,47,0.006471,0.13,nc,nc72957816,2019-06-22T13:38:17.433Z,"6km NNW of Aromas, CA",earthquake,0.11,0.2,,6,reviewed,nc,nc
+2018-01-25T10:09:56.810Z,33.741,-117.4911667,11.15,3.97,mw,198,22,0.02263,0.25,ci,ci38092312,2018-07-16T04:20:17.039Z,"12km NE of Trabuco Canyon, CA",earthquake,0.11,0.22,,6,reviewed,ci,ci
+2018-01-26T03:32:08.570Z,42.5327,-111.3893,10,4.4,mwr,,41,0.057,0.73,us,us2000cpkg,2018-07-01T18:40:12.795Z,"5 km NNW of Georgetown, Idaho",earthquake,3.3,2,0.034,82,reviewed,us,us
+2018-01-26T03:35:53.700Z,42.5618,-111.4591,10,3.1,ml,,53,0.107,0.76,us,us2000cpty,2018-04-20T07:05:24.040Z,"11 km NW of Georgetown, Idaho",earthquake,1.7,2,0.047,60,reviewed,us,us
+2018-01-26T05:40:25.640Z,42.5405,-111.3951,10,3.3,ml,,58,0.066,0.43,us,us2000cpmq,2018-04-20T07:05:25.040Z,"6 km NNW of Georgetown, Idaho",earthquake,1.9,1.9,0.055,44,reviewed,us,us
+2018-01-26T19:54:18.110Z,26.7086,-111.0119,14.69,4.4,mb,,133,1.254,1.16,us,us2000cq0x,2018-04-20T07:05:27.040Z,"84 km NNE of Loreto, Mexico",earthquake,3.2,5,0.07,58,reviewed,us,us
+2018-01-27T12:47:56.290Z,33.7411667,-117.4896667,10.55,3.14,ml,192,23,0.02185,0.25,ci,ci38093472,2018-04-20T07:05:30.040Z,"13km NE of Trabuco Canyon, CA",earthquake,0.11,0.24,0.141,326,reviewed,ci,ci
+2018-01-28T20:09:25.100Z,36.8544,-97.4305,5,3,ml,,98,,0.18,us,us2000cqqa,2018-04-20T07:05:34.040Z,"5 km NNE of Nardin, Oklahoma",earthquake,1,2.9,,,reviewed,tul,tul
+2018-01-28T21:23:17.120Z,36.7984,-104.9687,5,3,mb_lg,,67,0.07,0.29,us,us2000cqqu,2018-04-20T07:05:34.040Z,"29 km NNE of Ute Park, New Mexico",earthquake,2.2,1.8,0.061,100,reviewed,us,us
+2018-01-29T22:04:06.850Z,46.3973,-75.3136,18,3,mb_lg,,,,0.82,us,us2000cr6s,2018-04-25T01:39:36.040Z,"22 km SE of Mont-Laurier, Canada",earthquake,3.1,2,,,reviewed,ott,ott
+2018-01-30T19:39:05.160Z,36.9133333,-117.4233333,1.47,3.1,ml,24,106,0.09442,0.16,ci,ci38095368,2018-04-25T01:39:38.040Z,"42km NW of Stovepipe Wells, CA",earthquake,0.18,0.47,0.178,155,reviewed,ci,ci
+2018-01-31T03:34:32.440Z,36.2355,-120.3733333,13.95,3.14,ml,93,32,0.1001,0.1,nc,nc72961611,2018-04-25T01:39:38.040Z,"11km N of Coalinga, CA",earthquake,0.15,0.37,0.191,23,reviewed,nc,nc
+2018-01-31T04:30:06.300Z,31.0466,-109.2363,14.15,3,ml,,124,0.33,0.7,us,us2000crlt,2018-04-25T01:39:38.040Z,"35 km ENE of Fronteras, Mexico",earthquake,4.5,8.4,0.062,34,reviewed,us,us
+2018-02-01T13:31:44.420Z,43.1373,-110.8479,5,3.5,ml,,82,0.225,0.5,us,us1000cdp2,2018-05-11T12:16:53.583Z,"14 km ESE of Alpine, Wyoming",earthquake,1.1,1.9,0.039,85,reviewed,us,us
+2018-02-04T06:57:38.430Z,48.6325,-123.1208333,12.69,3.09,ml,30,41,0.1123,0.27,uw,uw61366651,2018-04-25T01:39:46.040Z,"13 km NW of Friday Harbor, Washington",earthquake,0.36,1.07,0.143,23,reviewed,uw,uw
+2018-02-04T09:39:36.400Z,34.6722,-97.4959,4.425,3.2,ml,,51,,0.52,us,us1000cflq,2018-04-25T01:39:47.040Z,"6 km N of Foster, Oklahoma",earthquake,1.9,5.3,,,reviewed,tul,tul
+2018-02-04T13:27:44.311Z,40.0035,-117.1986,9.4,3.4,ml,50,89.94,0.428,0.183,nn,nn00620603,2018-04-25T01:39:47.040Z,"57 km N of Austin, Nevada",earthquake,,1.3,0.37,33,reviewed,nn,nn
+2018-02-04T22:37:32.230Z,45.1558333,-124.3488333,30.15,3.06,ml,21,155,0.3731,0.41,uw,uw61366781,2018-04-25T01:39:48.040Z,"29 km W of Neskowin, Oregon",earthquake,0.83,2.68,0.117,6,reviewed,uw,uw
+2018-02-05T06:43:15.080Z,36.041,-119.7465,22.46,3.48,mw,57,70,0.295,0.12,nc,nc72964596,2018-05-03T22:14:57.040Z,"18km WSW of Corcoran, CA",earthquake,0.3,0.45,,3,reviewed,nc,nc
+2018-02-05T08:20:51.700Z,36.0325,-97.906,6.411,3.7,mwr,,27,,0.28,us,us1000cfxn,2020-03-20T02:08:07.805Z,"5 km N of Dover, Oklahoma",earthquake,1.2,5.3,0.047,43,reviewed,tul,us
+2018-02-05T08:25:39.400Z,36.0355,-97.9032,6.871,3.2,mwr,,24,,0.28,us,us1000cg26,2018-05-03T22:14:57.040Z,"6 km N of Dover, Oklahoma",earthquake,1.3,1.2,0.038,66,reviewed,tul,us
+2018-02-07T11:11:47.550Z,37.2033,-97.816,5.65,3.1,ml,,92,0.051,0.18,us,us1000ci6k,2018-05-03T22:15:01.040Z,"3 km E of Freeport, Kansas",earthquake,1.1,1.9,0.119,19,reviewed,ismp,ismp
+2018-02-07T16:12:55.000Z,36.0403,-97.8983,3.648,3.2,ml,,24,,0.43,us,us1000cib0,2018-05-03T22:15:02.040Z,"6 km N of Dover, Oklahoma",earthquake,1.2,5.2,,,reviewed,tul,tul
+2018-02-08T12:28:55.800Z,36.0415,-97.8949,3.768,3,ml,,21,,0.11,us,us2000cytw,2018-05-03T22:15:04.040Z,"6 km NNE of Dover, Oklahoma",earthquake,1.3,4.5,,,reviewed,tul,tul
+2018-02-08T13:20:32.600Z,36.0363,-97.9003,5.146,3,ml,,27,,0.2,us,us2000cyuj,2018-05-03T22:15:04.040Z,"6 km N of Dover, Oklahoma",earthquake,1,5.4,,,reviewed,tul,tul
+2018-02-10T01:39:01.340Z,38.808,-122.8175,3.21,3.23,ml,76,29,0.009165,0.07,nc,nc72966896,2018-05-03T22:15:07.040Z,"6km WNW of The Geysers, CA",earthquake,0.14,0.2,0.139,51,reviewed,nc,nc
+2018-02-11T08:28:29.950Z,40.2895,-121.1991667,13.36,3.36,mw,26,86,0.2858,0.17,nc,nc72967671,2019-01-21T04:29:24.719Z,"3km SE of Chester, CA",earthquake,0.43,2.28,,4,reviewed,nc,nc
+2018-02-11T09:02:30.140Z,33.6528333,-117.3418333,3.71,3.52,ml,189,30,0.02461,0.24,ci,ci38106152,2019-09-02T04:16:16.548Z,"2km N of Lakeland Village, CA",earthquake,0.11,0.35,0.145,341,reviewed,ci,ci
+2018-02-11T11:40:26.200Z,36.033,-97.9069,5.911,3.5,ml,,20,,0.15,us,us2000d0is,2018-05-03T22:15:09.040Z,"5 km N of Dover, Oklahoma",earthquake,1,4.6,,,reviewed,tul,tul
+2018-02-11T21:39:05.160Z,31.1738,-103.2893,5,3,ml,,47,0.212,0.71,us,us2000d0n2,2018-05-03T22:15:10.040Z,"22 km WSW of Coyanosa, Texas",earthquake,1.6,1.9,0.091,62,reviewed,us,us
+2018-02-12T14:24:49.900Z,29.0077,-97.9173,5,3.1,mb_lg,,118,0.179,0.56,us,us2000d0xm,2018-07-24T19:01:32.506Z,"10 km ENE of Falls City, Texas",earthquake,2.4,2,0.065,62,reviewed,us,us
+2018-02-13T03:34:37.000Z,36.0361,-97.9017,4.599,3.2,ml,,18,,0.84,us,us2000d1ad,2018-05-15T06:29:03.040Z,"6 km N of Dover, Oklahoma",earthquake,1.5,5.3,,,reviewed,tul,tul
+2018-02-15T01:47:35.580Z,34.0448333,-117.14,13.38,3.34,ml,155,20,0.02474,0.19,ci,ci38109080,2018-05-15T06:29:07.040Z,"3km S of Mentone, CA",earthquake,0.11,0.25,0.132,305,reviewed,ci,ci
+2018-02-15T11:35:24.050Z,36.1803333,-117.851,1.9,3.31,ml,33,53,0.0627,0.14,ci,ci38109320,2018-05-15T06:29:08.040Z,"17km NNE of Coso Junction, CA",earthquake,0.14,0.28,0.142,274,reviewed,ci,ci
+2018-02-16T07:16:06.300Z,36.5355,-98.9648,6.753,3.4,ml,,187,,0.47,us,us2000d32t,2018-05-15T06:29:10.040Z,"9 km SW of Waynoka, Oklahoma",earthquake,3.2,6.4,,,reviewed,tul,tul
+2018-02-16T13:21:09.000Z,36.5336,-98.9685,6.904,3.7,mwr,,148,,0.44,us,us2000d36z,2018-05-15T06:29:10.040Z,"9 km SW of Waynoka, Oklahoma",earthquake,2.2,3.1,,17,reviewed,tul,slm
+2018-02-16T15:53:06.900Z,36.9554,-99.3476,2.882,3.1,ml,,195,,0.56,us,us2000d38m,2018-05-15T06:29:10.040Z,"28 km ENE of Buffalo, Oklahoma",earthquake,2.3,5.8,,,reviewed,tul,tul
+2018-02-16T23:08:35.200Z,35.6892,-97.3031,5.568,3.2,ml,,44,,0.31,us,us2000d3jx,2018-05-15T06:29:11.040Z,"3 km NE of Arcadia, Oklahoma",earthquake,1.3,2.9,,,reviewed,tul,tul
+2018-02-18T04:44:48.600Z,35.7914,-98.5748,2.281,3.2,ml,,101,,0.54,us,us2000d426,2018-05-15T06:29:14.040Z,"15 km WSW of Watonga, Oklahoma",earthquake,1.6,4.5,,,reviewed,tul,tul
+2018-02-18T05:37:46.530Z,44.746,-110.9903333,9.89,3.11,md,32,67,0.01746,0.19,uu,uu60269347,2018-05-15T06:29:14.040Z,"12 km NE of West Yellowstone, Montana",earthquake,0.33,0.53,0.364,14,reviewed,uu,uu
+2018-02-18T15:29:16.260Z,44.7446667,-110.9973333,9.83,3.12,ml,28,63,0.01595,0.19,uu,uu60269997,2018-05-15T06:29:15.040Z,"12 km NE of West Yellowstone, Montana",earthquake,0.36,0.63,0.096,5,reviewed,uu,uu
+2018-02-19T22:04:32.860Z,28.9711,-97.9398,5,3,mb_lg,,109,0.163,0.73,us,us2000d4zq,2018-05-22T02:00:18.040Z,"7 km E of Falls City, Texas",earthquake,3.1,2,0.084,37,reviewed,us,us
+2018-02-20T10:22:30.000Z,31.7986667,-116.1098333,10.68,3.56,ml,19,134,0.2474,0.24,ci,ci38112440,2018-05-22T02:00:19.040Z,"44km ENE of Maneadero, B.C., MX",earthquake,0.41,1.61,0.128,229,reviewed,ci,ci
+2018-02-21T00:18:36.900Z,36.1239,-97.8153,7.394,3.4,ml,,52,,0.23,us,us2000d5n0,2018-05-22T02:00:20.040Z,"7 km ENE of Hennessey, Oklahoma",earthquake,1.1,5.3,,,reviewed,tul,tul
+2018-02-22T09:54:50.400Z,36.2298,-97.3408,8.201,3.1,ml,,25,,0.54,us,us2000d6be,2018-05-22T02:00:22.040Z,"8 km SW of Perry, Oklahoma",earthquake,2.8,7.7,,,reviewed,tul,tul
+2018-02-23T06:54:29.701Z,38.0274,-115.2493,14.3,3.2,ml,21,48.81,0.549,0.1396,nn,nn00622844,2018-05-22T02:00:23.040Z,"47 km N of Hiko, Nevada",earthquake,,2.1,0.39,30,reviewed,nn,nn
+2018-02-23T13:28:40.520Z,37.8256667,-121.9793333,6.93,3.31,mw,148,34,0.01943,0.2,nc,nc72974586,2018-09-12T13:22:28.818Z,"2km ENE of Danville, CA",earthquake,0.12,0.17,,4,reviewed,nc,nc
+2018-02-23T20:19:24.790Z,37.8285,-121.9818333,5.98,3.39,mw,103,40,0.02094,0.16,nc,nc72974771,2018-05-22T02:00:24.040Z,"2km ENE of Danville, CA",earthquake,0.14,0.18,,3,reviewed,nc,nc
+2018-02-23T20:19:39.660Z,37.8263333,-121.9845,6.16,3.51,mw,137,25,0.01812,0.18,nc,nc72974766,2021-02-22T05:55:40.617Z,"2km ENE of Danville, CA",earthquake,0.12,0.16,,3,reviewed,nc,nc
+2018-02-24T11:55:45.300Z,36.913,-97.6509,7.686,3.6,ml,,48,,0.16,us,us2000d7dc,2019-01-16T05:12:22.446Z,"1 km SSE of Renfrow, Oklahoma",earthquake,1.1,1.3,,,reviewed,tul,tul
+2018-02-24T21:02:19.160Z,37.338,-117.907,6.1,3.51,ml,54,92,0.2976,0.11,nc,nc72975536,2018-05-22T02:00:26.040Z,"8km ESE of Deep Springs, CA",earthquake,0.35,0.9,0.244,38,reviewed,nc,nc
+2018-02-24T21:06:51.300Z,36.4519,-98.771,8.133,3.3,ml,,76,,0.71,us,us2000d7hi,2018-05-22T02:00:26.040Z,"17 km SE of Waynoka, Oklahoma",earthquake,1.5,8,,,reviewed,tul,tul
+2018-02-25T06:51:17.660Z,37.2387,-104.821,5,3.5,mwr,,63,0.12,0.69,us,us2000d7lc,2018-05-22T02:00:26.040Z,"12 km NNE of Weston, Colorado",earthquake,2.8,1.6,0.056,31,reviewed,us,us
+2018-02-25T08:04:52.200Z,36.7557,-97.5248,8.174,3,ml,,70,,0.13,us,us2000d7md,2018-05-22T02:00:26.040Z,"5 km S of Deer Creek, Oklahoma",earthquake,1,10.1,,,reviewed,tul,tul
+2018-02-25T15:10:21.400Z,44.7535,-110.9953333,6.3,3.04,ml,18,96,0.009669,0.18,uu,uu60272617,2018-05-22T02:00:27.040Z,"13 km NE of West Yellowstone, Montana",earthquake,0.43,0.87,0.281,5,reviewed,uu,uu
+2018-02-26T04:44:54.500Z,26.1169,-92.1408,10,4.3,mb,,90,4.707,0.85,us,us2000d7y1,2018-05-27T01:06:01.040Z,"Gulf of Mexico",earthquake,5.7,1.9,0.072,55,reviewed,us,us
+2018-02-26T07:46:25.700Z,36.2086,-97.4246,8,3,ml,,44,,0.29,us,us2000d809,2018-05-27T01:06:01.040Z,"7 km SSE of Lucien, Oklahoma",earthquake,1.1,8.6,,,reviewed,tul,tul
+2018-02-26T18:44:41.990Z,33.4825,-116.5036667,12.59,3.66,ml,141,18,0.07686,0.2,ci,ci38116288,2018-05-27T01:06:02.040Z,"18km ESE of Anza, CA",earthquake,0.11,0.21,0.13,305,reviewed,ci,ci
+2018-02-27T06:53:47.940Z,30.7243,-109.2485,10,3.4,ml,,78,0.438,0.75,us,us2000d8n9,2018-05-27T01:06:03.040Z,"32 km E of Esqueda, Mexico",earthquake,1.9,2,0.057,40,reviewed,us,us
+2018-02-28T14:11:47.490Z,37.6701667,-112.5306667,11.44,3.64,ml,30,51,0.2855,0.22,uu,uu60272922,2021-05-05T21:05:25.070Z,"8 km WNW of Hatch, Utah",earthquake,0.4,0.98,0.115,19,reviewed,uu,uu
+2018-03-01T05:10:47.800Z,35.6888,-97.3051,5.248,3.7,ml,,38,,0.26,us,us2000d9jj,2020-03-20T02:08:33.052Z,"3 km NE of Arcadia, Oklahoma",earthquake,0.8,2.2,,,reviewed,tul,tul
+2018-03-01T10:00:17.900Z,36.679,-121.2756667,5.01,3.39,ml,61,93,0.07489,0.08,nc,nc72977826,2018-05-27T01:06:07.040Z,"13km SSE of Tres Pinos, CA",earthquake,0.13,0.6,0.183,37,reviewed,nc,nc
+2018-03-01T20:26:59.230Z,38.042,-97.9875,5,3.1,mb_lg,,101,0.684,0.34,us,us2000d9wn,2020-03-20T02:08:55.504Z,"4 km WNW of South Hutchinson, Kansas",earthquake,1.8,1.9,0.049,110,reviewed,us,us
+2018-03-02T15:25:23.220Z,36.582,-121.1283333,9.09,3.06,ml,76,75,0.05021,0.09,nc,nc72978276,2018-05-27T01:06:09.040Z,"6km NNE of Pinnacles, CA",earthquake,0.14,0.22,0.245,22,reviewed,nc,nc
+2018-03-04T23:17:17.400Z,36.478,-97.7411,8.103,4.2,mwr,,104,,0.43,us,us2000dc7w,2020-07-10T17:08:09.724Z,"4 km N of Breckinridge, Oklahoma",earthquake,2.4,8.6,0.043,51,reviewed,tul,us
+2018-03-05T03:40:59.200Z,36.4833,-97.7491,8.229,4.2,mwr,,104,,0.82,us,us2000dca2,2020-07-10T17:08:20.427Z,"5 km NNW of Breckinridge, Oklahoma",earthquake,1.9,5.7,0.039,63,reviewed,tul,us
+2018-03-05T06:35:19.600Z,36.4845,-97.7621,8.209,3,ml,,104,,0.29,us,us2000dcb4,2018-06-08T05:12:09.040Z,"5 km NNW of Breckinridge, Oklahoma",earthquake,1.3,8.5,,,reviewed,tul,tul
+2018-03-06T12:38:16.730Z,37.0016667,-121.4613333,8.23,3.31,mw,127,42,0.03008,0.1,nc,nc72979736,2020-06-05T23:16:27.982Z,"10km E of Gilroy, CA",earthquake,0.09,0.24,,4,reviewed,nc,nc
+2018-03-06T19:46:12.700Z,36.9111,-98.328,7.743,3.8,mwr,,95,,0.57,us,us2000dd9j,2018-06-08T05:12:12.040Z,"3 km WNW of Byron, Oklahoma",earthquake,1.7,4.4,0.068,21,reviewed,tul,us
+2018-03-07T18:05:00.420Z,35.4871667,-120.0265,7.99,3.69,mw,52,34,0.1744,0.27,ci,ci37889959,2018-07-27T03:37:38.496Z,"15km N of Simmler, CA",earthquake,0.28,1.52,,6,reviewed,ci,ci
+2018-03-08T08:08:29.440Z,35.5585,-120.8688333,7.38,3.22,ml,75,119,0.07731,0.06,nc,nc72980896,2018-06-08T05:12:15.040Z,"13km N of Cayucos, CA",earthquake,0.16,0.62,0.107,24,reviewed,nc,nc
+2018-03-08T10:48:21.430Z,38.0535,-97.9539,10.63,3.4,mb_lg,,103,0.7,0.34,us,us1000d1e5,2020-01-19T20:46:05.156Z,"2 km WSW of Hutchinson, Kansas",earthquake,2.2,8.4,0.042,146,reviewed,us,us
+2018-03-09T06:01:28.350Z,40.2918333,-124.5423333,15.09,4.48,mw,26,253,0.1975,0.13,nc,nc72981481,2018-06-08T05:12:16.040Z,"22km W of Petrolia, CA",earthquake,1.17,0.39,,4,reviewed,nc,nc
+2018-03-09T06:16:45.500Z,36.4509,-98.7673,7.245,3.6,ml,,76,,1.38,us,us1000d20h,2018-06-08T05:12:16.040Z,"17 km SE of Waynoka, Oklahoma",earthquake,2.6,6.4,,,reviewed,tul,tul
+2018-03-09T20:32:47.300Z,36.4891,-97.7531,5.715,3.1,ml,,35,,0.17,us,us1000d2gn,2018-06-08T05:12:17.040Z,"6 km NNW of Breckinridge, Oklahoma",earthquake,1.1,2.9,,,reviewed,tul,tul
+2018-03-10T20:37:25.500Z,36.8425,-98.2396,6.311,3,ml,,90,,0.23,us,us1000d2v4,2018-06-08T05:12:19.040Z,"8 km SE of Byron, Oklahoma",earthquake,1.1,1.6,,,reviewed,tul,tul
+2018-03-10T22:20:38.960Z,32.2101667,-115.3225,15.41,3.09,ml,29,259,0.2093,0.29,ci,ci37891767,2018-07-27T03:44:55.536Z,"14km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.86,0.95,0.171,168,reviewed,ci,ci
+2018-03-11T12:45:22.130Z,33.1778333,-116.0291667,8.9,3.56,ml,99,27,0.1083,0.2,ci,ci37892055,2018-07-27T02:27:58.386Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.12,0.52,0.121,315,reviewed,ci,ci
+2018-03-11T18:09:08.410Z,36.9436667,-121.441,2.84,3.42,ml,108,60,0.04949,0.09,nc,nc72982551,2018-11-02T13:30:37.341Z,"11km NNW of Hollister, CA",earthquake,0.09,0.31,0.124,47,reviewed,nc,nc
+2018-03-13T10:07:59.400Z,46.8931,-112.5784,19.27,3,ml,,99,0.081,0.44,us,us1000d3ts,2018-06-11T21:53:42.040Z,"10 km SE of Lincoln, Montana",earthquake,2,4.8,0.052,48,reviewed,us,us
+2018-03-15T17:47:01.970Z,31.151,-103.2466,5,3,ml,,70,0.24,0.41,us,us1000d4us,2018-06-11T21:53:46.040Z,"20 km WSW of Coyanosa, Texas",earthquake,1.7,2,0.088,58,reviewed,us,us
+2018-03-16T04:08:01.540Z,33.9563333,-116.3191667,8.31,3.09,ml,97,30,0.0761,0.15,ci,ci37894911,2018-07-27T03:19:01.667Z,"16km NNE of Thousand Palms, CA",earthquake,0.1,0.34,0.167,277,reviewed,ci,ci
+2018-03-16T10:59:41.600Z,36.7131,-99.386,4.312,3,ml,,102,,0.45,us,us1000d55w,2018-06-11T21:53:47.040Z,"22 km NE of Fort Supply, Oklahoma",earthquake,2.1,6.2,,,reviewed,tul,tul
+2018-03-19T23:36:41.520Z,31.0935,-114.275,10,4.8,mwr,,111,0.497,0.84,us,us1000d760,2018-07-27T03:58:26.430Z,"54 km E of San Felipe, Mexico",earthquake,4.6,1.9,0.037,72,reviewed,us,us
+2018-03-19T23:56:10.310Z,31.005,-114.2547,10,4,mb,,150,0.512,0.91,us,us1000d76f,2018-07-27T03:47:23.484Z,"55 km E of San Felipe, Mexico",earthquake,5.6,2,0.085,37,reviewed,us,us
+2018-03-20T23:24:56.500Z,36.4534,-98.7699,8.229,3.4,ml,,48,,0.65,us,us1000d6y7,2018-06-19T01:35:45.040Z,"17 km SE of Waynoka, Oklahoma",earthquake,1.7,6,,,reviewed,tul,tul
+2018-03-21T18:04:42.900Z,35.9725,-97.7941,6.204,3,ml,,33,,0.36,us,us1000d74k,2018-06-19T01:35:46.040Z,"10 km E of Dover, Oklahoma",earthquake,1.7,5.2,,,reviewed,tul,tul
+2018-03-22T00:27:44.650Z,38.4173333,-111.656,16.44,3.05,ml,29,72,0.3587,0.2,uu,uu60274867,2018-06-19T01:35:47.040Z,"1 km NW of Loa, Utah",earthquake,0.39,0.75,0.119,16,reviewed,uu,uu
+2018-03-22T13:21:33.690Z,38.4205,-111.657,16.85,3.15,ml,23,72,0.3613,0.19,uu,uu60274927,2018-06-19T01:35:47.040Z,"2 km NNW of Loa, Utah",earthquake,0.35,0.8,0.078,18,reviewed,uu,uu
+2018-03-22T16:24:49.560Z,40.7513333,-124.3891667,24.52,4.42,mw,34,197,0.1522,0.11,nc,nc72988726,2020-03-22T18:24:35.603Z,"17km W of Humboldt Hill, CA",earthquake,0.47,0.6,,3,reviewed,nc,nc
+2018-03-22T22:57:55.810Z,36.2328333,-117.5685,0.79,3.04,ml,36,40,0.04304,0.15,ci,ci37898863,2018-07-27T04:08:17.423Z,"40km E of Olancha, CA",earthquake,0.15,0.26,0.154,26,reviewed,ci,ci
+2018-03-23T01:43:09.600Z,35.8653,-96.6804,6.046,3,ml,,41,,0.41,us,us1000d7sv,2018-06-19T01:35:48.040Z,"10 km WSW of Shamrock, Oklahoma",earthquake,2.2,5.9,,,reviewed,tul,tul
+2018-03-23T03:09:39.100Z,40.4278333,-124.5108333,25.19,4.66,mw,31,247,0.1406,0.15,nc,nc72988926,2018-06-19T01:35:48.040Z,"22km WNW of Petrolia, CA",earthquake,0.49,0.5,,4,reviewed,nc,nc
+2018-03-23T08:49:25.840Z,35.3965,-117.825,7.67,3.06,ml,49,38,0.1299,0.14,ci,ci37899039,2018-07-27T03:45:29.899Z,"18km W of Johannesburg, CA",earthquake,0.13,0.71,0.213,163,reviewed,ci,ci
+2018-03-24T07:06:02.900Z,36.4849,-97.7577,7.368,3.1,ml,,35,,0.11,us,us1000d8il,2018-06-19T01:35:50.040Z,"5 km NNW of Breckinridge, Oklahoma",earthquake,1.1,5.5,,,reviewed,tul,tul
+2018-03-24T08:19:47.500Z,36.6963,-97.6853,8.475,3.3,ml,,49,,0.19,us,us1000d8j1,2018-06-19T01:35:50.040Z,"9 km ESE of Jefferson, Oklahoma",earthquake,0.7,8.5,,,reviewed,tul,tul
+2018-03-24T13:30:56.200Z,36.9938,-97.4917,6.718,3.2,ml,,79,,0.33,us,us1000d8l4,2018-06-19T01:35:51.040Z,"7 km W of Hunnewell, Kansas",earthquake,1.4,3.8,,,reviewed,tul,tul
+2018-03-24T17:07:57.000Z,36.8455,-97.7005,7.565,3,ml,,39,,0.21,us,us1000d8mm,2018-06-19T01:35:51.040Z,"5 km NE of Medford, Oklahoma",earthquake,1.1,3.6,,,reviewed,tul,tul
+2018-03-31T14:33:39.330Z,36.8596667,-121.5915,6.24,3.02,ml,92,35,0.002196,0.1,nc,nc72992330,2018-06-22T21:32:18.040Z,"5km WNW of San Juan Bautista, CA",earthquake,0.11,0.22,0.192,35,reviewed,nc,nc
+2018-04-01T01:34:49.700Z,35.378,-98.092,7.15,3.1,ml,,40,,0.64,us,us1000dc0b,2018-06-22T21:32:19.040Z,"13 km W of Union City, Oklahoma",earthquake,4.9,5,,,reviewed,tul,tul
+2018-04-02T02:53:54.670Z,33.4925,-116.8045,2.91,3.37,mw,158,27,0.09185,0.24,ci,ci37904927,2018-07-27T04:02:38.134Z,"8km NE of Aguanga, CA",earthquake,0.1,0.46,,4,reviewed,ci,ci
+2018-04-03T08:07:01.000Z,36.0865,-97.5442,6.283,3.1,ml,,20,,0.21,us,us1000ddik,2018-06-30T01:11:26.040Z,"10 km SE of Marshall, Oklahoma",earthquake,1,2.1,,,reviewed,tul,tul
+2018-04-03T20:26:38.720Z,38.417,-111.6611667,8.07,3.45,ml,30,72,0.3618,0.24,uu,uu60276212,2021-05-05T21:05:28.630Z,"2 km NW of Loa, Utah",earthquake,0.44,1.17,0.091,21,reviewed,uu,uu
+2018-04-04T00:16:52.930Z,38.2929,-118.513,9.2,3,ml,29,46.4,0.042,0.1436,nn,nn00628994,2018-06-30T01:11:27.040Z,"27 km SSE of Hawthorne, Nevada",earthquake,,0.7,0.41,11,reviewed,nn,nn
+2018-04-04T18:17:12.700Z,36.4665,-96.8674,4.5,3.6,ml,,38,,0.33,us,us1000de9d,2018-06-30T01:11:28.040Z,"12 km WSW of Ralston, Oklahoma",earthquake,0.8,2.6,,,reviewed,tul,tul
+2018-04-05T00:23:14.970Z,32.6268333,-115.7458333,10.53,3.11,ml,75,78,0.0278,0.29,ci,ci37907887,2018-07-27T03:28:33.303Z,"16km WNW of Progreso, B.C., MX",earthquake,0.28,0.5,0.205,18,reviewed,ci,ci
+2018-04-05T08:51:40.900Z,36.4671,-96.8676,5.004,3.5,ml,,39,,0.25,us,us2000duvg,2018-06-30T01:11:29.040Z,"12 km WSW of Ralston, Oklahoma",earthquake,1.7,4.9,,,reviewed,tul,tul
+2018-04-05T19:29:16.500Z,33.8375,-119.7258333,9.87,5.29,mw,90,129,0.1747,0.31,ci,ci37908735,2021-06-14T14:36:40.576Z,"29km SW of Santa Cruz Is. (E end), CA",earthquake,0.28,31.61,,6,reviewed,ci,ci
+2018-04-06T15:05:26.600Z,36.2831,-97.5084,7.996,3,ml,,57,,0.18,us,us2000dvl9,2018-06-30T01:11:31.040Z,"4 km W of Lucien, Oklahoma",earthquake,0.9,10.1,,,reviewed,tul,tul
+2018-04-06T15:07:12.900Z,36.2854,-97.5106,6.292,3.9,mwr,,25,,0.11,us,us2000dvlb,2020-03-20T02:10:32.620Z,"5 km WNW of Lucien, Oklahoma",earthquake,2.7,8.6,0.042,54,reviewed,tul,us
+2018-04-06T15:21:31.500Z,36.2884,-97.5152,8.169,3,ml,,33,,0.24,us,us2000dvly,2018-06-30T01:11:31.040Z,"5 km WNW of Lucien, Oklahoma",earthquake,1.1,8.7,,,reviewed,tul,tul
+2018-04-07T07:22:58.620Z,42.5828,-111.4384,8.23,3.4,ml,,56,0.117,0.37,us,us2000dvxy,2018-06-30T01:11:32.040Z,"12 km NNW of Georgetown, Idaho",earthquake,1.5,10.4,0.041,78,reviewed,us,us
+2018-04-07T07:37:15.640Z,38.8265,-122.7676667,0.76,3.49,mw,85,36,0.004336,0.07,nc,nc72996311,2018-06-30T01:11:32.040Z,"4km W of Cobb, CA",earthquake,0.07,0.11,,3,reviewed,nc,nc
+2018-04-07T09:48:03.500Z,36.2189,-97.5735,6.271,3.3,ml,,23,,0.16,us,us2000dvz7,2018-06-30T01:11:32.040Z,"8 km NNE of Marshall, Oklahoma",earthquake,1.1,0.7,,,reviewed,tul,tul
+2018-04-07T12:16:03.300Z,36.2896,-97.5166,5.791,4.6,mww,,25,,0.16,us,us2000dw0r,2020-03-20T02:10:54.307Z,"5 km WNW of Lucien, Oklahoma",earthquake,0.7,5.2,0.068,21,reviewed,tul,us
+2018-04-07T12:23:23.800Z,36.2871,-97.5092,7.266,3.7,ml,,25,,0.16,us,us2000dw3j,2018-06-30T01:11:33.040Z,"5 km WNW of Lucien, Oklahoma",earthquake,1,4.7,,,reviewed,tul,tul
+2018-04-07T13:50:15.160Z,40.2838333,-124.991,11.16,3.28,ml,17,306,0.5347,0.27,nc,nc72996581,2018-06-30T01:11:33.040Z,"60km W of Petrolia, CA",earthquake,1.14,1.1,0.281,11,reviewed,nc,nc
+2018-04-07T16:21:21.400Z,35.6721,-97.4039,6.916,3.5,ml,,20,,0.2,us,us2000dw3h,2020-03-20T02:11:14.104Z,"7 km W of Arcadia, Oklahoma",earthquake,1,3,,,reviewed,tul,tul
+2018-04-08T02:37:41.389Z,40.7885,-115.9622,1.1,3,ml,12,138.76,0.315,0.1507,nn,nn00629607,2018-06-30T01:11:34.040Z,"14 km NE of Carlin, Nevada",earthquake,,4.7,0.33,9,reviewed,nn,nn
+2018-04-08T07:25:32.970Z,37.199,-97.7747,6.21,3.5,ml,,98,0.047,0.25,us,us2000dwcj,2020-03-20T02:11:30.517Z,"7 km E of Freeport, Kansas",earthquake,1.6,2.5,0.155,17,reviewed,ismp,ismp
+2018-04-08T22:26:24.500Z,36.2982,-97.5311,6.796,3.1,ml,,25,,0.83,us,us2000dwn4,2018-06-30T01:11:35.040Z,"5 km ESE of Covington, Oklahoma",earthquake,1.4,5.4,,,reviewed,tul,tul
+2018-04-09T03:52:40.850Z,36.5661667,-121.1536667,3.92,3.3,ml,69,74,0.02614,0.08,nc,nc72997156,2018-07-07T02:25:14.040Z,"4km NNW of Pinnacles, CA",earthquake,0.13,0.26,0.189,32,reviewed,nc,nc
+2018-04-09T07:31:59.520Z,34.2433333,-117.458,11.64,3.23,ml,223,14,0.0223,0.21,ci,ci37911423,2018-07-27T03:58:56.680Z,"4km ESE of Lytle Creek, CA",earthquake,0.1,0.22,0.121,337,reviewed,ci,ci
+2018-04-09T09:26:31.200Z,36.2151,-97.5686,6.35,3.1,mwr,,23,,0.18,us,us2000dwsz,2020-03-20T02:11:47.213Z,"8 km NE of Marshall, Oklahoma",earthquake,1.1,0.8,,18,reviewed,tul,slm
+2018-04-09T09:33:49.240Z,41.3368,-100.1394,5,3.3,mwr,,60,1.392,0.81,us,us2000dwt7,2018-07-07T02:25:15.040Z,"10 km SSE of Arnold, Nebraska",earthquake,3,2,0.103,9,reviewed,us,us
+2018-04-09T10:22:20.300Z,36.2185,-97.5735,4.935,4.6,mww,,23,,0.25,us,us2000dwui,2020-03-20T02:12:09.267Z,"8 km NNE of Marshall, Oklahoma",earthquake,0.9,3.2,0.059,28,reviewed,tul,us
+2018-04-10T07:19:53.879Z,41.0338,-117.4406,11.2,3,ml,24,108.53,0.625,0.1752,nn,nn00629921,2018-07-07T02:25:16.040Z,"Nevada",earthquake,,2.8,0.23,17,reviewed,nn,nn
+2018-04-10T07:32:37.450Z,46.8784,-112.5632,14.06,3.1,ml,,116,0.208,0.42,us,us2000dxj1,2018-07-07T02:25:16.040Z,"12 km SE of Lincoln, Montana",earthquake,4.8,8.3,0.128,8,reviewed,us,us
+2018-04-10T10:42:28.990Z,48.6466,-114.7917,11.47,3.3,ml,,140,1.035,0.73,us,us2000dxj2,2018-07-07T02:25:16.040Z,"3 km SSW of Stryker, Montana",earthquake,5.5,8.4,0.05,52,reviewed,us,us
+2018-04-10T11:23:53.540Z,28.9758,-113.2809,10,4,mb,,166,2.042,1.33,us,us2000dxgx,2018-07-07T02:25:16.040Z,"75 km NE of San Luis, Mexico",earthquake,7.5,2,0.232,5,reviewed,us,us
+2018-04-10T11:41:09.080Z,41.3484,-100.1193,5,3.7,mwr,,60,1.377,0.56,us,us2000dxhc,2018-07-07T02:25:16.040Z,"10 km SE of Arnold, Nebraska",earthquake,2.1,2,,12,reviewed,us,slm
+2018-04-10T13:23:06.320Z,34.1381667,-117.4238333,4.05,3.01,ml,166,12,0.03393,0.21,ci,ci37912351,2018-08-29T06:19:14.117Z,"6km NE of Fontana, CA",earthquake,0.1,0.26,0.172,296,reviewed,ci,ci
+2018-04-10T15:49:10.330Z,41.401,-100.1575,5,3.1,mb_lg,,61,1.335,0.26,us,us2000dxjt,2018-07-07T02:25:16.040Z,"3 km SE of Arnold, Nebraska",earthquake,2.5,2,0.055,86,reviewed,us,us
+2018-04-13T00:11:07.400Z,44.8089,-112.35,10,3.5,ml,,58,0.598,0.58,us,us2000dzal,2018-07-07T02:25:20.040Z,"27 km NE of Lima, Montana",earthquake,3.2,2,0.048,58,reviewed,us,us
+2018-04-13T02:47:50.710Z,34.8525,-116.3971667,1.12,3.29,ml,69,67,0.05609,0.17,ci,ci38148144,2018-07-27T03:32:00.720Z,"26km NW of Ludlow, CA",earthquake,0.1,0.21,0.159,296,reviewed,ci,ci
+2018-04-13T15:24:46.040Z,35.392,-118.5445,4.77,3.69,mw,89,31,0.1426,0.16,ci,ci38148312,2018-07-27T03:36:36.728Z,"22km SSW of Bodfish, CA",earthquake,0.12,0.59,,4,reviewed,ci,ci
+2018-04-14T02:46:34.090Z,38.0247,-97.9926,5,3.2,mb_lg,,94,0.691,0.74,us,us2000e02p,2020-03-20T02:12:29.037Z,"4 km W of South Hutchinson, Kansas",earthquake,2,1.9,0.044,133,reviewed,us,us
+2018-04-15T03:45:41.250Z,44.9455,-122.7558333,18.38,3.08,ml,36,41,0.1508,0.23,uw,uw61363027,2019-03-06T18:00:54.748Z,"6 km SSE of Silverton, Oregon",earthquake,0.33,1.1,0.172,24,reviewed,uw,uw
+2018-04-16T16:36:48.880Z,35.0435,-119.0423333,7.73,3.78,mw,69,41,0.1478,0.31,ci,ci38149752,2018-07-27T03:30:44.409Z,"15km NW of Grapevine, CA",earthquake,0.22,0.96,,4,reviewed,ci,ci
+2018-04-16T16:39:26.470Z,37.4346667,-121.773,9.31,3.82,mw,216,31,0.02682,0.12,nc,nc73000196,2019-10-15T05:56:34.156Z,"9km NNE of Alum Rock, CA",earthquake,0.07,0.16,,6,reviewed,nc,nc
+2018-04-16T21:48:46.950Z,41.3706,-100.1203,5,3.1,mb_lg,,60,1.356,0.58,us,us2000e17f,2018-07-17T02:05:28.040Z,"8 km SE of Arnold, Nebraska",earthquake,5.2,2,0.061,71,reviewed,us,us
+2018-04-17T08:57:59.200Z,35.7812,-98.576,2.863,3.1,ml,,41,,0.34,us,us2000e1ev,2018-07-17T02:05:28.040Z,"16 km ENE of Thomas, Oklahoma",earthquake,1.2,3.4,,,reviewed,tul,tul
+2018-04-17T11:11:14.230Z,46.8924,-112.5309,14.48,3.8,mwr,,57,0.182,0.73,us,us2000e1ga,2018-07-17T02:05:28.040Z,"13 km ESE of Lincoln, Montana",earthquake,4.3,10.8,0.083,14,reviewed,us,us
+2018-04-17T22:59:24.170Z,46.6803,-75.6085,18,3.4,mb_lg,,,,0.94,us,us1000dqct,2018-07-17T02:05:29.040Z,"12 km W of Ferme-Neuve, Canada",earthquake,3.3,2,,,reviewed,ott,ott
+2018-04-19T06:36:34.900Z,36.4506,-98.7849,6.355,3.6,mwr,,66,,0.28,us,us1000dngm,2018-07-17T02:05:31.040Z,"16 km SSE of Waynoka, Oklahoma",earthquake,1.9,0.7,0.05,39,reviewed,tul,us
+2018-04-19T07:20:05.600Z,36.036,-97.9043,5.88,3.5,ml,,26,,0.17,us,us1000dnhf,2018-07-17T02:05:31.040Z,"6 km N of Dover, Oklahoma",earthquake,1.1,0.7,,,reviewed,tul,tul
+2018-04-19T10:32:44.000Z,36.0386,-97.9022,5.6,3.1,ml,,27,,0.18,us,us1000dnjq,2018-07-17T02:05:31.040Z,"6 km N of Dover, Oklahoma",earthquake,1,5.3,,,reviewed,tul,tul
+2018-04-19T13:15:04.240Z,41.3423,-100.1495,5,3.3,mb_lg,,60,1.389,0.86,us,us1000dnku,2018-07-17T02:05:31.040Z,"9 km SSE of Arnold, Nebraska",earthquake,3.5,1.3,0.045,129,reviewed,us,us
+2018-04-20T00:01:35.350Z,42.1181,-83.015,2.7,3.4,mwr,,27,0.51,0.73,us,us1000dny9,2019-03-11T00:32:11.159Z,"Michigan",earthquake,1.7,2.9,0.098,10,reviewed,us,us
+2018-04-20T19:28:49.100Z,36.9451,-97.6185,5.546,3.6,mwr,,59,,0.27,us,us1000dpi1,2018-07-17T02:05:33.040Z,"3 km ENE of Renfrow, Oklahoma",earthquake,1.1,2,0.048,42,reviewed,tul,us
+2018-04-20T19:33:54.800Z,36.9424,-97.6323,5.863,3,ml,,66,,0.21,us,us1000dqsd,2018-07-17T02:05:33.040Z,"2 km NE of Renfrow, Oklahoma",earthquake,1.7,2.4,,,reviewed,tul,tul
+2018-04-20T19:53:34.100Z,36.9394,-97.6233,5,3.1,ml,,57,,0.39,us,us1000dpj2,2018-07-17T02:05:33.040Z,"3 km ENE of Renfrow, Oklahoma",earthquake,1,1.8,,,reviewed,tul,tul
+2018-04-21T14:26:02.100Z,36.1252,-97.2366,5.233,3,ml,,30,,0.16,us,us1000dpwd,2021-02-05T18:01:06.551Z,"13 km ESE of Orlando, Oklahoma",earthquake,1.2,2.7,,,reviewed,tul,tul
+2018-04-22T05:23:27.080Z,36.1971667,-120.779,5.25,3.11,ml,88,83,0.02596,0.11,nc,nc73002681,2018-07-17T02:05:35.040Z,"23km NNE of San Ardo, CA",earthquake,0.14,0.24,0.153,25,reviewed,nc,nc
+2018-04-22T16:04:16.550Z,37.475,-118.5535,13.55,3.6,mw,47,44,0.09967,0.07,nc,nc73002966,2019-04-15T19:50:09.517Z,"8km NNE of Round Valley, CA",earthquake,0.24,0.51,,5,reviewed,nc,nc
+2018-04-23T00:46:08.900Z,33.921,-116.3216667,8.25,3.87,mw,101,27,0.07503,0.15,ci,ci37920791,2018-07-27T03:26:57.191Z,"13km NNE of Thousand Palms, CA",earthquake,0.09,0.32,,4,reviewed,ci,ci
+2018-04-24T13:17:48.000Z,36.4642,-96.8665,5,3.4,ml,,39,,0.26,us,us1000dr8r,2018-07-25T21:36:23.040Z,"12 km WSW of Ralston, Oklahoma",earthquake,1,2,,,reviewed,tul,tul
+2018-04-25T14:46:21.500Z,36.947,-97.6251,6.908,3,ml,,59,,0.18,us,us1000ds1c,2018-07-25T21:36:42.040Z,"3 km NE of Renfrow, Oklahoma",earthquake,1.3,7.1,,,reviewed,tul,tul
+2018-04-25T14:52:58.700Z,36.9404,-97.6368,4.217,3,ml,,40,,0.19,us,us1000ds1l,2018-07-25T21:36:42.040Z,"2 km NE of Renfrow, Oklahoma",earthquake,1.1,5.3,,,reviewed,tul,tul
+2018-04-25T16:52:07.860Z,33.977,-117.2155,14.18,3.17,ml,154,13,0.04619,0.19,ci,ci37923679,2018-08-15T01:56:29.868Z,"6km NNE of Moreno Valley, CA",earthquake,0.11,0.22,0.165,293,reviewed,ci,ci
+2018-04-26T01:36:00.560Z,33.3796667,-116.2983333,13.95,3.94,mw,139,25,0.07813,0.21,ci,ci37924223,2018-11-29T17:30:16.570Z,"16km NNE of Borrego Springs, CA",earthquake,0.12,0.31,,6,reviewed,ci,ci
+2018-04-26T18:49:47.810Z,28.918,-98.055,5,3.1,mb_lg,,68,0.225,0.65,us,us1000dsw1,2018-07-25T21:37:06.040Z,"8 km SSW of Falls City, Texas",earthquake,6.7,2,0.062,68,reviewed,us,us
+2018-04-26T19:23:18.300Z,36.945,-97.6324,6.767,3,ml,,58,,0.32,us,us1000dsx3,2018-07-25T21:37:08.040Z,"3 km NE of Renfrow, Oklahoma",earthquake,1.4,3.8,,,reviewed,tul,tul
+2018-04-28T05:53:25.500Z,36.1026,-97.8347,5,3,ml,,30,,0.19,us,us1000dttx,2018-07-25T21:37:36.040Z,"5 km E of Hennessey, Oklahoma",earthquake,1.3,6.4,,,reviewed,tul,tul
+2018-04-29T17:55:29.440Z,47.238,-120.7653333,1.43,3.32,ml,22,52,0.06942,0.09,uw,uw61382986,2018-07-25T21:38:03.040Z,"13 km ENE of Cle Elum, Washington",earthquake,0.23,0.82,0.161,13,reviewed,uw,uw
+2018-04-29T22:32:08.320Z,36.2968333,-83.3895,21.17,3.1,md,30,50,0.07607,0.15,se,se60197892,2019-02-23T08:49:19.978Z,"10 km WSW of Bean Station, Tennessee",earthquake,0.22,0.49,0.058,25,reviewed,se,se
+2018-04-29T22:55:39.120Z,31.2555,-115.616,9.36,3.51,ml,5,197,0.1975,0.13,ci,ci38160704,2018-07-27T03:56:17.370Z,"104km ESE of Maneadero, B.C., MX",earthquake,1.83,1.55,0.178,188,reviewed,ci,ci
+2018-04-30T11:01:24.400Z,36.4609,-98.7946,5.364,3.2,ml,,48,,0.37,us,us1000dun8,2018-07-27T20:20:34.040Z,"15 km SSE of Waynoka, Oklahoma",earthquake,1.8,4.4,,,reviewed,tul,tul
+2018-04-30T11:55:02.750Z,37.8736667,-121.988,6.05,3.3,mw,137,43,0.0368,0.19,nc,nc73008716,2018-07-27T20:20:34.040Z,"5km NE of Alamo, CA",earthquake,0.13,0.2,,4,reviewed,nc,nc
+2018-05-01T10:26:45.260Z,31.5146667,-115.615,12.58,3.29,ml,16,105,0.1896,0.15,ci,ci38161496,2018-07-27T20:20:35.040Z,"90km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.29,0.74,0.182,92,reviewed,ci,ci
+2018-05-01T11:22:22.130Z,32.7871667,-118.439,8.42,3.74,ml,62,196,0.134,0.32,ci,ci38161520,2018-07-27T20:20:35.040Z,"10km WSW of San Clemente Is. (SE tip), CA",earthquake,0.46,0.65,0.158,336,reviewed,ci,ci
+2018-05-01T11:53:03.230Z,32.7983333,-118.4455,7.74,3.39,ml,33,202,0.1217,0.32,ci,ci38161632,2018-07-27T20:20:35.040Z,"10km WSW of San Clemente Is. (SE tip), CA",earthquake,0.61,0.83,0.163,311,reviewed,ci,ci
+2018-05-01T12:53:10.880Z,32.7838333,-118.4446667,7.73,3.28,ml,27,204,0.1358,0.29,ci,ci38161664,2018-07-27T20:20:35.040Z,"10km WSW of San Clemente Is. (SE tip), CA",earthquake,0.72,1.02,0.135,126,reviewed,ci,ci
+2018-05-01T16:28:56.060Z,28.9476,-98.0015,5,4,mwr,,74,0.192,0.62,us,us1000dvdg,2018-07-27T20:20:33.040Z,"4 km SSE of Falls City, Texas",earthquake,3.2,2,,15,reviewed,us,slm
+2018-05-04T20:26:00.090Z,39.3031667,-122.7735,12.26,3.04,ml,70,39,0.1323,0.13,nc,nc73010506,2018-07-27T20:20:39.040Z,"19km NE of Upper Lake, CA",earthquake,0.13,0.44,0.199,31,reviewed,nc,nc
+2018-05-06T14:54:02.890Z,44.7516667,-110.9641667,10.75,3.05,ml,30,35,0.03088,0.18,uu,uu60280577,2018-07-27T20:20:28.040Z,"14 km NE of West Yellowstone, Montana",earthquake,0.33,0.48,0.229,10,reviewed,uu,uu
+2018-05-06T16:47:09.220Z,27.871,-88.6778,10,4.6,mb,,71,2.684,0.77,us,us1000dzed,2019-07-18T05:24:54.376Z,"169 km SSE of Venice, Louisiana",earthquake,7.1,1.9,0.042,170,reviewed,us,us
+2018-05-08T11:49:34.020Z,34.016,-116.7798333,12.89,4.49,mw,185,18,0.03006,0.18,ci,ci38167848,2020-12-05T06:25:29.598Z,"11km N of Cabazon, CA",earthquake,0.09,0.22,,6,reviewed,ci,ci
+2018-05-08T11:51:53.440Z,34.0176667,-116.8003333,12.66,3.2,ml,143,23,0.0185,0.17,ci,ci38167864,2018-08-08T15:19:31.040Z,"11km N of Cabazon, CA",earthquake,0.09,0.25,0.195,67,reviewed,ci,ci
+2018-05-08T21:27:39.510Z,43.7347,-78.949,5.05,3,mb_lg,,,,0.52,us,us1000e121,2018-08-08T15:19:40.040Z,"14 km SSE of Ajax, Canada",earthquake,1.2,3.5,,,reviewed,ott,ott
+2018-05-09T07:13:10.350Z,31.9471667,-116.2928333,20.08,3.22,ml,36,116,0.2986,0.26,ci,ci38168952,2018-08-08T15:19:44.040Z,"32km ENE of Ensenada, B.C., MX",earthquake,0.37,0.95,0.171,201,reviewed,ci,ci
+2018-05-09T17:25:15.500Z,36.5352,-98.9636,5.829,3,ml,,99,,0.94,us,us1000e1fp,2018-08-08T15:19:53.040Z,"9 km SW of Waynoka, Oklahoma",earthquake,2.9,6.2,,,reviewed,tul,tul
+2018-05-10T02:58:30.910Z,38.81,-122.7971667,1.89,4.19,mw,79,34,0.002497,0.1,nc,nc73014276,2018-11-10T20:09:42.017Z,"5km NW of The Geysers, CA",earthquake,0.11,0.17,,4,reviewed,nc,nc
+2018-05-10T02:59:27.510Z,38.7995,-122.7831667,-0.22,3.1,mw,57,38,0.007323,0.08,nc,nc73014286,2018-08-08T15:19:58.040Z,"3km NW of The Geysers, CA",earthquake,0.08,0.18,,3,reviewed,nc,nc
+2018-05-13T00:28:56.720Z,33.0478333,-115.9186667,2.27,3.46,ml,128,24,0.1057,0.27,ci,ci38171760,2018-08-08T15:21:21.040Z,"22km ESE of Ocotillo Wells, CA",earthquake,0.14,0.4,0.168,80,reviewed,ci,ci
+2018-05-13T00:34:57.630Z,33.0446667,-115.9178333,6.62,3.49,ml,121,24,0.1073,0.29,ci,ci38171768,2018-08-08T15:21:22.040Z,"23km ESE of Ocotillo Wells, CA",earthquake,0.18,0.9,0.159,80,reviewed,ci,ci
+2018-05-13T00:35:03.450Z,33.0406667,-115.9205,2.66,3.69,ml,78,27,0.1116,0.33,ci,ci37186460,2018-08-08T15:21:54.040Z,"23km ESE of Ocotillo Wells, CA",earthquake,0.24,0.59,0.136,81,reviewed,ci,ci
+2018-05-13T00:37:11.100Z,33.048,-115.9243333,1.94,3.19,ml,117,22,0.1093,0.28,ci,ci38171784,2018-08-08T15:21:22.040Z,"22km ESE of Ocotillo Wells, CA",earthquake,0.15,0.51,0.133,68,reviewed,ci,ci
+2018-05-13T00:48:06.820Z,33.043,-115.9193333,2.16,3.41,ml,121,24,0.1093,0.27,ci,ci38171808,2018-08-08T15:21:23.040Z,"23km ESE of Ocotillo Wells, CA",earthquake,0.15,0.44,0.158,80,reviewed,ci,ci
+2018-05-13T12:05:47.300Z,33.056,-115.9193333,1.51,3.52,ml,127,23,0.1011,0.27,ci,ci38172104,2018-08-08T15:21:35.040Z,"22km ESE of Ocotillo Wells, CA",earthquake,0.15,0.43,0.129,78,reviewed,ci,ci
+2018-05-13T14:33:23.800Z,33.0448333,-115.9288333,1.35,3.25,ml,120,23,0.1142,0.27,ci,ci38172320,2018-08-08T15:21:37.040Z,"22km ESE of Ocotillo Wells, CA",earthquake,0.14,0.43,0.133,81,reviewed,ci,ci
+2018-05-13T20:54:46.284Z,41.2895,-116.2548,10.7,3.2,ml,11,162.74,0.286,0.175,nn,nn00634933,2018-08-08T15:21:43.040Z,"63 km NW of Osino, Nevada",earthquake,,2.4,0.28,9,reviewed,nn,nn
+2018-05-13T23:28:48.300Z,36.0716,-97.5655,7.435,3.7,mwr,,23,,0.14,us,us1000e4bx,2020-03-20T02:13:40.269Z,"10 km SSE of Marshall, Oklahoma",earthquake,1,0.5,0.045,47,reviewed,tul,us
+2018-05-14T05:02:54.900Z,36.0718,-97.5679,7.949,3,ml,,24,,0.36,us,us1000e4hg,2018-08-15T19:46:49.040Z,"10 km SSE of Marshall, Oklahoma",earthquake,1.1,4.8,,,reviewed,tul,tul
+2018-05-14T07:25:00.600Z,36.0713,-97.5655,6.858,4,mwr,,23,,0.19,us,us1000e4il,2020-03-20T02:29:01.579Z,"10 km SSE of Marshall, Oklahoma",earthquake,1,4.8,0.035,77,reviewed,tul,us
+2018-05-14T08:15:54.580Z,41.6636658,-124.857666,13.47,3.2,ml,20,240,0.723,0.18,nc,nc73016111,2018-08-15T19:46:49.040Z,"55km W of Crescent City, CA",earthquake,2.3,16.71,0.183,5,automatic,nc,nc
+2018-05-14T09:22:25.100Z,36.0706,-97.5685,8.172,3,ml,,24,,0.24,us,us1000e4kx,2018-08-15T19:46:50.040Z,"10 km SSE of Marshall, Oklahoma",earthquake,0.6,8.6,,,reviewed,tul,tul
+2018-05-14T11:11:19.010Z,46.8379,-112.542,13.64,3.6,ml,,71,0.141,0.83,us,us1000e4n4,2018-08-15T19:46:50.040Z,"16 km SE of Lincoln, Montana",earthquake,3.8,6.7,0.055,44,reviewed,us,us
+2018-05-14T11:13:14.080Z,46.8418,-112.5282,10,3.1,ml,,89,0.143,0.9,us,us1000e4qa,2018-08-15T19:46:50.040Z,"17 km SE of Lincoln, Montana",earthquake,2.2,2,0.091,16,reviewed,us,us
+2018-05-15T02:18:35.000Z,37.8053333,-122.202,8.77,3.45,mw,280,7,0.01381,0.15,nc,nc73016050,2021-01-14T19:29:20.889Z,"3km ENE of Oakland, CA",earthquake,0.08,0.13,,4,reviewed,nc,nc
+2018-05-15T13:40:21.500Z,36.0725,-97.5641,6.29,4,mwr,,23,,0.2,us,us1000e5gd,2020-03-20T02:29:19.553Z,"10 km SSE of Marshall, Oklahoma",earthquake,1.6,4.5,0.032,92,reviewed,tul,us
+2018-05-16T21:32:11.860Z,37.257,-121.6341667,5.28,3.15,ml,183,42,0.03114,0.13,nc,nc73016870,2018-08-15T19:46:54.040Z,"14km N of Morgan Hill, CA",earthquake,0.08,0.2,0.126,52,reviewed,nc,nc
+2018-05-17T20:05:45.000Z,36.0674,-97.5709,6.077,3.7,ml,,22,,0.23,us,us1000e7i8,2018-08-15T19:46:56.040Z,"10 km SSE of Marshall, Oklahoma",earthquake,1.2,4.6,,,reviewed,tul,tul
+2018-05-18T00:51:36.600Z,31.453,-114.3983333,5.94,3.33,ml,2,217,0.5673,0.04,ci,ci37942927,2018-07-27T03:09:20.221Z,"100km SE of Estacion Coahuila, B.C., MX",earthquake,1.71,31.61,0.125,30,reviewed,ci,ci
+2018-05-18T03:36:56.390Z,31.3298333,-114.3395,5.94,3.11,mlr,2,195,0.5263,0.06,ci,ci37943063,2018-07-27T03:09:13.978Z,"115km SSE of Estacion Coahuila, B.C., MX",earthquake,4.31,31.61,0.103,1,reviewed,ci,ci
+2018-05-19T00:45:39.450Z,32.4813,-97.1671,5,3.4,mwr,,39,0.084,0.45,us,us1000e8d4,2019-10-01T09:34:06.938Z,"8 km NW of Venus, Texas",earthquake,1.7,2,,12,reviewed,us,slm
+2018-05-19T19:26:51.100Z,33.4958333,-116.8083333,2.62,3.45,ml,161,27,0.09129,0.23,ci,ci37944431,2018-08-15T19:46:58.040Z,"8km NE of Aguanga, CA",earthquake,0.09,0.47,0.158,340,reviewed,ci,ci
+2018-05-23T00:15:49.000Z,35.6805,-97.3925,5.467,3.4,ml,,21,,0.28,us,us1000eaat,2020-03-20T02:26:10.345Z,"6 km WNW of Arcadia, Oklahoma",earthquake,1,1.8,,,reviewed,tul,tul
+2018-05-26T19:26:41.500Z,35.9936,-96.7497,4.372,3.2,ml,,61,,0.38,us,us1000ecsk,2019-05-16T23:13:54.755Z,"1 km ENE of Cushing, Oklahoma",earthquake,1.8,6.2,,,reviewed,tul,tul
+2018-05-26T22:56:54.510Z,36.6603333,-121.2786667,2.32,3.1,ml,66,60,0.05724,0.07,nc,nc73021190,2018-08-21T21:23:53.040Z,"15km SSE of Tres Pinos, CA",earthquake,0.11,0.52,0.156,31,reviewed,nc,nc
+2018-05-28T20:15:46.000Z,31.1319,-103.2235,5,3,ml,,67,0.228,0.34,us,us1000edj5,2018-08-28T16:27:55.040Z,"19 km SW of Coyanosa, Texas",earthquake,1.3,1.8,0.085,70,reviewed,us,us
+2018-05-30T03:28:11.220Z,42.6666,-111.4583,5,3.3,ml,,50,0.107,0.72,us,us1000eef3,2018-08-28T16:28:33.040Z,"12 km E of Soda Springs, Idaho",earthquake,1.8,1.8,0.038,92,reviewed,us,us
+2018-05-30T19:22:05.300Z,33.9241667,-116.3225,8.74,3.77,mw,111,27,0.07359,0.16,ci,ci37952751,2018-08-29T03:05:03.518Z,"13km NNE of Thousand Palms, CA",earthquake,0.1,0.3,,4,reviewed,ci,ci
+2018-05-30T22:57:42.500Z,37.9756667,-122.0578333,15.63,3,ml,156,25,0.01777,0.16,nc,nc73023166,2018-08-28T16:29:03.040Z,"2km ESE of Pacheco, CA",earthquake,0.16,0.2,0.206,56,reviewed,nc,nc
+2018-06-01T10:30:24.810Z,28.7714,-98.5161,8.42,3.1,mb_lg,,73,0.374,0.74,us,us1000ege4,2018-08-28T16:29:39.040Z,"2 km SW of Christine, Texas",earthquake,2.1,4.3,0.055,86,reviewed,us,us
+2018-06-02T05:46:05.990Z,28.7924,-98.1014,5,3,mb_lg,,95,0.264,0.81,us,us1000ehae,2018-08-28T16:30:09.040Z,"18 km NNW of Pawnee, Texas",earthquake,4.5,2,0.062,67,reviewed,us,us
+2018-06-03T07:44:31.540Z,31.1197,-103.2372,6.77,3.1,ml,,53,0.212,0.57,us,us1000ehr0,2018-08-28T16:30:40.040Z,"21 km SW of Coyanosa, Texas",earthquake,1.9,6.2,0.115,62,reviewed,us,us
+2018-06-03T10:04:55.690Z,40.6256667,-123.2111667,29.41,3,ml,75,29,0.0348,0.16,nc,nc73024816,2018-08-28T16:30:45.040Z,"8km NNW of Hayfork, CA",earthquake,0.22,0.6,0.109,19,reviewed,nc,nc
+2018-06-03T10:57:20.490Z,31.1606,-103.2473,3.61,3.1,ml,,71,0.249,0.43,us,us1000ehtw,2018-08-28T16:30:47.040Z,"19 km WSW of Coyanosa, Texas",earthquake,3.1,5.6,0.07,68,reviewed,us,us
+2018-06-04T11:23:57.400Z,36.6968,-97.6837,6.788,3.2,mwr,,49,,0.16,us,us1000eif9,2020-03-20T02:25:36.876Z,"9 km ESE of Jefferson, Oklahoma",earthquake,1.2,1.9,,17,reviewed,tul,slm
+2018-06-04T23:16:44.700Z,36.817,-97.6114,5.712,3.1,ml,,55,,0.23,us,us1000einw,2018-08-29T16:33:51.040Z,"8 km W of Deer Creek, Oklahoma",earthquake,0.8,3.6,,,reviewed,tul,tul
+2018-06-05T08:16:57.020Z,31.8501667,-116.3445,22.01,3.6,mw,46,141,0.2728,0.24,ci,ci37957087,2018-08-29T16:33:59.040Z,"26km NE of Maneadero, B.C., MX",earthquake,0.29,0.6,,4,reviewed,ci,ci
+2018-06-06T07:32:15.238Z,39.4044,-119.9753,7.5,3.1,ml,27,39.45,0.121,0.2272,nn,nn00638386,2018-08-29T16:34:27.040Z,"4 km ENE of Floriston, California",earthquake,,1.7,0.28,9,reviewed,nn,nn
+2018-06-06T12:25:31.000Z,36.2309,-97.2945,7.069,3,ml,,36,,0.2,us,us1000ejjb,2018-08-29T16:34:33.040Z,"6 km S of Perry, Oklahoma",earthquake,0.9,1.9,,,reviewed,tul,tul
+2018-06-06T16:37:18.020Z,39.4002,-119.9753,6.7,3,ml,32,28.52,0.118,0.125,nn,nn00638434,2018-08-29T16:34:37.040Z,"4 km E of Floriston, California",earthquake,,1.1,0.31,8,reviewed,nn,nn
+2018-06-07T07:01:54.100Z,36.286,-97.5091,6.281,3.1,ml,,25,,0.13,us,us1000ek9m,2018-08-29T16:35:04.040Z,"5 km WNW of Lucien, Oklahoma",earthquake,0.7,2.4,,,reviewed,tul,tul
+2018-06-08T17:09:35.370Z,48.8251667,-123.207,58.21,3.19,ml,26,47,0.05511,0.19,uw,uw61383502,2018-08-29T16:35:48.040Z,"20 km SSW of Point Roberts, Washington",earthquake,0.46,0.8,0.137,18,reviewed,uw,uw
+2018-06-08T17:23:52.770Z,39.2758333,-123.2333333,5.45,3.72,mw,64,62,0.08757,0.1,nc,nc73027396,2019-04-29T07:30:38.694Z,"3km WNW of Redwood Valley, CA",earthquake,0.09,0.47,,5,reviewed,nc,nc
+2018-06-08T19:14:00.400Z,36.286,-97.5107,6.597,3.2,ml,,25,,0.23,us,us1000elhr,2018-08-29T16:35:52.040Z,"5 km WNW of Lucien, Oklahoma",earthquake,0.8,2.5,,,reviewed,tul,tul
+2018-06-08T20:53:48.350Z,34.1145,-116.9236667,3.96,3.41,ml,169,17,0.02323,0.17,ci,ci38193896,2018-08-29T16:35:53.040Z,"14km NE of Yucaipa, CA",earthquake,0.08,0.25,0.164,311,reviewed,ci,ci
+2018-06-09T13:59:41.400Z,36.764,-98.062,9.5,4.4,mwr,,,,0.19,us,us1000em4c,2020-03-20T02:26:52.682Z,"8 km E of Nescatunga, Oklahoma",earthquake,1.1,6.3,0.03,107,reviewed,tul,us
+2018-06-11T04:24:53.280Z,29.5088,-105.0258,10,3.6,ml,,105,1.197,0.46,us,us1000en3f,2018-09-07T17:46:59.040Z,"Chihuahua, Mexico",earthquake,3.1,2,0.097,44,reviewed,us,us
+2018-06-11T19:20:31.500Z,36.4909,-98.6218,5.851,3.1,ml,,49,,0.47,us,us1000enlc,2018-09-07T17:47:00.040Z,"15 km W of Aline, Oklahoma",earthquake,2.5,6.4,,,reviewed,tul,tul
+2018-06-14T22:09:59.880Z,36.1901,-106.9626,5,3,ml,,92,1.308,1.32,us,us1000ertd,2018-09-07T17:47:04.040Z,"0 km NW of Regina, New Mexico",earthquake,2.5,2,0.045,66,reviewed,us,us
+2018-06-15T20:56:08.600Z,36.0742,-97.5593,6.615,4,mwr,,23,,0.28,us,us1000ess6,2020-03-20T02:27:12.799Z,"Oklahoma",earthquake,0.8,5.2,0.041,57,reviewed,tul,us
+2018-06-17T06:16:15.400Z,36.0677,-97.5723,6.252,3.3,ml,,22,,0.17,us,us1000etmd,2018-09-07T17:47:07.040Z,"10 km SSE of Marshall, Oklahoma",earthquake,1.1,1.5,,,reviewed,tul,tul
+2018-06-17T18:34:58.810Z,33.1351667,-115.6273333,5.15,3.63,mw,108,40,0.04199,0.27,ci,ci38199368,2018-09-07T17:47:08.040Z,"11km W of Calipatria, CA",earthquake,0.16,0.38,,4,reviewed,ci,ci
+2018-06-18T22:21:22.930Z,37.3495,-97.973,5,3.1,mb_lg,,90,0.055,0.45,us,us1000euy3,2018-09-19T15:15:48.040Z,"8 km NE of Harper, Kansas",earthquake,1.5,1.4,0.051,99,reviewed,us,us
+2018-06-19T07:15:35.070Z,38.142,-112.5708333,9.64,3.12,ml,30,43,0.1453,0.15,uu,uu60286212,2018-09-19T15:15:49.040Z,"16 km SSE of Beaver, Utah",earthquake,0.24,0.61,0.157,21,reviewed,uu,uu
+2018-06-19T15:58:09.800Z,35.3674,-98.0687,6.614,3.1,ml,,117,,0.5,us,us1000evle,2018-09-19T15:15:49.040Z,"11 km WSW of Union City, Oklahoma",earthquake,1.8,4.2,,,reviewed,tul,tul
+2018-06-19T16:00:38.600Z,36.2788,-97.5072,8.366,3.8,ml,,25,,0.15,us,us1000evlh,2018-09-19T15:15:49.040Z,"4 km W of Lucien, Oklahoma",earthquake,1.4,10.1,,,reviewed,tul,tul
+2018-06-20T01:20:32.260Z,34.9466667,-116.7413333,4.43,3.32,ml,39,48,0.1573,0.14,ci,ci38201136,2018-09-19T15:15:50.040Z,"26km ENE of Barstow, CA",earthquake,0.12,0.73,0.133,319,reviewed,ci,ci
+2018-06-20T08:11:47.860Z,32.6068333,-117.5406667,17.8,3.46,ml,55,183,0.2891,0.18,ci,ci38201312,2018-09-19T15:15:50.040Z,"35km WSW of Coronado, CA",earthquake,0.37,0.6,0.147,322,reviewed,ci,ci
+2018-06-22T03:29:55.200Z,36.1016,-97.8355,5.048,3.2,mwr,,36,,0.98,us,us1000ey9c,2018-09-19T15:15:53.040Z,"5 km E of Hennessey, Oklahoma",earthquake,1.3,5.4,0.057,30,reviewed,tul,us
+2018-06-22T07:41:42.480Z,37.9911667,-121.7205,10.4,3.24,mw,188,37,0.03628,0.23,nc,nc73034206,2021-07-09T04:53:55.739Z,"1km SW of Oakley, CA",earthquake,0.12,0.29,,3,reviewed,nc,nc
+2018-06-22T23:38:20.000Z,36.6684,-98.7615,6.545,3,ml,,80,,0.43,us,us1000ez6e,2018-09-19T15:15:55.040Z,"4 km SE of Avard, Oklahoma",earthquake,2.6,6.3,,,reviewed,tul,tul
+2018-06-23T04:50:46.760Z,36.463,-121.0016667,8.73,3.06,ml,69,99,0.04074,0.08,nc,nc73034736,2018-09-19T15:15:56.040Z,"15km ESE of Pinnacles, CA",earthquake,0.15,0.29,0.118,34,reviewed,nc,nc
+2018-06-26T03:55:07.880Z,36.1699,-106.9229,2.8,3,ml,,72,1.279,0.9,us,us1000f1x7,2018-09-21T16:25:56.040Z,"3 km ESE of Regina, New Mexico",earthquake,2.4,5.9,0.048,56,reviewed,us,us
+2018-06-27T14:04:25.230Z,37.2998,-97.4185,5,3.2,mb_lg,,98,0.228,0.26,us,us1000f3bb,2020-03-20T02:27:29.811Z,"5 km NW of Wellington, Kansas",earthquake,1.6,2,0.044,134,reviewed,us,us
+2018-06-28T23:49:11.100Z,38.8331667,-122.8018333,1.42,3.22,ml,78,29,0.01039,0.05,nc,nc73037206,2018-09-21T16:25:46.040Z,"7km W of Cobb, CA",earthquake,0.09,0.12,0.23,52,reviewed,nc,nc
+2018-06-30T04:20:28.140Z,41.3841,-100.1549,5,4.1,mb,,23,1.35,0.75,us,us2000frxi,2018-09-21T16:25:56.040Z,"5 km SE of Arnold, Nebraska",earthquake,3.7,1.9,0.064,66,reviewed,us,us
+2018-06-30T06:28:14.500Z,35.3761,-98.1118,11.976,3.1,ml,,155,,0.59,us,us2000fs0u,2018-09-21T16:25:57.040Z,"15 km W of Union City, Oklahoma",earthquake,2.2,8.3,,,reviewed,tul,tul
+2018-06-30T06:44:01.120Z,34.9408333,-116.6601667,9.44,3.13,ml,32,36,0.1298,0.15,ci,ci37272194,2018-09-21T16:25:47.040Z,"33km E of Barstow, CA",earthquake,0.15,0.46,0.123,288,reviewed,ci,ci
+2018-06-30T08:14:15.030Z,34.942,-116.6586667,8.18,3.07,ml,32,36,0.1283,0.15,ci,ci37272234,2018-09-21T16:25:47.040Z,"34km E of Barstow, CA",earthquake,0.16,0.6,0.152,282,reviewed,ci,ci
+2018-07-01T02:58:14.200Z,35.8891,-97.2831,6.283,3.2,ml,,28,,0.23,us,us2000ftb2,2018-09-21T16:25:57.040Z,"6 km NNW of Meridian, Oklahoma",earthquake,1.1,1.9,,,reviewed,tul,tul
+2018-07-01T08:12:17.630Z,41.3582,-100.1129,5,3.7,mwr,,93,1.366,1.04,us,us2000fsuc,2018-09-21T16:25:56.040Z,"9 km SE of Arnold, Nebraska",earthquake,2.6,1.7,0.06,27,reviewed,us,us
+2018-07-01T08:42:00.090Z,41.3603,-100.129,5,3.9,mwr,,60,1.368,0.27,us,us2000fsv1,2018-09-21T16:25:56.040Z,"8 km SE of Arnold, Nebraska",earthquake,4.1,2,0.071,19,reviewed,us,us
+2018-07-01T21:58:26.730Z,43.6125,-108.374,5,3,ml,,91,1.209,0.68,us,us2000ftas,2018-09-21T16:26:00.040Z,"13 km WSW of Thermopolis, Wyoming",earthquake,1.8,2,0.048,57,reviewed,us,us
+2018-07-02T00:03:12.700Z,36.7628,-98.0658,6.792,3.1,ml,,38,,0.29,us,us2000fte1,2018-09-27T14:03:36.040Z,"7 km E of Nescatunga, Oklahoma",earthquake,1.5,4.6,,,reviewed,tul,tul
+2018-07-02T12:28:04.200Z,35.9739,-97.7967,5.676,3,ml,,17,,0.2,us,us2000ftxu,2018-09-27T14:03:37.040Z,"10 km E of Dover, Oklahoma",earthquake,0.7,3.2,,,reviewed,tul,tul
+2018-07-02T16:25:52.250Z,41.404,-100.1756,5,3.8,mb_lg,,114,1.336,0.4,us,us2000fu0i,2018-09-27T14:03:37.040Z,"2 km SE of Arnold, Nebraska",earthquake,4.2,2,0.046,124,reviewed,us,us
+2018-07-02T19:03:13.400Z,45.724,-112.1883,5,3.3,ml,,70,0.385,1.04,us,us2000fuw5,2018-09-27T14:03:37.040Z,"17 km SSW of Whitehall, Montana",earthquake,2.6,1.9,0.053,46,reviewed,us,us
+2018-07-02T21:08:51.500Z,35.8906,-97.2822,6.136,3.5,ml,,41,,0.25,us,us2000fv2v,2018-09-27T14:03:38.040Z,"6 km NNW of Meridian, Oklahoma",earthquake,1.1,2.5,,,reviewed,tul,tul
+2018-07-03T20:15:21.310Z,41.398,-100.1417,3.06,3.6,mwr,,41,1.334,0.66,us,us2000fw8c,2018-09-27T14:03:39.040Z,"5 km ESE of Arnold, Nebraska",earthquake,4.3,7.6,0.083,14,reviewed,us,us
+2018-07-03T21:16:08.620Z,36.9661,-104.8611,8.1,3.1,ml,,47,0.163,0.68,us,us2000fwa5,2018-09-27T14:03:39.040Z,"18 km S of Weston, Colorado",earthquake,1.7,8.3,0.091,16,reviewed,us,us
+2018-07-03T22:10:38.970Z,32.0171667,-114.9836667,19.11,3.07,ml,19,259,0.2955,0.3,ci,ci37274218,2018-09-27T14:03:39.040Z,"20km S of Estacion Coahuila, B.C., MX",earthquake,1.09,0.88,0.27,64,reviewed,ci,ci
+2018-07-05T15:17:36.947Z,35.8945,-115.7758,8.6,4.5,ml,59,40.27,0.303,0.2678,nn,nn00642964,2019-07-05T14:26:17.112Z,"15 km WNW of Sandy Valley, Nevada",earthquake,,1.3,0.33,17,reviewed,nn,nn
+2018-07-07T12:51:42.122Z,41.2208,-116.2746,4.1,3.3,ml,21,132.47,0.217,0.1143,nn,nn00643364,2018-09-27T14:03:43.040Z,"58 km NNW of Carlin, Nevada",earthquake,,2,0.12,13,reviewed,nn,nn
+2018-07-07T15:37:03.560Z,34.8028333,-116.2788333,3.14,3.55,ml,38,60,0.05327,0.16,ci,ci37275802,2018-09-27T14:03:43.040Z,"14km NW of Ludlow, CA",earthquake,0.15,0.55,0.155,316,reviewed,ci,ci
+2018-07-07T21:50:12.700Z,36.9859,-97.4955,5.353,3.4,ml,,67,,0.28,us,us2000fzbf,2018-09-27T14:03:44.040Z,"8 km WSW of Hunnewell, Kansas",earthquake,1.3,2.6,,,reviewed,tul,tul
+2018-07-10T00:00:07.050Z,37.1251667,-121.5265,7.26,3.06,ml,89,51,0.06921,0.06,nc,nc73042391,2019-10-23T14:23:29.217Z,"9km ENE of San Martin, CA",earthquake,0.09,0.28,0.132,47,reviewed,nc,nc
+2018-07-10T07:18:17.500Z,36.2977,-97.5297,7.735,3.4,mwr,,25,,0.21,us,us2000g0xg,2020-03-20T02:28:09.693Z,"5 km ESE of Covington, Oklahoma",earthquake,1.3,4.7,0.068,21,reviewed,tul,us
+2018-07-10T11:08:37.420Z,34.0108333,-117.5846667,4.31,3.57,ml,199,11,0.02013,0.23,ci,ci37277082,2020-09-19T20:12:10.344Z,"6km SE of Ontario, CA",earthquake,0.1,0.3,0.176,345,reviewed,ci,ci
+2018-07-10T11:56:36.000Z,36.848,-97.6983,7.906,3.1,ml,,39,,0.35,us,us2000g13l,2018-10-02T16:40:32.040Z,"5 km NE of Medford, Oklahoma",earthquake,1.1,4.1,,,reviewed,tul,tul
+2018-07-10T20:07:48.490Z,27.7479,-105.6469,10,4.2,mb,,105,0.808,0.88,us,us2000g1j3,2018-10-02T16:40:33.040Z,"19 km SW of Naica, Mexico",earthquake,5.4,1.9,0.065,66,reviewed,us,us
+2018-07-11T12:09:45.720Z,44.613,-124.3475,25.41,3,ml,17,229,0.2154,0.08,uw,uw61395262,2018-10-02T16:40:34.040Z,"23 km W of Newport, Oregon",earthquake,0.41,0.53,0.242,12,reviewed,uw,uw
+2018-07-11T13:21:25.340Z,38.0585,-112.4008333,6.5,3.12,ml,30,48,0.1718,0.33,uu,uu60288487,2018-10-02T16:40:34.040Z,"16 km SW of Circleville, Utah",earthquake,0.5,1.6,0.097,22,reviewed,uu,uu
+2018-07-13T06:06:05.700Z,36.4543,-98.7663,8.725,3.2,mwr,,38,,0.53,us,us2000g3qk,2018-10-02T16:40:37.040Z,"17 km SE of Waynoka, Oklahoma",earthquake,1.8,8,,7,reviewed,tul,slm
+2018-07-13T18:04:54.640Z,44.3006,-114.9698,5,3.2,ml,,64,0.84,1.06,us,us2000g4dj,2018-10-02T16:40:39.040Z,"9 km NNW of Stanley, Idaho",earthquake,3.3,1.9,0.034,114,reviewed,us,us
+2018-07-13T21:00:06.490Z,31.2377,-103.5585,2.67,3,ml,,66,0.295,0.39,us,us2000g4kt,2018-10-02T16:40:40.040Z,"14 km S of Lindsay, Texas",earthquake,3.1,6.5,0.091,66,reviewed,us,us
+2018-07-17T20:38:07.850Z,35.655,-97.4134,6,3.1,mb_lg,,35,0.034,0.21,us,us2000g7ar,2020-03-20T02:28:27.437Z,"5 km E of Edmond, Oklahoma",earthquake,1.1,1.1,0.046,122,reviewed,us,us
+2018-07-18T04:48:52.000Z,36.6571,-98.4679,7.309,3,ml,,69,,0.47,us,us2000g7p9,2018-10-04T14:15:32.040Z,"4 km SW of Lambert, Oklahoma",earthquake,1.5,4.9,,,reviewed,tul,tul
+2018-07-18T05:19:28.400Z,36.6572,-98.467,7.343,3.2,ml,,69,,0.24,us,us2000g7ps,2018-10-04T14:15:32.040Z,"4 km SW of Lambert, Oklahoma",earthquake,1.2,1.7,,,reviewed,tul,tul
+2018-07-20T19:46:56.300Z,35.8955,-97.2745,7.285,3,ml,,28,,0.26,us,us2000ga2d,2018-10-04T14:15:33.040Z,"5 km SSW of Langston, Oklahoma",earthquake,1,2.5,,,reviewed,tul,tul
+2018-07-20T21:01:54.600Z,35.8972,-97.2759,6.659,3.1,ml,,28,,0.48,us,us2000ga51,2020-03-20T02:28:43.796Z,"5 km SSW of Langston, Oklahoma",earthquake,0.9,4,,,reviewed,tul,tul
+2018-07-21T07:11:32.990Z,43.017,-100.5643,5,3.2,mwr,,41,0.779,0.57,us,us2000gahm,2019-04-08T08:24:53.886Z,"16 km N of Valentine, Nebraska",earthquake,3.2,0.9,,5,reviewed,us,slm
+2018-07-23T13:40:34.800Z,33.9305,-116.8238333,5.97,3.03,ml,121,19,0.03703,0.16,ci,ci38228176,2018-10-09T16:43:20.040Z,"4km WNW of Cabazon, CA",earthquake,0.09,0.31,0.146,197,reviewed,ci,ci
+2018-07-24T04:56:10.470Z,45.7115,-112.121,10.34,3.3,mwr,,85,0.363,0.72,us,us2000gccd,2018-10-09T16:43:28.040Z,"17 km S of Whitehall, Montana",earthquake,2.3,4.7,,6,reviewed,us,slm
+2018-07-24T21:10:29.500Z,35.6711,-97.4003,6.654,3.2,ml,,20,,0.22,us,us2000gd18,2018-10-09T16:43:29.040Z,"6 km W of Arcadia, Oklahoma",earthquake,1.3,2.4,,,reviewed,tul,tul
+2018-07-24T22:35:57.500Z,35.6707,-97.406,7.139,3.3,mwr,,32,,0.43,us,us2000gd45,2020-03-20T02:29:39.730Z,"6 km ENE of Edmond, Oklahoma",earthquake,1.1,6,,12,reviewed,tul,slm
+2018-07-25T20:17:56.910Z,31.9508333,-116.299,15.83,4.19,mw,32,115,0.3031,0.27,ci,ci38230144,2018-10-09T16:43:19.040Z,"32km ENE of Ensenada, B.C., MX",earthquake,0.41,1.53,,6,reviewed,ci,ci
+2018-07-25T20:58:47.210Z,31.9713333,-116.2836667,18.32,3.02,ml,34,170,0.2872,0.18,ci,ci38230200,2018-10-09T16:43:19.040Z,"34km ENE of Ensenada, B.C., MX",earthquake,0.34,0.64,0.153,144,reviewed,ci,ci
+2018-07-26T01:38:22.710Z,38.8253333,-122.8065,2.57,3.44,ml,85,19,0.003397,0.06,nc,nc73055751,2018-10-09T16:43:20.040Z,"7km NW of The Geysers, CA",earthquake,0.09,0.14,0.193,78,reviewed,nc,nc
+2018-07-26T05:09:46.700Z,41.3812,-100.1229,1.23,3.6,mwr,,60,0.036,0.49,us,us2000ge60,2018-10-09T16:43:28.040Z,"7 km SE of Arnold, Nebraska",earthquake,2.7,6.1,,8,reviewed,us,slm
+2018-07-26T07:22:26.100Z,39.232,-120.1126667,3.03,3.47,mw,37,30,0.2008,0.18,nc,nc73056106,2018-10-09T16:43:20.040Z,"5km NNW of Dollar Point, CA",earthquake,0.29,1.67,,4,reviewed,nc,nc
+2018-07-26T18:46:42.410Z,34.0036667,-117.0195,16.03,3.06,ml,148,25,0.07983,0.19,ci,ci38230752,2019-05-06T17:58:49.375Z,"4km ENE of Calimesa, CA",earthquake,0.1,0.25,0.13,278,reviewed,ci,ci
+2018-07-26T20:42:49.000Z,35.7956,-97.1937,5.407,3,ml,,28,,0.19,us,us2000gerv,2018-10-09T16:43:29.040Z,"7 km SE of Meridian, Oklahoma",earthquake,1,2.7,,,reviewed,tul,tul
+2018-07-26T21:02:00.900Z,36.4462,-98.7791,7.796,3.3,ml,,35,,0.39,us,us2000gesi,2018-10-09T16:43:29.040Z,"17 km SSE of Waynoka, Oklahoma",earthquake,2,5.3,,,reviewed,tul,tul
+2018-07-27T10:06:44.100Z,36.6324,-98.5139,6.325,3.1,ml,,85,,0.15,us,us2000gf1m,2018-10-09T16:43:30.040Z,"5 km SE of Dacoma, Oklahoma",earthquake,1.2,4.5,,,reviewed,tul,tul
+2018-07-27T10:43:06.600Z,36.8475,-97.6964,6.883,3.3,ml,,39,,0.2,us,us2000gf2c,2018-10-09T16:43:30.040Z,"5 km NE of Medford, Oklahoma",earthquake,1,3,,,reviewed,tul,tul
+2018-07-28T02:19:27.120Z,31.1845,-114.3418,10,4.3,mb,,130,0.46,1.02,us,us2000gilt,2018-10-09T16:43:19.040Z,"Baja California-Sonora border region, Mexico",earthquake,5.6,1.9,0.133,16,reviewed,us,us
+2018-07-28T02:33:49.530Z,31.3986,-114.3941,10,4.8,mww,,76,0.531,1.1,us,us2000gft1,2018-10-09T16:43:19.040Z,"33 km SSE of Golfo de Santa Clara, Mexico",earthquake,5.4,1.9,0.055,32,reviewed,us,us
+2018-07-28T02:38:40.440Z,31.1809,-114.3925,6.37,4.3,mb,,158,0.418,1.18,us,us1000g1y8,2018-10-09T16:43:19.040Z,"46 km ENE of San Felipe, Mexico",earthquake,6.4,5.2,0.147,13,reviewed,us,us
+2018-07-28T04:12:19.750Z,31.3913333,-114.3925,5.94,3.5,mlr,4,152,0.5279,0.04,ci,ci38231872,2018-07-31T22:11:03.490Z,"106km SSE of Estacion Coahuila, B.C., MX",earthquake,0.71,31.61,0.093,23,reviewed,ci,ci
+2018-07-28T07:57:11.570Z,36.7748333,-121.4168333,10.76,3.4,mw,79,34,0.02668,0.14,nc,nc73058601,2018-10-09T16:43:20.040Z,"6km SW of Ridgemark, CA",earthquake,0.14,0.28,,2,reviewed,nc,nc
+2018-07-29T13:54:07.330Z,31.8983333,-115.8495,6.57,4.02,mw,48,95,0.1352,0.3,ci,ci38232616,2018-10-09T16:43:19.040Z,"71km ENE of Maneadero, B.C., MX",earthquake,0.26,1.05,,7,reviewed,ci,ci
+2018-07-30T22:22:53.470Z,38.0828333,-122.4096667,11.95,3.66,mw,249,27,0.0684,0.16,nc,nc73061391,2019-10-15T05:57:47.509Z,"10km ESE of Black Point-Green Point, CA",earthquake,0.09,0.18,,4,reviewed,nc,nc
+2018-07-31T05:12:54.700Z,36.7774,-98.6821,11.247,3.2,ml,,103,,0.66,us,us2000ghwx,2018-10-16T15:34:13.040Z,"3 km SSW of Alva, Oklahoma",earthquake,1.3,8,,,reviewed,tul,tul
+2018-08-01T10:11:14.000Z,35.0409,-97.5912,6.139,3.4,mwr,,43,,0.31,us,us2000giuy,2020-03-20T02:29:56.806Z,"3 km ENE of Dibble, Oklahoma",earthquake,1.8,5.3,0.044,50,reviewed,tul,us
+2018-08-03T20:58:21.400Z,36.482,-97.7331,4.843,3.2,ml,,35,,0.18,us,us1000g2zl,2018-10-16T15:34:13.040Z,"4 km N of Breckinridge, Oklahoma",earthquake,1.2,1.8,,,reviewed,tul,tul
+2018-08-04T13:48:49.310Z,33.9323333,-116.8278333,6.18,3.13,ml,131,20,0.04082,0.17,ci,ci38237088,2018-10-16T15:34:05.040Z,"4km WNW of Cabazon, CA",earthquake,0.1,0.33,0.158,288,reviewed,ci,ci
+2018-08-06T10:39:22.600Z,36.4561,-98.7891,6.28,3,ml,,32,,0.5,us,us1000g426,2018-10-17T18:11:55.040Z,"16 km SSE of Waynoka, Oklahoma",earthquake,3.1,6.8,,,reviewed,tul,tul
+2018-08-06T11:02:21.140Z,31.9031667,-115.8373333,7.78,3.25,ml,27,133,0.1383,0.26,ci,ci38239744,2018-10-17T18:11:44.040Z,"72km ENE of Maneadero, B.C., MX",earthquake,0.45,1.11,0.195,186,reviewed,ci,ci
+2018-08-08T02:57:26.300Z,36.8451,-97.6978,6.957,3.4,mwr,,39,,0.2,us,us1000g566,2018-10-17T18:11:55.040Z,"5 km NE of Medford, Oklahoma",earthquake,0.8,2.2,0.054,33,reviewed,tul,us
+2018-08-08T03:40:32.140Z,31.9001667,-115.8408333,6.12,3.07,ml,21,116,0.1385,0.29,ci,ci38240800,2018-10-17T18:11:44.040Z,"72km ENE of Maneadero, B.C., MX",earthquake,0.48,1.82,0.15,90,reviewed,ci,ci
+2018-08-08T23:07:43.200Z,36.2135,-97.5522,6.676,3,ml,,23,,0.25,us,us1000g5k4,2018-10-17T18:11:55.040Z,"9 km NE of Marshall, Oklahoma",earthquake,1.3,5.3,,,reviewed,tul,tul
+2018-08-09T06:30:02.290Z,31.7756667,-115.5946667,9.68,3.09,ml,21,99,0.3775,0.25,ci,ci38241440,2018-10-17T18:11:44.040Z,"64km SW of Alberto Oviedo Mota, B.C., MX",earthquake,0.5,1.76,0.203,144,reviewed,ci,ci
+2018-08-10T02:56:08.820Z,31.7686667,-115.6191667,14.92,3.05,ml,17,97,0.3656,0.27,ci,ci38241952,2018-10-17T18:11:44.040Z,"66km SW of Alberto Oviedo Mota, B.C., MX",earthquake,0.43,1.38,0.212,123,reviewed,ci,ci
+2018-08-11T06:04:16.170Z,46.6933,-113.4831,13.03,3.7,ml,,59,0.257,0.38,us,us1000g6tg,2018-10-17T18:11:49.040Z,"19 km ESE of Clinton, Montana",earthquake,2.6,7.8,0.046,63,reviewed,us,us
+2018-08-12T05:36:49.754Z,38.4395,-118.8417,11.1,3.3,ml,40,53.23,0.062,0.2304,nn,nn00649919,2018-10-17T18:11:49.040Z,"21 km WSW of Hawthorne, Nevada",earthquake,,1,0.29,23,reviewed,nn,nn
+2018-08-13T18:01:24.300Z,36.5158,-99.0066,5.93,3,ml,,50,,0.28,us,us1000g87d,2018-10-27T16:22:28.040Z,"7 km NNE of Quinlan, Oklahoma",earthquake,2.2,4.1,,,reviewed,tul,tul
+2018-08-13T19:08:11.500Z,34.9882,-97.5381,3.692,3,ml,,22,,0.41,us,us1000g8aj,2018-10-27T16:22:28.040Z,"9 km SSW of Washington, Oklahoma",earthquake,1.5,3.7,,,reviewed,tul,tul
+2018-08-14T21:52:11.080Z,35.8981667,-120.4458333,6.58,3.49,mw,74,37,0.01034,0.07,nc,nc73069930,2018-10-27T16:22:27.040Z,"1km W of Parkfield, CA",earthquake,0.13,0.19,,5,reviewed,nc,nc
+2018-08-15T01:24:26.310Z,33.4771667,-116.8033333,1.89,4.41,mw,170,12,0.0352,0.24,ci,ci38245496,2019-02-10T17:17:36.288Z,"7km NE of Aguanga, CA",earthquake,0.1,0.3,,6,reviewed,ci,ci
+2018-08-15T10:27:57.510Z,37.3567,-97.9802,5,3,mb_lg,,134,0.06,0.1,us,us1000g9kt,2018-10-27T16:22:03.040Z,"8 km NNE of Harper, Kansas",earthquake,1,1.4,0.045,126,reviewed,us,us
+2018-08-16T14:14:52.940Z,38.8021667,-122.7783333,2.39,3.27,mw,70,22,0.01123,0.08,nc,nc73071866,2018-10-27T16:22:27.040Z,"3km NW of The Geysers, CA",earthquake,0.11,0.21,,2,reviewed,nc,nc
+2018-08-17T05:05:36.650Z,31.8976667,-115.8341667,8.8,3.23,ml,20,118,0.1441,0.29,ci,ci38250552,2018-10-27T16:22:27.040Z,"72km ENE of Maneadero, B.C., MX",earthquake,0.56,1.42,0.146,89,reviewed,ci,ci
+2018-08-17T19:25:33.730Z,40.6788333,-124.8975,23.6,3.35,ml,28,270,0.4724,0.14,nc,nc73072741,2018-10-27T16:22:27.040Z,"55km WNW of Ferndale, CA",earthquake,1.63,10.66,0.277,26,reviewed,nc,nc
+2018-08-17T22:10:40.590Z,41.1455,-123.9838333,23.4,3.19,ml,43,84,0.03218,0.11,nc,nc73072796,2018-10-27T16:22:27.040Z,"15km NE of Westhaven-Moonstone, CA",earthquake,0.22,0.38,0.167,16,reviewed,nc,nc
+2018-08-18T16:02:05.100Z,34.2986667,-116.9341667,3.98,3.16,ml,146,20,0.03794,0.15,ci,ci38252192,2018-10-27T16:22:27.040Z,"6km NNW of Big Bear Lake, CA",earthquake,0.09,0.34,0.128,287,reviewed,ci,ci
+2018-08-19T02:01:31.710Z,32.3974991,-117.760498,29.84,3.13,ml,22,298,0.5608,0.16,ci,ci38252568,2018-10-27T16:22:27.040Z,"63km WSW of Coronado, CA",earthquake,0.89,0.44,0.167,30,automatic,ci,ci
+2018-08-20T15:44:54.800Z,33.4875,-116.8061667,2.12,3.13,ml,129,16,0.01746,0.23,ci,ci38253816,2018-11-01T17:50:50.040Z,"7km NE of Aguanga, CA",earthquake,0.1,0.21,0.154,273,reviewed,ci,ci
+2018-08-22T12:17:42.800Z,43.3309,-110.9146,1.08,3.1,ml,,64,0.055,0.44,us,us1000gfb0,2018-11-01T17:50:54.040Z,"11 km WNW of Hoback, Wyoming",earthquake,1.1,2,0.049,54,reviewed,us,us
+2018-08-22T15:02:32.160Z,39.2467,-99.046,5,3.7,mwr,,46,0.69,0.4,us,us1000gfe0,2019-06-22T09:35:09.303Z,"6 km NNW of Natoma, Kansas",earthquake,4.7,2,0.066,22,reviewed,us,us
+2018-08-24T06:56:52.040Z,36.9477,-104.8541,6.8,3.6,mwr,,108,0.183,0.73,us,us1000ggha,2019-09-05T03:31:03.951Z,"20 km S of Weston, Colorado",earthquake,2.5,3.3,0.078,16,reviewed,us,us
+2018-08-24T07:59:19.440Z,36.9806,-104.8615,7.94,3.3,ml,,106,0.154,0.29,us,us1000ggic,2018-11-01T17:50:57.040Z,"16 km S of Weston, Colorado",earthquake,2.7,5.5,0.148,10,reviewed,us,us
+2018-08-24T10:02:37.580Z,39.7504,-108.3896,6.04,4.1,mwr,,34,0.4,0.74,us,us1000ggmk,2019-02-28T18:00:51.707Z,"43 km NW of Parachute, Colorado",earthquake,2.6,5.8,0.073,18,reviewed,us,us
+2018-08-25T10:42:10.680Z,39.729,-108.4262,3.24,3.4,ml,,50,0.429,0.78,us,us1000gh7l,2018-11-01T17:50:58.040Z,"44 km NW of Parachute, Colorado",earthquake,2.3,5.5,0.037,96,reviewed,us,us
+2018-08-26T17:57:49.080Z,40.2913333,-124.5805,18.01,3.03,ml,39,239,0.2264,0.13,nc,nc73076125,2018-11-01T17:51:00.040Z,"25km W of Petrolia, CA",earthquake,1,0.38,0.299,21,reviewed,nc,nc
+2018-08-27T07:44:55.020Z,37.3656,-97.9945,5,3.4,mb_lg,,91,0.068,0.27,us,us1000ghvz,2018-11-07T18:37:01.040Z,"9 km NNE of Harper, Kansas",earthquake,1.4,1.9,0.043,143,reviewed,us,us
+2018-08-27T19:37:27.430Z,33.8978333,-116.2145,7.18,3.03,ml,84,37,0.0439,0.16,ci,ci38260864,2018-11-07T18:37:02.040Z,"18km ENE of Thousand Palms, CA",earthquake,0.11,0.34,0.148,156,reviewed,ci,ci
+2018-08-29T02:33:28.330Z,34.1363333,-117.7746667,5.46,4.38,mw,208,16,0.03385,0.26,ci,ci38038071,2021-04-20T17:57:09.669Z,"4km N of La Verne, CA",earthquake,0.11,0.48,,6,reviewed,ci,ci
+2018-08-29T02:34:17.350Z,34.135,-117.771,4.44,3.39,ml,93,24,0.03054,0.25,ci,ci38038079,2018-11-07T18:37:04.040Z,"4km N of La Verne, CA",earthquake,0.16,0.36,0.144,21,reviewed,ci,ci
+2018-08-29T03:04:06.600Z,36.4571,-98.8042,4.87,3.2,mwr,,34,,0.29,us,us1000gjab,2018-11-07T18:37:04.040Z,"15 km SSE of Waynoka, Oklahoma",earthquake,1.7,3.9,,15,reviewed,ok,slm
+2018-08-29T14:16:14.810Z,40.7737,-108.7452,4.03,3.3,ml,,71,0.658,0.57,us,us1000gjem,2018-11-07T18:37:04.040Z,"57 km ESE of Dutch John, Utah",earthquake,2.1,5.5,0.045,64,reviewed,us,us
+2018-08-29T23:56:20.270Z,37.3549,-97.859,9.75,3,mb_lg,,72,0.124,0.24,us,us2000h54t,2018-11-07T18:37:06.040Z,"8 km NNE of Danville, Kansas",earthquake,2.5,6.6,0.047,117,reviewed,us,us
+2018-08-30T00:12:55.860Z,37.3722,-97.8452,5,3.1,mb_lg,,58,0.142,0.55,us,us2000h551,2018-11-07T18:37:06.040Z,"9 km SW of Milton, Kansas",earthquake,2,2,0.046,123,reviewed,us,us
+2018-08-30T04:54:14.130Z,37.361,-97.851,10.32,3.2,mb_lg,,78,0.133,0.31,us,us2000h585,2018-11-07T18:37:06.040Z,"9 km NNE of Danville, Kansas",earthquake,1.4,6.3,0.044,137,reviewed,us,us
+2018-08-30T20:37:08.100Z,37.3356,-97.8648,5,3.9,mwr,,60,0.112,0.48,us,us2000h5nn,2020-03-20T02:25:02.931Z,"5 km NNE of Danville, Kansas",earthquake,2.6,1.9,0.04,59,reviewed,us,us
+2018-08-30T22:08:09.700Z,39.2371667,-120.1093333,2.09,3.75,mw,34,61,0.1998,0.17,nc,nc73078235,2019-10-25T16:02:23.695Z,"5km W of Tahoe Vista, CA",earthquake,0.22,1.47,,3,reviewed,nc,nc
+2018-08-31T04:44:29.930Z,37.3866,-97.9537,5,3,mb_lg,,57,0.095,0.4,us,us2000h5vk,2018-11-07T18:37:07.040Z,"12 km SW of Norwich, Kansas",earthquake,2,2,0.046,121,reviewed,us,us
+2018-09-01T12:19:54.550Z,32.0881667,-115.023,20,3.99,mw,24,285,0.2188,0.32,ci,ci38043735,2018-11-07T18:37:08.040Z,"12km S of Estacion Coahuila, B.C., MX",earthquake,1.18,1.61,,4,reviewed,ci,ci
+2018-09-01T15:45:06.620Z,38.8263333,-122.8115,1.59,3.76,mw,63,27,0.003138,0.06,nc,nc73078885,2018-11-07T18:37:08.040Z,"7km NW of The Geysers, CA",earthquake,0.1,0.16,,4,reviewed,nc,nc
+2018-09-01T16:50:29.340Z,33.4878333,-116.8065,2.28,3.13,ml,158,12,0.01709,0.23,ci,ci38043999,2018-11-07T18:37:08.040Z,"7km NE of Aguanga, CA",earthquake,0.09,0.24,0.151,294,reviewed,ci,ci
+2018-09-02T00:27:54.170Z,38.0713333,-122.2258333,8.04,3.29,mw,122,73,0.003552,0.17,nc,nc73079240,2018-11-11T14:10:26.837Z,"2km NNW of Crockett, CA",earthquake,0.13,0.18,,5,reviewed,nc,nc
+2018-09-03T02:10:12.290Z,37.4673333,-121.8196667,7.79,3.4,mw,129,32,0.02155,0.12,nc,nc73079795,2020-08-18T16:45:30.114Z,"9km ENE of Milpitas, CA",earthquake,0.09,0.25,,4,reviewed,nc,nc
+2018-09-03T23:46:49.930Z,31.1396,-103.2517,5,3,mb_lg,,53,0.227,0.64,us,us2000h7e7,2018-11-09T21:54:17.040Z,"21 km WSW of Coyanosa, Texas",earthquake,1.2,1.8,0.07,67,reviewed,us,us
+2018-09-04T15:06:46.490Z,31.9613,-94.4343,5,3.5,mwr,,73,1.168,0.29,us,us2000h85v,2020-03-20T02:24:25.532Z,"7 km NNW of Timpson, Texas",earthquake,2.3,2,,13,reviewed,us,slm
+2018-09-07T10:45:38.640Z,33.4828333,-116.8026667,1.94,3.21,ml,133,21,0.02256,0.23,ci,ci38050879,2018-11-09T21:54:37.040Z,"7km NE of Aguanga, CA",earthquake,0.1,0.23,0.136,290,reviewed,ci,ci
+2018-09-08T05:39:35.140Z,34.4358333,-116.899,2.5,3,ml,99,29,0.05767,0.13,ci,ci38052575,2019-01-30T03:07:23.280Z,"6km E of Lucerne Valley, CA",earthquake,0.08,0.44,0.157,203,reviewed,ci,ci
+2018-09-08T06:23:24.870Z,37.1983,-97.7742,6.46,3.7,mb,,117,0.046,0.2,us,us2000haw4,2018-11-09T21:53:50.040Z,"7 km E of Freeport, Kansas",earthquake,1.1,1.6,0.226,5,reviewed,ismp,us
+2018-09-08T13:24:56.160Z,31.8488333,-117.1963333,26.1,3.75,mw,24,271,0.453,0.24,ci,ci38052847,2018-11-09T21:54:44.040Z,"49km W of El Sauzal, B.C., MX",earthquake,0.96,0.43,,4,reviewed,ci,ci
+2018-09-08T14:36:33.400Z,36.4603,-98.7576,7.664,3.5,mwr,,34,,0.89,us,us2000hb2a,2018-11-09T21:53:49.040Z,"17 km SE of Waynoka, Oklahoma",earthquake,3,6.1,,16,reviewed,ok,slm
+2018-09-08T17:27:52.809Z,39.1329,-116.0958,1.2,3,ml,16,73.09,0.88,0.2138,nn,nn00655590,2018-11-09T21:54:46.040Z,"Nevada",earthquake,,2.9,0.35,5,reviewed,nn,nn
+2018-09-08T21:22:23.560Z,42.6355,-111.4818,10.21,3,ml,,50,0.305,0.43,us,us2000hb70,2018-11-09T21:53:54.040Z,"10 km ESE of Soda Springs, Idaho",earthquake,2.1,11.2,0.046,62,reviewed,us,us
+2018-09-09T01:48:38.500Z,36.489,-98.7253,7.712,3.5,ml,,49,,0.34,us,us2000hbb0,2018-11-09T21:54:49.040Z,"17 km SE of Waynoka, Oklahoma",earthquake,1.3,5.3,,,reviewed,ok,ok
+2018-09-09T12:55:44.500Z,48.275,-123.0391667,23.09,3.26,ml,48,45,0.2016,0.24,uw,uw61426956,2018-11-19T11:32:59.696Z,"16 km NNE of Jamestown, Washington",earthquake,0.31,0.94,0.217,34,reviewed,uw,uw
+2018-09-09T13:21:20.790Z,31.2365,-115.6705,12.13,3.43,ml,5,202,0.1824,0.09,ci,ci38054071,2018-10-23T16:09:41.632Z,"100km ESE of Maneadero, B.C., MX",earthquake,0.85,0.46,0.158,174,reviewed,ci,ci
+2018-09-11T16:11:29.400Z,36.2153,-97.5688,6.708,3.3,ml,,23,,0.12,us,us2000hcrq,2018-11-21T18:19:09.040Z,"Oklahoma",earthquake,1.2,5.9,,,reviewed,ok,ok
+2018-09-12T05:34:26.620Z,38.7653333,-112.7343333,-0.02,3.82,ml,34,47,0.2645,0.26,uu,uu60296322,2021-05-05T21:05:33.560Z,"26 km W of Kanosh, Utah",earthquake,0.44,2.34,0.179,29,reviewed,uu,uu
+2018-09-12T15:13:09.140Z,31.5816667,-114.401,8.65,3.45,ml,10,125,0.6652,0.11,ci,ci38057687,2018-11-21T18:19:09.040Z,"89km SE of Estacion Coahuila, B.C., MX",earthquake,0.47,2.21,0.162,30,reviewed,ci,ci
+2018-09-13T07:43:31.750Z,37.3406,-97.9786,5.3,3.1,mb_lg,,78,0.045,0.27,us,us2000hdv1,2018-11-21T18:19:10.040Z,"7 km NE of Harper, Kansas",earthquake,1.9,2.3,0.046,122,reviewed,us,us
+2018-09-13T18:30:50.000Z,36.8261,-98.4513,3.145,3,ml,,97,,0.16,us,us2000he3c,2018-11-21T18:19:10.040Z,"8 km SSW of Burlington, Oklahoma",earthquake,1.5,1.9,,,reviewed,ok,ok
+2018-09-18T01:07:03.500Z,32.3201667,-115.2208333,25.99,3.08,ml,26,193,0.122,0.35,ci,ci38064031,2018-11-27T15:51:58.040Z,"5km SW of Delta, B.C., MX",earthquake,0.91,1.22,0.165,152,reviewed,ci,ci
+2018-09-18T09:22:31.190Z,42.5869,-111.1523,6.23,3.3,ml,,53,0.182,0.61,us,us2000hgat,2018-11-27T15:51:58.040Z,"17 km SW of Fairview, Wyoming",earthquake,1.6,6.3,0.036,104,reviewed,us,us
+2018-09-19T05:15:16.000Z,35.8444,-97.3384,4.48,3,ml,,17,,0.14,us,us2000hgzj,2018-11-27T15:51:59.040Z,"8 km W of Meridian, Oklahoma",earthquake,0.9,5.3,,,reviewed,ok,ok
+2018-09-20T12:44:34.520Z,34.1016667,-117.31,15.89,3.43,ml,172,13,0.01049,0.19,ci,ci37361730,2018-11-27T15:52:00.040Z,"3km N of Colton, CA",earthquake,0.1,0.22,0.145,337,reviewed,ci,ci
+2018-09-21T13:34:51.160Z,42.4308333,-111.5076667,11.02,3.21,ml,21,117,0.3743,0.17,uu,uu60297227,2018-11-27T15:52:01.040Z,"12 km WSW of Georgetown, Idaho",earthquake,0.43,0.66,0.107,24,reviewed,uu,uu
+2018-09-23T01:01:45.190Z,42.2928,-107.5828,9.64,3.1,ml,,121,0.861,0.75,us,us2000hiud,2018-11-27T15:52:02.040Z,"5 km NNW of Bairoil, Wyoming",earthquake,2.9,8.5,0.051,50,reviewed,us,us
+2018-09-24T19:46:05.700Z,35.9609,-97.2376,6.085,3.1,ml,,21,,0.29,us,us2000hjef,2018-12-01T16:45:04.040Z,"0 km NNW of Coyle, Oklahoma",earthquake,1.1,2.1,,,reviewed,ok,ok
+2018-09-26T07:37:17.300Z,36.1555,-98.2908,5.106,3,ml,,34,,0.18,us,us2000hk42,2018-12-01T16:45:25.040Z,"4 km NNE of Okeene, Oklahoma",earthquake,1.5,4.9,,,reviewed,ok,ok
+2018-09-26T21:47:49.000Z,34.0505,-97.4332,6.384,3,ml,,63,,0.76,us,us1000h300,2018-12-01T16:42:24.040Z,"12 km S of Wilson, Oklahoma",earthquake,1.3,5.9,,,reviewed,ok,ok
+2018-09-27T01:55:52.600Z,36.2051,-98.921,6.133,3,ml,,45,,0.3,us,us1000h335,2018-12-01T16:42:27.040Z,"1 km S of Chester, Oklahoma",earthquake,1.1,4.5,,,reviewed,ok,ok
+2018-09-27T03:46:11.000Z,35.9603,-97.2337,6.707,3.3,ml,,21,,0.18,us,us1000h33v,2018-12-01T16:42:29.040Z,"0 km N of Coyle, Oklahoma",earthquake,1,3,,,reviewed,ok,ok
+2018-09-28T07:07:08.700Z,35.0418,-97.5829,6.989,3,ml,,35,,0.41,us,us1000h3mg,2018-12-01T16:42:51.040Z,"4 km ENE of Dibble, Oklahoma",earthquake,1.2,5.3,,,reviewed,ok,ok
+2018-09-28T15:13:57.000Z,35.7771667,-118.2445,8.87,3.18,ml,41,55,0.08138,0.13,ci,ci37372850,2018-12-01T16:43:03.040Z,"16km E of Kernville, CA",earthquake,0.14,0.36,0.157,255,reviewed,ci,ci
+2018-09-29T02:17:46.720Z,32.3476667,-115.184,28.67,4.41,mw,34,172,0.1018,0.29,ci,ci37373442,2018-12-01T16:43:15.040Z,"1km SE of Delta, B.C., MX",earthquake,0.74,0.41,,6,reviewed,ci,ci
+2018-09-29T12:45:47.400Z,36.1793,-97.4823,5.48,3.4,mwr,,26,,0.21,us,us1000h490,2018-12-01T16:41:39.040Z,"9 km WNW of Orlando, Oklahoma",earthquake,0.8,3.7,,16,reviewed,ok,slm
+2018-09-30T14:41:29.510Z,34.002,-117.0178333,16.33,3.61,ml,166,17,0.06788,0.19,ci,ci37374890,2019-02-10T17:40:46.112Z,"4km ENE of Calimesa, CA",earthquake,0.1,0.25,0.14,290,reviewed,ci,ci
+2018-10-01T00:33:23.300Z,37.1802,-97.4537,6.47,3,ml,,193,0.139,0.31,us,us1000h4tp,2018-12-14T20:32:38.040Z,"11 km SE of Mayfield, Kansas",earthquake,1.6,2.3,0.188,12,reviewed,ismp,ismp
+2018-10-01T17:56:19.620Z,34.0013333,-117.0173333,15.87,3.48,ml,143,25,0.06715,0.18,ci,ci37376114,2018-12-14T20:32:38.040Z,"4km ENE of Calimesa, CA",earthquake,0.11,0.25,0.137,313,reviewed,ci,ci
+2018-10-02T10:29:16.300Z,36.2203,-98.9298,3.755,3,ml,,46,,0.71,us,us1000h5kf,2018-12-14T20:32:39.040Z,"0 km WNW of Chester, Oklahoma",earthquake,1.3,4.8,,,reviewed,ok,ok
+2018-10-03T07:36:41.360Z,37.371,-97.984,5,3.5,mb_lg,,90,0.074,0.29,us,us1000h656,2018-12-14T20:32:40.040Z,"10 km NNE of Harper, Kansas",earthquake,1.1,1.7,0.042,148,reviewed,us,us
+2018-10-03T09:28:05.100Z,36.2204,-98.9368,5.54,3.3,ml,,46,,0.26,us,us1000h66f,2018-12-14T20:32:40.040Z,"1 km WNW of Chester, Oklahoma",earthquake,1.9,5.5,,,reviewed,ok,ok
+2018-10-04T17:58:26.540Z,32.7376667,-118.3026667,12.97,3.27,ml,27,196,0.2358,0.28,ci,ci38315368,2018-12-14T20:32:41.040Z,"10km SSE of San Clemente Is. (SE tip), CA",earthquake,0.62,1.62,0.185,142,reviewed,ci,ci
+2018-10-05T13:29:37.550Z,36.7533333,-121.3536667,11.42,3.83,mw,87,42,0.07589,0.26,nc,nc73093981,2018-12-14T20:32:41.040Z,"5km SW of Tres Pinos, CA",earthquake,0.22,0.5,,8,reviewed,nc,nc
+2018-10-08T21:25:02.190Z,36.0675,-118,2.92,3.23,ml,48,46,0.107,0.15,ci,ci38317720,2018-12-21T21:15:47.040Z,"5km WNW of Coso Junction, CA",earthquake,0.12,0.53,0.145,234,reviewed,ci,ci
+2018-10-09T22:32:36.500Z,36.842,-97.6888,2.542,3.5,ml,,40,,0.31,us,us1000h9qg,2018-12-21T21:15:48.040Z,"5 km NE of Medford, Oklahoma",earthquake,1.1,4.1,,,reviewed,ok,ok
+2018-10-10T08:48:25.600Z,38.838,-122.8208333,1.53,3.35,mw,64,39,0.01146,0.05,nc,nc73095656,2018-12-21T21:15:48.040Z,"9km WNW of Cobb, CA",earthquake,0.1,0.14,,3,reviewed,nc,nc
+2018-10-10T10:24:53.800Z,35.6779,-97.0834,6.132,3.6,ml,,31,,0.4,us,us1000h9wp,2018-12-21T21:15:48.040Z,"2 km SW of Wellston, Oklahoma",earthquake,1.6,6,,,reviewed,ok,ok
+2018-10-12T18:44:17.000Z,34.3383333,-117.7241667,5.19,3.05,ml,117,29,0.05783,0.23,ci,ci37387626,2018-12-21T21:15:51.040Z,"9km WSW of Wrightwood, CA",earthquake,0.13,0.58,0.152,296,reviewed,ci,ci
+2018-10-13T13:46:06.580Z,36.5803333,-121.177,6.22,3.17,ml,65,39,0.008661,0.08,nc,nc73096771,2018-12-21T21:15:52.040Z,"6km NNW of Pinnacles, CA",earthquake,0.13,0.25,0.198,42,reviewed,nc,nc
+2018-10-13T23:57:42.630Z,33.4898333,-116.8038333,2.84,3.3,ml,154,13,0.02266,0.22,ci,ci37389194,2018-12-21T21:15:52.040Z,"8km NE of Aguanga, CA",earthquake,0.09,0.33,0.145,320,reviewed,ci,ci
+2018-10-14T08:01:43.520Z,32.1628333,-115.0596667,19.15,3.29,ml,21,251,0.1403,0.36,ci,ci37390754,2018-12-21T21:15:52.040Z,"6km WSW of Estacion Coahuila, B.C., MX",earthquake,1.54,0.77,0.183,190,reviewed,ci,ci
+2018-10-14T11:14:07.870Z,42.7782,-109.0654,5,3.1,ml,,42,0.362,0.85,us,us1000hbyh,2018-12-21T21:15:52.040Z,"26 km SW of Boulder Flats, Wyoming",earthquake,4.5,2,0.039,88,reviewed,us,us
+2018-10-16T16:46:00.820Z,45.8447,-111.3781,5,3.3,ml,,87,0.068,0.38,us,us1000hcys,2019-02-22T06:59:44.146Z,"3 km WSW of Manhattan, Montana",earthquake,1.9,1.9,0.048,58,reviewed,us,us
+2018-10-17T17:47:19.600Z,30.6628,-114.194,10,4.1,mb,,179,0.677,0.74,us,us1000hdh6,2018-12-21T22:27:03.040Z,"73 km ESE of San Felipe, Mexico",earthquake,6.6,2,0.369,2,reviewed,us,us
+2018-10-17T22:09:19.450Z,33.7963333,-116.9673333,14.14,3.13,ml,160,16,0.01166,0.21,ci,ci37396426,2018-12-21T22:27:03.040Z,"2km NNW of San Jacinto, CA",earthquake,0.1,0.22,0.145,277,reviewed,ci,ci
+2018-10-20T13:04:29.620Z,35.3091,-101.7607,5,3.7,mwr,,54,0.429,0.71,us,us1000heyv,2020-03-20T02:24:07.787Z,"11 km NNE of Amarillo, Texas",earthquake,3.4,1.9,,24,reviewed,us,slm
+2018-10-22T06:32:58.370Z,37.4098333,-119.6053333,43.4,3.06,ml,31,158,0.1107,0.12,nc,nc73100261,2019-01-10T17:18:33.040Z,"10km NNE of Oakhurst, CA",earthquake,0.5,0.93,0.137,40,reviewed,nc,nc
+2018-10-22T11:06:20.250Z,36.2715,-89.4448333,6.52,3.27,md,52,48,0.02981,0.08,nm,nm60216622,2019-04-24T11:34:50.848Z,"3 km ENE of Ridgely, Tennessee",earthquake,0.14,0.31,0.1,44,reviewed,nm,nm
+2018-10-22T14:12:05.230Z,48.9014,-112.5155,5.8,3.1,ml,,121,0.543,0.1,us,us1000hflv,2019-01-10T17:18:33.040Z,"26 km NNW of Santa Rita, Montana",earthquake,3.7,6.2,0.16,9,reviewed,us,mb
+2018-10-22T18:33:30.900Z,36.2176,-98.9302,3.965,3.1,ml,,78,,0.85,us,us1000hfqy,2019-01-10T17:18:33.040Z,"0 km W of Chester, Oklahoma",earthquake,2.7,3.3,,,reviewed,ok,ok
+2018-10-23T11:29:00.600Z,34.0524,-97.4131,6.535,3.4,ml,,42,,0.52,us,us1000hg2t,2019-01-10T17:18:34.040Z,"12 km S of Wilson, Oklahoma",earthquake,0.8,5.4,,,reviewed,ok,ok
+2018-10-24T21:28:02.960Z,36.6015,-117.9796667,10.56,3.59,ml,47,29,0.1511,0.22,ci,ci37403594,2019-01-10T17:18:35.040Z,"8km ENE of Lone Pine, CA",earthquake,0.21,0.68,0.138,268,reviewed,ci,ci
+2018-10-25T09:41:25.810Z,35.4881667,-118.303,1.94,3.02,ml,55,42,0.1412,0.14,ci,ci37403994,2019-01-10T17:18:36.040Z,"20km ESE of Bodfish, CA",earthquake,0.13,0.34,0.143,185,reviewed,ci,ci
+2018-10-25T10:26:01.200Z,35.9631,-97.2321,4.964,3,ml,,20,,0.23,us,us1000hgzl,2019-01-10T17:18:36.040Z,"0 km NNE of Coyle, Oklahoma",earthquake,1.1,3.7,,,reviewed,ok,ok
+2018-10-27T10:34:24.460Z,37.4941667,-110.515,6,3.41,ml,16,134,0.9559,0.18,uu,uu60302797,2021-05-05T21:05:38.130Z,"17 km ENE of Halls Crossing, Utah",earthquake,0.76,31.61,0.366,11,reviewed,uu,uu
+2018-10-27T13:58:18.110Z,35.3913333,-118.5443333,4.64,3.07,ml,54,51,0.142,0.14,ci,ci37406098,2019-01-10T17:18:39.040Z,"22km SSW of Bodfish, CA",earthquake,0.13,0.52,0.155,267,reviewed,ci,ci
+2018-10-28T14:21:14.740Z,32.9043,-100.9065,4.87,3.1,mb_lg,,52,0.031,0.43,us,us1000hi86,2019-01-10T17:18:41.040Z,"20 km N of Snyder, Texas",earthquake,2.9,6.2,0.061,71,reviewed,us,us
+2018-10-29T05:22:12.180Z,36.0738333,-120.6433333,4.91,3.31,mw,76,53,0.03853,0.11,nc,nc73103501,2019-01-21T14:29:37.040Z,"24km ENE of San Ardo, CA",earthquake,0.19,0.33,,4,reviewed,nc,nc
+2018-10-30T08:15:17.110Z,38.0615,-112.798,11.67,3.56,ml,33,44,0.1634,0.22,uu,uu60303007,2021-05-05T21:05:39.830Z,"19 km N of Paragonah, Utah",earthquake,0.37,0.57,0.087,23,reviewed,uu,uu
+2018-10-31T23:50:49.970Z,32.8871,-100.9162,5,3,mb_lg,,39,0.017,1.03,us,us2000i503,2019-01-21T14:29:41.040Z,"18 km N of Snyder, Texas",earthquake,2.4,2,0.055,106,reviewed,us,us
+2018-11-01T04:30:19.380Z,34.0456,-106.3369,8.54,3.2,ml,,36,0.262,0.78,us,us2000i53p,2019-01-21T14:29:42.040Z,"50 km ENE of San Antonio, New Mexico",earthquake,4.3,8.6,0.128,8,reviewed,us,us
+2018-11-02T03:56:20.310Z,30.957,-103.4725,7.27,3.1,ml,,69,0.132,0.45,us,us2000i5r8,2019-01-21T14:29:43.040Z,"26 km E of Balmorhea, Texas",earthquake,1.7,1,0.059,38,reviewed,us,us
+2018-11-02T12:58:54.230Z,36.6801667,-121.3146667,6.48,4.11,mw,80,54,0.06916,0.15,nc,nc73105276,2019-10-15T22:50:23.993Z,"12km S of Tres Pinos, CA",earthquake,0.14,0.51,,5,reviewed,nc,nc
+2018-11-02T13:01:14.920Z,36.6828333,-121.3213333,5.52,3.09,ml,69,53,0.07203,0.14,nc,nc73105281,2019-01-21T14:29:44.040Z,"12km S of Tres Pinos, CA",earthquake,0.13,0.64,0.111,12,reviewed,nc,nc
+2018-11-02T13:22:45.940Z,36.6793333,-121.3055,2.61,3.56,mw,31,77,0.06873,0.05,nc,nc73105296,2019-01-21T14:29:44.040Z,"12km S of Tres Pinos, CA",earthquake,0.19,1.05,,6,reviewed,nc,nc
+2018-11-02T15:15:48.880Z,36.6775,-121.3038333,5.08,3.12,ml,59,54,0.06707,0.06,nc,nc73105336,2019-01-21T14:29:44.040Z,"13km S of Tres Pinos, CA",earthquake,0.11,0.58,0.166,40,reviewed,nc,nc
+2018-11-02T15:27:03.690Z,36.6763333,-121.303,5.27,3.55,mw,65,54,0.06601,0.07,nc,nc73105346,2019-01-21T14:29:44.040Z,"13km S of Tres Pinos, CA",earthquake,0.12,0.52,,5,reviewed,nc,nc
+2018-11-02T16:19:30.540Z,36.6861667,-121.3178333,6.54,3.31,ml,74,53,0.0752,0.11,nc,nc73105366,2019-01-21T14:29:44.040Z,"12km S of Tres Pinos, CA",earthquake,0.13,0.49,0.155,49,reviewed,nc,nc
+2018-11-04T21:31:39.320Z,35.1715,-111.541,5,3.1,ml,,94,0.37,0.85,us,us2000i6t5,2019-01-21T14:29:47.040Z,"10 km ESE of Flagstaff, Arizona",earthquake,1.1,1.9,0.038,89,reviewed,us,us
+2018-11-05T00:53:57.000Z,35.2355,-97.7523,6.28,3.3,ml,,53,,0.4,us,us2000i6u3,2020-03-20T02:23:49.050Z,"1 km W of Bridge Creek, Oklahoma",earthquake,1.1,4.9,,,reviewed,ok,ok
+2018-11-06T06:35:51.550Z,36.1476667,-118.0665,0.59,3.48,ml,32,76,0.1739,0.17,ci,ci38351080,2019-01-21T16:42:59.040Z,"16km NW of Coso Junction, CA",earthquake,0.18,0.5,0.14,302,reviewed,ci,ci
+2018-11-08T17:16:50.040Z,33.7793333,-116.1338333,7.87,3.2,ml,119,34,0.07507,0.17,ci,ci38354328,2019-01-21T16:42:59.040Z,"10km NE of Indio, CA",earthquake,0.1,0.4,0.153,260,reviewed,ci,ci
+2018-11-09T05:57:06.020Z,32.3843333,-115.2398333,12.13,3.25,ml,31,118,0.06533,0.38,ci,ci38354928,2019-01-21T16:42:59.040Z,"6km NW of Delta, B.C., MX",earthquake,0.71,1.56,0.154,193,reviewed,ci,ci
+2018-11-09T14:33:51.830Z,25.9824,-110.4898,10,4.9,mb,,153,2.339,1.06,us,us1000hpq9,2019-01-21T16:42:57.040Z,"86 km E of Loreto, Mexico",earthquake,8.2,1.9,0.048,136,reviewed,us,us
+2018-11-09T14:45:50.680Z,33.4835,-116.8021667,2.05,3.7,mw,135,12,0.02883,0.26,ci,ci38355352,2019-04-05T20:44:20.070Z,"7km NE of Aguanga, CA",earthquake,0.11,0.25,,4,reviewed,ci,ci
+2018-11-09T14:58:09.270Z,33.4853333,-116.8048333,1.43,3.78,mw,138,12,0.02722,0.22,ci,ci38355456,2019-01-21T16:42:59.040Z,"7km NE of Aguanga, CA",earthquake,0.1,0.23,,4,reviewed,ci,ci
+2018-11-09T20:31:48.410Z,39.4251667,-123.2875,5.55,3.79,mw,51,55,0.05842,0.08,nc,nc73109006,2019-09-03T15:25:32.329Z,"6km ENE of Willits, CA",earthquake,0.12,0.3,,6,reviewed,nc,nc
+2018-11-10T14:11:54.750Z,36.6686667,-121.2943333,5.89,3.45,mw,68,54,0.05996,0.09,nc,nc73109266,2019-01-21T16:42:59.040Z,"14km S of Tres Pinos, CA",earthquake,0.13,0.4,,4,reviewed,nc,nc
+2018-11-10T19:56:02.860Z,38.061,-122.2285,8.84,3.53,mw,192,61,0.006408,0.17,nc,nc73109341,2020-09-05T08:15:30.587Z,"2km NW of Crockett, CA",earthquake,0.11,0.16,,5,reviewed,nc,nc
+2018-11-11T06:44:56.069Z,40.4561,-116.1253,7.7,3.3,ml,41,83.22,0.502,0.1737,nn,nn00665118,2019-01-21T16:42:55.040Z,"28 km S of Carlin, Nevada",earthquake,,2.9,0.29,24,reviewed,nn,nn
+2018-11-12T18:39:18.780Z,36.4018,-96.8737,5,3,mb_lg,,69,0.058,0.26,us,us1000hqw3,2019-02-14T01:01:24.567Z,"9 km NW of Pawnee, Oklahoma",earthquake,0.9,1.9,0.06,72,reviewed,us,us
+2018-11-12T23:52:23.250Z,42.653,-111.4862,5,3.2,ml,,140,0.196,0.3,us,us1000hr34,2019-01-30T18:36:20.040Z,"9 km E of Soda Springs, Idaho",earthquake,0.8,1.9,0.037,96,reviewed,us,us
+2018-11-13T17:17:23.740Z,42.6636,-111.4842,5,3,ml,,66,0.205,1.07,us,us1000hrb5,2019-01-30T18:36:23.040Z,"9 km E of Soda Springs, Idaho",earthquake,1.1,1.8,0.034,116,reviewed,us,us
+2018-11-14T03:08:50.040Z,36.2908,-97.0122,5.32,3.3,mb_lg,,52,0.028,0.32,us,us1000hrgv,2020-03-20T02:23:26.788Z,"0 km SSW of Morrison, Oklahoma",earthquake,1.1,1.3,0.049,108,reviewed,us,us
+2018-11-14T21:51:23.060Z,42.6567,-111.4654,7.62,3.1,ml,,71,0.193,0.54,us,us1000hrw3,2019-01-30T18:36:24.040Z,"11 km E of Soda Springs, Idaho",earthquake,1.4,5.6,0.042,76,reviewed,us,us
+2018-11-15T06:40:26.220Z,33.157,-115.636,3.26,3.45,ml,72,25,0.02662,0.24,ci,ci38133927,2019-01-30T18:36:24.040Z,"12km WNW of Calipatria, CA",earthquake,0.15,0.29,0.135,279,reviewed,ci,ci
+2018-11-15T09:33:12.630Z,42.6699,-111.4571,9.83,3.8,mwr,,50,0.203,0.51,us,us1000hs2y,2019-01-30T18:36:24.040Z,"12 km E of Soda Springs, Idaho",earthquake,2.4,6.5,0.039,63,reviewed,us,us
+2018-11-16T17:25:19.970Z,36.9648,-97.8413,7.3,3,ml,,43,0.098,0.68,us,us1000hssn,2019-01-30T18:36:25.040Z,"11 km NE of Wakita, Oklahoma",earthquake,1,2,0.217,22,reviewed,ok,ok
+2018-11-18T04:57:58.210Z,35.8532,-97.8183,6.54,3,ml,,51,0.171,0.23,us,us1000htf6,2019-01-30T18:36:22.040Z,"10 km E of Kingfisher, Oklahoma",earthquake,0.7,5.1,0.178,25,reviewed,ok,ok
+2018-11-19T11:09:13.050Z,47.698,-123.551666666667,39.32,4.07,ml,53,62,,0.24,uw,uw61504942,2019-02-02T20:02:25.040Z,"37 km NE of Amanda Park, Washington",earthquake,0.35,0.38,0.174372415030636,40,reviewed,uw,uw
+2018-11-19T18:12:55.280Z,35.0272,-97.623,9.2,3,ml,,42,0.095,0.69,us,us1000hu0b,2019-02-02T20:02:26.040Z,"0 km SE of Dibble, Oklahoma",earthquake,1.2,8.1,0.129,19,reviewed,ok,ok
+2018-11-19T20:18:42.510Z,32.2065,-115.2535,10.95,4.82,mw,29,149,0.2168,0.38,ci,ci38138175,2019-02-02T20:02:26.040Z,"8km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.79,31.61,,6,reviewed,ci,ci
+2018-11-19T20:25:01.260Z,32.2325,-115.251,21.33,3.22,ml,22,146,0.192,0.29,ci,ci38138183,2019-02-02T20:02:25.040Z,"8km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.63,1.54,0.162,81,reviewed,ci,ci
+2018-11-19T23:49:15.230Z,32.2073333,-115.226,18.63,3.51,ml,28,167,0.2219,0.37,ci,ci38138415,2019-02-02T20:02:27.040Z,"6km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.89,1.37,0.216,226,reviewed,ci,ci
+2018-11-19T23:51:18.840Z,32.215,-115.2321667,19.65,3.26,ml,27,165,0.213,0.32,ci,ci38138431,2019-02-02T20:02:27.040Z,"6km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.86,1.12,0.204,127,reviewed,ci,ci
+2018-11-20T01:37:39.420Z,32.2201653,-115.231163,22.52,3.52,ml,28,164,0.2084,0.33,ci,ci38138535,2019-02-02T20:02:27.040Z,"6km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.89,2.15,0.308,22,reviewed,ci,ci
+2018-11-20T07:11:38.710Z,44.3532,-114.9831,5,3.1,ml,,61,0.891,0.58,us,us1000hubi,2019-02-02T20:02:27.040Z,"15 km NNW of Stanley, Idaho",earthquake,6,2,0.244,31,reviewed,us,mb
+2018-11-20T22:39:05.970Z,45.9525,-115.7774,12.95,4.1,mwr,,33,0.879,0.62,us,us1000hupx,2020-04-01T00:13:36.468Z,"21 km SE of Stites, Idaho",earthquake,2.2,7.1,0.038,66,reviewed,us,us
+2018-11-22T01:55:41.000Z,36.4481667,-89.5365,9.77,3.12,md,71,27,0.05864,0.1,nm,nm60245401,2019-02-02T20:02:28.040Z,"9 km NW of Tiptonville, Tennessee",earthquake,0.11,0.24,0.1,70,reviewed,nm,nm
+2018-11-22T23:01:52.440Z,36.9198,-97.9274,5,3.1,ml,,71,0.047,0.52,us,us1000hvkd,2019-02-02T20:02:28.040Z,"4 km N of Wakita, Oklahoma",earthquake,1.2,2.7,,8,reviewed,ok,ok
+2018-11-23T05:35:48.110Z,45.3623,-116.1946,10,3,ml,,65,0.307,0.9,us,us1000hvlk,2019-02-02T20:02:25.040Z,"11 km SE of Riggins, Idaho",earthquake,3.4,2,0.048,58,reviewed,us,us
+2018-11-23T14:43:09.270Z,31.0586,-103.3193,5,3.1,mb_lg,,58,0.138,0.72,us,us1000hvsq,2019-02-02T20:02:29.040Z,"31 km SW of Coyanosa, Texas",earthquake,1.4,1.8,0.089,41,reviewed,us,us
+2018-11-25T22:24:48.620Z,35.233,-97.7888,6,3,ml,,64,0.028,0.83,us,us1000hwh3,2019-02-02T20:02:30.040Z,"4 km W of Bridge Creek, Oklahoma",earthquake,1.5,4.4,0.259,17,reviewed,ok,ok
+2018-11-26T13:46:12.670Z,34.6358,-96.3272,5.8,3.1,ml,,249,0.075,1.06,us,us1000hwmq,2019-02-09T19:02:10.040Z,"3 km NNE of Centrahoma, Oklahoma",earthquake,2,3.2,0.159,9,reviewed,ok,ok
+2018-11-26T13:52:51.530Z,34.6437,-96.3232,5.68,3,ml,,249,0.072,1.15,us,us1000hwmw,2019-02-09T19:02:10.040Z,"4 km NNE of Centrahoma, Oklahoma",earthquake,2.3,5.7,0.139,9,reviewed,ok,ok
+2018-11-26T15:42:49.810Z,34.053,-97.4342,6,3.1,ml,,62,0.22,0.77,us,us1000hwnz,2019-02-09T19:02:10.040Z,"12 km S of Wilson, Oklahoma",earthquake,2.1,7.8,0.195,8,reviewed,ok,ok
+2018-11-27T08:07:07.060Z,34.6387,-96.3223,6.07,3.2,ml,,192,0.076,0.59,us,us1000hwyf,2019-02-09T19:02:10.040Z,"3 km NNE of Centrahoma, Oklahoma",earthquake,1.9,5.3,0.194,17,reviewed,ok,ok
+2018-11-27T13:07:12.830Z,36.0735,-120.1881667,10.8,4,mw,92,51,0.06483,0.11,nc,nc73116386,2019-02-09T19:02:10.040Z,"9km NW of Avenal, CA",earthquake,0.18,0.32,,5,reviewed,nc,nc
+2018-11-29T13:48:53.480Z,33.014,-115.9866667,10.64,3.91,mw,99,32,0.1277,0.25,ci,ci38148759,2019-07-12T13:43:55.969Z,"20km SE of Ocotillo Wells, CA",earthquake,0.15,0.52,,3,reviewed,ci,ci
+2018-11-30T16:34:36.880Z,42.6811,-111.0437,5,3.1,ml,,66,0.094,0.67,us,us1000hydr,2019-02-09T19:02:09.040Z,"5 km W of Fairview, Wyoming",earthquake,1.3,1.4,0.04,84,reviewed,us,us
+2018-11-30T23:56:05.550Z,37.3583,-97.9744,5.8,3.2,mb_lg,,90,0.063,0.36,us,us1000hyzg,2019-02-09T19:02:14.040Z,"9 km NNE of Harper, Kansas",earthquake,1.6,2.1,0.064,64,reviewed,us,us
+2018-12-02T00:12:48.870Z,36.4162,-96.9059,7.17,3.1,mb_lg,,56,0.03,0.24,us,us1000i02y,2019-02-09T19:02:19.040Z,"12 km NW of Pawnee, Oklahoma",earthquake,1,2.1,0.052,98,reviewed,us,us
+2018-12-03T21:50:08.900Z,40.9818333,-123.5788333,27.47,3.4,ml,40,40,0.1582,0.17,nc,nc73118836,2019-02-16T19:52:17.040Z,"6km NE of Willow Creek, CA",earthquake,0.4,1.09,0.278,19,reviewed,nc,nc
+2018-12-03T22:44:56.920Z,33.4906667,-116.8038333,2.42,3.1,ml,141,11,0.02184,0.22,ci,ci38152023,2019-02-16T19:52:17.040Z,"8km NE of Aguanga, CA",earthquake,0.1,0.26,0.153,221,reviewed,ci,ci
+2018-12-04T15:14:25.886Z,39.1155,-119.7303,8.4,3.2,ml,29,33.24,0.043,0.2119,nn,nn00668094,2019-02-16T19:52:19.040Z,"5 km NE of Indian Hills, Nevada",earthquake,,0.9,0.34,15,reviewed,nn,nn
+2018-12-04T22:06:55.200Z,33.4848333,-116.8036667,1.26,3.23,ml,126,18,0.0276,0.23,ci,ci38385480,2019-02-16T19:52:20.040Z,"7km NE of Aguanga, CA",earthquake,0.11,0.23,0.153,278,reviewed,ci,ci
+2018-12-05T02:02:59.100Z,36.4547,-98.8018,5.79,3.2,ml,,71,0.005,0.47,us,us1000i2fg,2019-02-16T19:52:20.040Z,"15 km SSE of Waynoka, Oklahoma",earthquake,0.7,3.8,0.134,20,reviewed,ok,ok
+2018-12-05T09:01:36.850Z,37.4048333,-118.604,10.1,3.19,ml,38,73,0.06094,0.06,nc,nc73119281,2019-02-16T19:52:22.040Z,"1km SSW of Round Valley, CA",earthquake,0.28,0.75,0.202,13,reviewed,nc,nc
+2018-12-05T16:55:16.730Z,36.1019,-97.8459,5,3,mb_lg,,42,0.187,0.29,us,us1000i2x0,2019-02-16T19:52:24.040Z,"4 km E of Hennessey, Oklahoma",earthquake,1.1,1.8,0.056,82,reviewed,us,us
+2018-12-05T21:40:16.620Z,35.7303333,-117.0776667,0.84,4.2,mw,60,34,0.2316,0.17,ci,ci38386960,2019-02-16T19:52:25.040Z,"28km E of Trona, CA",earthquake,0.13,0.61,,6,reviewed,ci,ci
+2018-12-05T22:10:06.190Z,35.7286667,-117.0745,1.68,3.73,mw,54,38,0.2346,0.14,ci,ci38386992,2019-02-16T19:52:25.040Z,"28km E of Trona, CA",earthquake,0.12,0.49,,6,reviewed,ci,ci
+2018-12-10T06:23:03.630Z,34.0395,-97.406,19.61,3,ml,,66,0.193,0.9,us,us1000i5ib,2019-02-16T22:29:02.040Z,"13 km S of Wilson, Oklahoma",earthquake,1.9,7.1,0.213,11,reviewed,ok,ok
+2018-12-10T07:38:03.330Z,38.7356667,-122.7235,1.53,3.09,ml,71,48,0.01062,0.11,nc,nc73120976,2019-02-16T22:29:02.040Z,"5km SSW of Anderson Springs, CA",earthquake,0.11,0.2,0.229,41,reviewed,nc,nc
+2018-12-11T10:02:29.440Z,39.6254,-107.3434,3.83,3.4,ml,,132,0.858,0.27,us,us2000isgx,2019-02-16T22:29:04.040Z,"8 km NNW of No Name, Colorado",earthquake,2.5,5.1,0.034,113,reviewed,us,us
+2018-12-11T11:13:07.170Z,39.5954,-107.3581,1.13,3.6,ml,,133,0.867,0.2,us,us2000ish5,2019-02-16T22:29:04.040Z,"5 km NNW of Glenwood Springs, Colorado",earthquake,1.6,2.4,0.033,120,reviewed,us,us
+2018-12-11T11:15:47.970Z,39.5855,-107.3438,5,3.2,ml,,93,0.882,0.67,us,us2000isl6,2019-02-16T22:29:04.040Z,"4 km NNW of Glenwood Springs, Colorado",earthquake,2.4,1.9,0.047,59,reviewed,us,us
+2018-12-12T09:14:43.610Z,35.6123333,-84.732,7.87,4.4,mw,32,40,,0.14,se,se60247871,2020-03-21T11:24:59.986Z,"12 km NNE of Decatur, Tennessee",earthquake,0.22,0.66,,0,reviewed,se,se
+2018-12-13T16:47:48.230Z,41.3296,-100.199,5,3,mb_lg,,68,0.084,0.78,us,us2000itd7,2019-02-16T22:29:07.040Z,"10 km S of Arnold, Nebraska",earthquake,2.2,2,0.084,38,reviewed,us,us
+2018-12-15T06:09:27.520Z,36.4483,-98.778,5,3.1,mb_lg,,28,0.041,0.57,us,us2000itsm,2019-02-16T22:29:09.040Z,"17 km SSE of Waynoka, Oklahoma",earthquake,2.4,2,0.053,92,reviewed,us,us
+2018-12-15T21:31:04.050Z,36.2856,-97.5158,4.86,3,mb_lg,,25,0.228,0.16,us,us2000itxh,2019-02-16T22:29:10.040Z,"5 km WNW of Lucien, Oklahoma",earthquake,1.1,4.5,0.055,87,reviewed,us,us
+2018-12-16T04:12:02.030Z,36.0383333,-83.6955,19.69,3.01,md,25,44,0.1909,0.19,se,se60222112,2019-03-05T21:06:28.148Z,"5 km ESE of Mascot, Tennessee",earthquake,0.29,0.75,0.091,22,reviewed,se,se
+2018-12-17T02:52:01.740Z,35.9568333,-116.7345,-0.34,3.62,ml,32,62,0.2346,0.19,ci,ci38164815,2019-02-23T20:20:50.040Z,"42km W of Shoshone, CA",earthquake,0.2,0.6,0.125,312,reviewed,ci,ci
+2018-12-17T07:42:48.230Z,36.4566,-98.7897,5,3,mb_lg,,95,0.043,0.3,us,us2000iud8,2019-02-23T20:21:06.040Z,"16 km SSE of Waynoka, Oklahoma",earthquake,1.7,1.8,0.058,78,reviewed,us,us
+2018-12-20T12:49:22.930Z,39.2456667,-111.475,4.84,3.12,ml,38,26,0.08897,0.21,uu,uu60307652,2021-05-05T21:05:44.490Z,"14 km E of Manti, Utah",earthquake,0.35,0.77,0.136,22,reviewed,uu,uu
+2018-12-20T13:24:02.129Z,39.1129,-119.729,8.1,3.6,ml,36,39.37,0.046,0.2444,nn,nn00670931,2019-02-23T20:21:42.040Z,"5 km ENE of Indian Hills, Nevada",earthquake,,1.1,0.26,10,reviewed,nn,nn
+2018-12-20T13:30:45.530Z,39.1135,-119.7306,7.9,3.2,ml,35,35.01,0.045,0.252,nn,nn00670948,2019-02-23T20:21:42.040Z,"5 km ENE of Indian Hills, Nevada",earthquake,,1,0.36,10,reviewed,nn,nn
+2018-12-20T16:36:04.840Z,44.7625,-111.4646,15.68,3.1,ml,,74,0.08,0.49,us,us2000ivfg,2019-02-23T20:20:51.040Z,"21 km W of Hebgen Lake Estates, Montana",earthquake,1.7,3.4,0.051,51,reviewed,us,us
+2018-12-20T20:18:22.940Z,33.4813333,-116.799,4.07,3.52,ml,129,13,0.03098,0.23,ci,ci38401064,2019-02-23T20:21:46.040Z,"8km NE of Aguanga, CA",earthquake,0.1,0.35,0.2,296,reviewed,ci,ci
+2018-12-21T17:18:25.510Z,38.8193333,-122.7975,3.42,3.22,ml,68,22,0.01985,0.08,nc,nc73125011,2019-02-23T20:22:11.040Z,"6km NW of The Geysers, CA",earthquake,0.12,0.17,0.173,47,reviewed,nc,nc
+2018-12-22T05:32:47.400Z,29.0573,-97.8935,5,3.2,mb_lg,,97,0.214,0.62,us,us2000iw7c,2019-02-23T20:22:23.040Z,"14 km NE of Falls City, Texas",earthquake,1.6,2,0.065,61,reviewed,us,us
+2018-12-22T07:41:52.550Z,29.037,-97.9797,5,3,mb_lg,,77,0.235,0.98,us,us2000iw8d,2019-02-23T20:22:24.040Z,"7 km NNE of Falls City, Texas",earthquake,1.7,2,0.073,49,reviewed,us,us
+2018-12-22T10:58:03.550Z,31.156,-103.259,5,3.4,mwr,,54,0.242,0.59,us,us2000iw9m,2019-02-23T20:22:26.040Z,"20 km WSW of Coyanosa, Texas",earthquake,1.8,1.9,0.098,10,reviewed,us,us
+2018-12-22T23:20:25.020Z,36.879,-97.9152,7.21,3.1,ml,,80,0.052,0.38,us,us2000iwfw,2019-02-23T20:22:33.040Z,"0 km SE of Wakita, Oklahoma",earthquake,1.4,5.7,0.254,19,reviewed,ok,ok
+2018-12-23T08:46:26.110Z,31.651,-104.5022,5,3,ml,,69,0.489,0.5,us,us2000iwlj,2019-02-23T20:22:38.040Z,"59 km SSW of Whites City, New Mexico",earthquake,1.7,1.9,0.105,62,reviewed,us,us
+2018-12-23T09:02:07.400Z,36.5698333,-121.163,3.45,3.13,ml,62,53,0.01386,0.07,nc,nc73125516,2019-03-09T02:29:04.980Z,"5km NNW of Pinnacles, CA",earthquake,0.11,0.16,0.18,46,reviewed,nc,nc
+2018-12-23T18:04:34.570Z,34.851,-120.3963333,1.42,3.23,ml,41,91,0.08524,0.2,ci,ci38404744,2019-02-23T20:22:42.040Z,"4km ESE of Orcutt, CA",earthquake,0.23,0.36,0.124,234,reviewed,ci,ci
+2018-12-25T05:08:43.040Z,31.4663333,-116.9935,5.56,3.47,ml,27,262,0.8897,0.29,ci,ci38406232,2019-01-07T22:00:40.611Z,"49km SW of Maneadero, B.C., MX",earthquake,0.78,1.39,0.226,200,reviewed,ci,ci
+2018-12-26T00:25:48.560Z,36.7135,-104.9838,5,3.6,mwr,,91,0.13,0.46,us,us2000ixjt,2019-03-05T17:46:33.040Z,"20 km NE of Ute Park, New Mexico",earthquake,1.9,2,0.075,17,reviewed,us,us
+2018-12-26T04:23:59.290Z,32.9543,-100.9086,1.15,3.3,ml,,57,0.078,0.38,us,us2000ixly,2019-03-05T17:46:34.040Z,"26 km N of Snyder, Texas",earthquake,1.8,8.2,0.148,6,reviewed,us,us
+2018-12-26T21:30:08.380Z,42.577,-111.4649,9.12,3.2,ml,,45,0.129,0.58,us,us2000ixth,2019-03-05T17:46:34.040Z,"13 km NW of Georgetown, Idaho",earthquake,1.5,9.7,0.053,46,reviewed,us,us
+2018-12-27T01:14:59.950Z,34.4076667,-116.892,1.56,3.41,ml,129,29,0.07698,0.14,ci,ci38407640,2019-03-05T17:46:35.040Z,"8km ESE of Lucerne Valley, CA",earthquake,0.08,0.22,0.131,318,reviewed,ci,ci
+2018-12-28T12:32:28.980Z,36.3858,-98.386,5,3.1,mb_lg,,45,0.345,0.31,us,us2000iym1,2019-03-05T17:46:37.040Z,"5 km ESE of Cleo Springs, Oklahoma",earthquake,1.1,1.9,0.054,88,reviewed,us,us
+2018-12-29T04:05:57.890Z,36.0998,-97.8674,5,3,mb_lg,,33,0.386,0.25,us,us2000iytp,2019-03-05T17:46:37.040Z,"3 km ESE of Hennessey, Oklahoma",earthquake,1.3,1.9,0.081,40,reviewed,us,us
+2018-12-30T01:29:37.170Z,37.5201667,-118.4011667,10.89,3.09,md,35,84,0.04358,0.06,nc,nc73128161,2019-03-05T17:46:39.040Z,"15km N of Dixon Lane-Meadow Creek, CA",earthquake,0.31,0.8,0.142,45,reviewed,nc,nc
+2018-12-30T09:08:56.100Z,35.3307,-112.5913,5,3,ml,,83,0.291,0.32,us,us2000iz5k,2019-03-05T17:46:39.040Z,"15 km NW of Ash Fork, Arizona",earthquake,1.1,1.9,0.044,67,reviewed,us,us
+2018-12-30T20:31:27.740Z,35.3304,-112.6311,5,3.2,ml,,65,0.281,0.65,us,us2000iza7,2020-02-16T15:13:18.088Z,"17 km NW of Ash Fork, Arizona",earthquake,1.4,1.9,0.05,52,reviewed,us,us

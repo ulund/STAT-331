@@ -1,0 +1,541 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2006-01-02T21:48:57.060Z,37.8415,-88.4171667,7.31,3.6,mlg,25,68,0.09007,0.45,nm,nm605979,2016-04-08T18:40:01.043Z,"3 km NNE of Eldorado, Illinois",earthquake,0.6,3.6,0.011,1,reviewed,nm,nm
+2006-01-03T08:21:24.480Z,28.502,-111.801,10,3.7,ml,10,241.6,,1.25,us,usp000e7ga,2014-11-07T01:28:03.060Z,"32 km SW of La Providencia, Mexico",earthquake,,,,,reviewed,us,us
+2006-01-03T11:05:10.260Z,49.327,-81.084,15,3.7,mblg,24,39.5,,,us,usp000e7gr,2014-11-07T01:28:03.214Z,"68 km NNW of Iroquois Falls, Canada",earthquake,,,,,reviewed,ott,ott
+2006-01-03T18:21:09.334Z,37.4385,-117.0855,5.4,3.1,ml,28,147.41,0.196,0.1347,nn,nn00172198,2018-04-24T20:27:42.002Z,"32 km SSE of Goldfield, Nevada",earthquake,,2.2,0.18,18,reviewed,nn,nn
+2006-01-03T21:58:23.780Z,28.327,-112.095,10,4.3,mb,11,245.4,,1.08,us,usp000e7hu,2014-11-07T01:28:03.494Z,"56 km SSW of Bahía de Kino, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-04T01:05:08.770Z,27.959,-112.143,10,5.2,mwc,131,112.8,,0.96,us,usp000e7j4,2016-11-10T01:16:30.014Z,"69 km N of Santa Rosalía, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-01-04T01:17:09.780Z,27.621,-112.134,10,4.2,mb,11,260.8,,1.26,us,usp000e7j5,2014-11-07T01:28:03.556Z,"33 km NNE of Santa Rosalía, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-04T03:45:06.260Z,27.953,-112.135,10,4.6,mb,46,196.9,,1.02,us,usp000e7ja,2014-11-07T01:28:03.579Z,"69 km N of Santa Rosalía, Mexico",earthquake,,,,16,reviewed,us,us
+2006-01-04T08:30:39.610Z,28.001,-112.255,10,4.5,mb,51,131.1,,0.91,us,usp000e7jn,2014-11-07T01:28:03.627Z,"73 km N of Santa Rosalía, Mexico",earthquake,,,,16,reviewed,us,us
+2006-01-04T08:32:32.400Z,28.164,-112.117,14,6.6,mwc,323,48.2,,1.25,us,usp000e7jp,2020-09-18T20:50:47.562Z,"75 km SSW of Bahía de Kino, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-01-04T09:05:54.720Z,28.45,-112.467,10,4.1,mb,11,246,,1.05,us,usp000e7jr,2014-11-07T01:28:03.693Z,"65 km SW of Bahía de Kino, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-04T09:17:54.800Z,28.003,-112.468,10,4.9,mb,77,131.1,,1.07,us,usp000e7js,2014-11-07T01:28:03.696Z,"76 km NNW of Santa Rosalía, Mexico",earthquake,,,,20,reviewed,us,us
+2006-01-04T09:19:44.370Z,28.417,-112.593,10,4.1,mb,8,228.1,,1.48,us,usp000e7jt,2014-11-07T01:28:03.706Z,"78 km SW of Bahía de Kino, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-04T10:27:25.040Z,28.157,-112.125,10,4.4,mb,21,201.8,,1,us,usp000e7jw,2014-11-07T01:28:03.713Z,"75 km SSW of Bahía de Kino, Mexico",earthquake,,,,3,reviewed,us,us
+2006-01-04T23:56:59.230Z,35.3133333,-120.9455,3.909,3.13,ml,53,181,0.07117,0.08,nc,nc21501954,2017-01-14T00:35:42.010Z,"10 km W of Los Osos, California",earthquake,0.27,0.45,,5,reviewed,nc,nc
+2006-01-05T03:55:54.540Z,28.102,-112.165,10,3.8,mb,13,227.2,,1.31,us,usp000e7mk,2014-11-07T01:28:03.895Z,"82 km SSW of Bahía de Kino, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-05T14:05:49.760Z,37.0896667,-122.052,10.233,3.14,ml,110,114,0.08649,0.16,nc,nc21501974,2019-06-28T18:48:14.131Z,"0 km WSW of Zayante, California",earthquake,0.21,0.4,,10,reviewed,nc,nc
+2006-01-05T14:44:45.520Z,40.9708333,-109.9776667,12.55,3.18,ml,16,184,0.9887,0.16,uu,uu50307335,2018-08-28T21:30:36.360Z,"7 km SSW of McKinnon, Wyoming",earthquake,0.78,1.73,,11,reviewed,uu,uu
+2006-01-05T21:26:40.290Z,38.8045,-122.7955,2.897,3.08,ml,62,27,0.003604,0.07,nc,nc21502012,2017-01-14T00:39:17.370Z,"6 km WSW of Cobb, California",earthquake,0.12,0.2,,8,reviewed,nc,nc
+2006-01-05T22:39:21.580Z,36.6691667,-121.2908333,5.982,3.33,ml,74,39,0.01441,0.06,nc,nc21502016,2017-01-14T00:39:53.580Z,"13 km SSE of Tres Pinos, California",earthquake,0.12,0.29,,12,reviewed,nc,nc
+2006-01-06T05:58:19.810Z,36.6668333,-121.2885,6.212,3.19,ml,67,40,0.01261,0.07,nc,nc21502044,2017-01-14T00:41:56.110Z,"13 km SSE of Tres Pinos, California",earthquake,0.12,0.36,,12,reviewed,nc,nc
+2006-01-07T00:21:22.550Z,32.4168333,-115.4155,6.01,3.34,ml,19,245,0.3503,0.32,ci,ci14207516,2016-03-09T03:31:41.018Z,"17km SSW of Puebla, B.C., MX",earthquake,1.94,31.61,0.175,109,reviewed,ci,ci
+2006-01-07T00:49:18.000Z,32.4356667,-115.4031667,6.01,3.38,ml,19,242,0.3463,0.29,ci,ci14207520,2016-03-08T23:16:59.679Z,"15km SSW of Puebla, B.C., MX",earthquake,2.63,31.61,0.225,131,reviewed,ci,ci
+2006-01-07T07:55:20.640Z,28.371,-112.043,10,4,ml,10,237.7,,1.29,us,usp000e7s6,2014-11-07T01:28:04.573Z,"51 km SSW of Bahía de Kino, Mexico",earthquake,,,,,reviewed,us,us
+2006-01-08T12:23:05.580Z,28.234,-111.988,10,4,mb,13,246,,1.3,us,usp000e7uc,2014-11-07T01:28:04.938Z,"65 km S of Bahía de Kino, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-09T07:45:42.000Z,44.62,-112.36,10.5,3.1,ml,17,65.8,,,us,usp000e7wv,2014-11-07T01:28:05.201Z,"18 km E of Lima, Montana",earthquake,,,,,reviewed,but,but
+2006-01-09T15:13:13.870Z,32.1516667,-115.8853333,5.837,3.11,ml,15,246,0.4952,0.34,ci,ci14207936,2016-03-09T02:06:56.442Z,"55km SSW of Progreso, B.C., MX",earthquake,1.49,31.18,0.122,61,reviewed,ci,ci
+2006-01-09T15:35:40.590Z,45.0255,-73.8815,12.69,3.72,md,13,78,,0.24,ld,ld2006010900,2021-05-13T21:56:52.723Z,"2 km ESE of Franklin, Canada",earthquake,0.45,1.17,,,reviewed,ld,ld
+2006-01-09T21:06:47.650Z,36.7626667,-121.463,6.703,3.17,ml,75,34,0.01261,0.11,nc,nc21502389,2017-01-14T01:03:15.480Z,"10 km WSW of Ridgemark, California",earthquake,0.15,0.3,,12,reviewed,nc,nc
+2006-01-13T23:30:03.570Z,37.4681667,-118.7838333,9.688,3.16,md,44,68,0.05315,0.05,nc,nc21502851,2017-01-14T01:28:05.340Z,"11 km SSW of Aspen Springs, California",earthquake,0.25,0.57,0.11,61,reviewed,nc,nc
+2006-01-15T10:42:06.990Z,37.3846667,-121.5118333,2.313,3.6,mw,114,58,0.04054,0.16,nc,nc21502994,2017-03-17T18:53:34.636Z,"20 km W of Diablo Grande, California",earthquake,0.14,0.77,,3,reviewed,nc,nc
+2006-01-15T12:29:46.000Z,48.57,-123.53,44,3.3,md,76,52.2,,,us,usp000e898,2016-07-22T22:04:13.510Z,"13 km SW of North Saanich, Canada",earthquake,,,,,reviewed,pgc,sea
+2006-01-15T21:32:25.640Z,28.873,-112.836,10,3.7,ml,7,235.4,,1.22,us,usp000e89s,2014-11-07T01:28:06.564Z,"87 km W of Bahía de Kino, Mexico",earthquake,,,,,reviewed,us,us
+2006-01-18T09:47:45.000Z,45.36,-112.51,8.7,4,mwr,52,29.8,,,us,usp000e8e3,2015-03-24T00:46:30.306Z,"18 km NNE of Dillon, Montana",earthquake,,,,,reviewed,but,slm
+2006-01-19T15:10:03.390Z,46.2,-122.1976667,-1.757,3.1,md,14,86,0.008988,0.42,uw,uw10689278,2016-07-22T22:04:24.850Z,"37 km NNE of Amboy, Washington",earthquake,0.078,0.07,0.06,6,reviewed,uw,uw
+2006-01-19T16:25:33.938Z,39.9758,-115.9034,16.3,3.5,ml,3,175.61,0.921,0.0488,nn,nn00173739,2018-04-24T20:28:09.035Z,"51 km N of Eureka, Nevada",earthquake,,12.4,,,reviewed,nn,nn
+2006-01-22T10:28:07.150Z,35.6576667,-119.194,24.17,3.02,ml,29,106,0.2033,0.36,ci,ci14209888,2016-03-09T12:03:22.018Z,"4km SE of McFarland, CA",earthquake,0.69,2.61,0.143,153,reviewed,ci,ci
+2006-01-22T18:43:37.470Z,46.2023333,-122.1893333,-1.643,3.2,md,9,98,0.007223,0.16,uw,uw10689863,2016-07-22T22:04:31.210Z,"38 km NNE of Amboy, Washington",earthquake,,,0.05,5,reviewed,uw,uw
+2006-01-23T07:58:52.605Z,38.6327,-118.5986,4.9,3.9,ml,11,174.4,0.389,0.1087,nn,nn00174004,2018-04-24T20:28:15.073Z,"12 km N of Hawthorne, Nevada",earthquake,,5.3,,,reviewed,nn,nn
+2006-01-23T19:47:31.700Z,24.723,-109.588,10,3.7,mb,7,291.4,,0.93,us,usp000e8rb,2014-11-07T01:28:08.730Z,"96 km NE of La Paz, Mexico",earthquake,,,,1,reviewed,us,us
+2006-01-25T15:29:57.150Z,37.3865,-121.4846667,5.149,3.6,mw,115,67,0.05495,0.15,nc,nc21504088,2018-07-09T18:43:44.749Z,"18 km W of Diablo Grande, California",earthquake,0.18,0.46,,4,reviewed,nc,nc
+2006-01-26T23:03:29.390Z,32.3431667,-115.1535,6.006,3.09,ml,15,275,0.4197,0.47,ci,ci10166413,2016-03-09T02:07:43.359Z,"4km ESE of Delta, B.C., MX",earthquake,5.48,31.61,0.134,71,reviewed,ci,ci
+2006-01-27T05:22:42.520Z,32.1908333,-115.0658333,6.006,3.75,ml,43,268.6,0.551,0.42,ci,ci10166453,2016-03-09T10:38:09.982Z,"6km W of Estacion Coahuila, B.C., MX",earthquake,1.88,31.61,0.126,179,reviewed,ci,ci
+2006-01-27T05:43:59.720Z,32.1566667,-115.08,6.006,3.53,ml,35,269.8,0.5864,0.37,ci,ci10166461,2016-03-08T20:15:30.703Z,"8km WSW of Estacion Coahuila, B.C., MX",earthquake,1.03,31.61,0.144,133,reviewed,ci,ci
+2006-01-27T05:49:25.390Z,32.168,-115.0743333,6.006,3.97,ml,22,277.5,0.5745,0.45,ci,ci10166465,2016-03-09T00:42:49.041Z,"7km WSW of Estacion Coahuila, B.C., MX",earthquake,1.3,31.61,0.12,210,reviewed,ci,ci
+2006-01-27T06:47:12.170Z,39.1755,-110.8723333,18.24,3.58,ml,20,72,0.2197,0.19,uu,uu50308185,2019-06-28T18:48:14.482Z,"13 km ESE of Castle Dale, Utah",earthquake,0.5,0.9,,13,reviewed,uu,uu
+2006-01-27T06:59:39.660Z,32.194,-115.1096667,6.006,3.04,ml,11,289,0.5537,0.28,ci,ci10166481,2016-03-08T20:15:32.261Z,"7km ESE of Alberto Oviedo Mota, B.C., MX",earthquake,3.81,31.61,0.099,41,reviewed,ci,ci
+2006-01-27T09:07:46.650Z,31.9105,-114.9238333,5.989,3.15,ml,13,308,0.8279,0.22,ci,ci10166509,2016-03-08T20:15:33.795Z,"32km SSE of Estacion Coahuila, B.C., MX",earthquake,3.99,31.61,0.122,39,reviewed,ci,ci
+2006-01-27T16:07:45.840Z,32.551,-104.577,5,3.1,mblg,9,148.3,,0.91,us,usp000e8yn,2014-11-07T01:28:10.026Z,"29 km SW of Atoka, New Mexico",earthquake,,,,,reviewed,us,us
+2006-01-27T16:35:22.720Z,32.2938333,-115.1088333,5.96,3.05,ml,9,281,0.4562,0.42,ci,ci10166577,2016-03-09T09:15:20.931Z,"1km NNW of Guadalupe Victoria, B.C., MX",earthquake,6.1,31.61,0.121,41,reviewed,ci,ci
+2006-01-27T18:20:37.000Z,44.37,-115.06,23.7,3.3,ml,14,105.4,,,us,usp000e8yv,2014-11-07T01:28:10.106Z,"19 km NNW of Stanley, Idaho",earthquake,,,,,reviewed,but,but
+2006-01-27T18:48:49.230Z,37.03,-104.968,5,3.3,ml,17,59.7,,1.08,us,usp000e8yz,2014-11-07T01:28:10.117Z,"14 km SSE of Stonewall Gap, Colorado",earthquake,,,,,reviewed,us,us
+2006-01-27T20:10:16.910Z,46.1946667,-122.1901667,-1.784,3,md,11,82,0.002858,0.25,uw,uw10693608,2016-07-22T22:04:41.420Z,"37 km NNE of Amboy, Washington",earthquake,0.057,0.16,0.05,3,reviewed,uw,uw
+2006-01-27T22:57:58.760Z,32.3143333,-115.1083333,6.006,3.46,ml,14,276,0.4362,0.39,ci,ci10166645,2016-03-09T03:32:25.854Z,"3km N of Guadalupe Victoria, B.C., MX",earthquake,3.19,31.61,0.112,97,reviewed,ci,ci
+2006-01-28T01:00:43.270Z,32.2448333,-115.0955,5.971,3.04,ml,11,282,0.5017,0.49,ci,ci10166661,2016-03-09T12:03:41.196Z,"5km S of Guadalupe Victoria, B.C., MX",earthquake,3.85,31.61,0.14,38,reviewed,ci,ci
+2006-01-28T08:05:29.800Z,32.1303333,-115.0561667,6.006,3.08,ml,11,291,0.6101,0.23,ci,ci10166701,2016-03-09T09:15:25.246Z,"9km SW of Estacion Coahuila, B.C., MX",earthquake,7.82,31.61,0.12,37,reviewed,ci,ci
+2006-01-29T03:49:26.780Z,37.4475,-118.8386667,1.916,3.08,md,44,80,0.0982,0.06,nc,nc21504446,2017-01-14T02:41:24.570Z,"16 km SW of Aspen Springs, California",earthquake,0.24,1.1,0.14,68,reviewed,nc,nc
+2006-01-31T09:17:11.850Z,38.8286667,-122.7915,1.324,3.08,ml,47,45,0.02072,0.08,nc,nc21504620,2017-01-14T02:48:29.140Z,"5 km W of Cobb, California",earthquake,0.1,0.26,,7,reviewed,nc,nc
+2006-01-31T10:17:36.580Z,46.2006667,-122.1896667,-1.834,3.1,md,13,94,,0.27,uw,uw10693923,2016-07-22T22:04:48.290Z,"37 km NNE of Amboy, Washington",earthquake,0.086,0.09,0.11,6,reviewed,uw,uw
+2006-02-03T01:47:46.730Z,47.9508333,-122.3948333,32.986,3.3,md,55,52,,0.22,uw,uw10686638,2017-04-01T21:36:06.898Z,"4 km SW of Clinton, Washington",earthquake,0.13,0.09,0.05,31,reviewed,uw,uw
+2006-02-04T10:32:29.010Z,32.0328333,-114.9996667,5.976,3.27,ml,12,297,0.7045,0.17,ci,ci10168033,2016-03-09T07:51:58.453Z,"18km S of Estacion Coahuila, B.C., MX",earthquake,5.6,31.61,0.102,45,reviewed,ci,ci
+2006-02-04T12:38:29.840Z,32.2523333,-115.0683333,6.006,3.42,ml,15,282,0.4905,0.55,ci,ci10168057,2016-03-09T13:51:00.138Z,"5km SE of Guadalupe Victoria, B.C., MX",earthquake,2.98,31.61,0.095,74,reviewed,ci,ci
+2006-02-04T18:05:02.260Z,37.4671667,-121.8155,7.571,3.14,ml,121,60,0.02072,0.08,nc,nc21505088,2017-01-14T03:08:50.100Z,"9 km ENE of Milpitas, California",earthquake,0.1,0.28,,10,reviewed,nc,nc
+2006-02-05T03:25:52.000Z,44.69,-111.87,14,4.4,mwr,93,26.2,,,us,usp000e9gw,2015-03-24T00:46:39.973Z,"44 km NE of Spencer, Idaho",earthquake,,,,,reviewed,but,slm
+2006-02-05T15:43:33.950Z,34.2406667,-119.8103333,7.481,3.3,ml,45,151,0.174,0.42,ci,ci10168217,2016-03-09T12:04:14.855Z,"20km SSE of Isla Vista, CA",earthquake,0.77,2.64,0.093,135,reviewed,ci,ci
+2006-02-06T04:55:39.290Z,35.8191667,-119.9126667,11.909,3.25,md,68,154,0.05586,0.23,nc,nc21505216,2017-01-14T03:12:31.330Z,"21 km SSE of Kettleman City, California",earthquake,0.4,0.53,0.07,71,reviewed,nc,nc
+2006-02-07T08:38:45.000Z,47.72,-113.66,8.3,3.3,ml,13,185.9,,,us,usp000e9pr,2014-11-07T01:28:17.149Z,"21 km N of Condon, Montana",earthquake,,,,,reviewed,but,but
+2006-02-07T10:11:52.080Z,32.8238333,-115.7031667,16.097,3.09,ml,51,60,0.03295,0.36,ci,ci10168489,2016-03-08T18:31:24.314Z,"13km WSW of Imperial, CA",earthquake,0.51,0.98,0.211,112,reviewed,ci,ci
+2006-02-07T18:23:55.930Z,32.2318333,-115.0626667,5.985,3.94,ml,14,284,0.6575,0.21,ci,ci10168561,2016-03-09T03:32:59.406Z,"7km NW of Estacion Coahuila, B.C., MX",earthquake,2.57,31.61,0.132,178,reviewed,ci,ci
+2006-02-08T00:02:25.156Z,38.6547,-119.8007,4.7,3.4,ml,3,229.27,0.072,0.0608,nn,nn00175284,2018-04-24T20:28:40.014Z,"4 km SSW of Markleeville, California",earthquake,,11.3,,,reviewed,nn,nn
+2006-02-08T20:06:13.960Z,32.1748333,-115.0313333,6.006,3.56,ml,15,288,0.5641,0.39,ci,ci10168765,2016-03-09T12:04:22.227Z,"4km SW of Estacion Coahuila, B.C., MX",earthquake,1.39,31.61,0.121,82,reviewed,ci,ci
+2006-02-08T22:04:46.460Z,32.2238333,-115.028,6.006,3.2,ml,14,285,0.5152,0.47,ci,ci10168789,2016-03-09T10:38:49.434Z,"4km NW of Estacion Coahuila, B.C., MX",earthquake,2.46,31.61,0.123,44,reviewed,ci,ci
+2006-02-10T01:36:26.000Z,45.32,-112.62,10.8,3.4,ml,26,51.6,,,us,usp000e9v2,2014-11-07T01:28:17.720Z,"11 km N of Dillon, Montana",earthquake,,,,,reviewed,but,but
+2006-02-10T04:14:22.200Z,27.828,-90.21,5,5.3,ms,53,122.6,,,us,usp000e9v9,2015-03-24T01:52:59.909Z,"157 km S of Grand Isle, Louisiana",earthquake,,,,103,reviewed,spec,us
+2006-02-10T05:29:16.360Z,32.1858333,-115.8703333,5.787,3.01,ml,12,279,0.4622,0.21,ci,ci10169109,2016-03-09T00:43:31.407Z,"51km SSW of Progreso, B.C., MX",earthquake,2.35,31.61,0.201,71,reviewed,ci,ci
+2006-02-10T21:48:13.740Z,39.592,-107.439,5,3.8,mwr,38,57.7,,1.19,us,usp000e9wk,2015-03-24T00:46:42.828Z,"1 km NNE of Chacra, Colorado",earthquake,,,,,reviewed,us,slm
+2006-02-13T21:05:57.890Z,32.12,-115.0223333,5.971,3.05,ml,12,291,0.6182,0.6,ci,ci10169813,2016-03-09T12:04:50.147Z,"8km SSW of Estacion Coahuila, B.C., MX",earthquake,3.49,31.61,0.213,41,reviewed,ci,ci
+2006-02-14T10:40:18.920Z,32.055,-115.8813333,5.787,3.1,ml,15,256,0.5916,0.39,ci,ci14212560,2016-03-08T20:16:41.592Z,"65km SSW of Progreso, B.C., MX",earthquake,1.68,31.61,0.291,53,reviewed,ci,ci
+2006-02-15T22:56:42.680Z,32.0866667,-116.0138333,5.787,3.01,ml,11,272,0.5643,0.33,ci,ci14212716,2016-03-08T21:52:39.699Z,"62km ENE of Ensenada, B.C., MX",earthquake,1.33,31.61,0.175,54,reviewed,ci,ci
+2006-02-16T03:51:21.560Z,34.3401667,-116.8605,3.899,3.24,ml,122,18,,0.16,ci,ci14212760,2016-03-08T16:49:01.976Z,"9km N of Big Bear City, CA",earthquake,0.13,1.05,0.142,335,reviewed,ci,ci
+2006-02-16T09:05:12.520Z,32.3175,-115.131,6.006,3.41,ml,18,274,0.4382,0.48,ci,ci14212824,2016-03-09T02:08:41.411Z,"4km NW of Guadalupe Victoria, B.C., MX",earthquake,5.09,31.61,0.131,82,reviewed,ci,ci
+2006-02-16T17:47:59.650Z,37.9848333,-118.7735,8.174,4.1,mw,47,74,0.1793,0.1,nc,nc21506332,2021-07-12T22:25:52.747Z,"30 km E of Lee Vining, California",earthquake,0.25,1.36,,6,reviewed,nc,nc
+2006-02-18T05:49:41.450Z,35.672,-101.794,5,3.5,ml,14,61,,0.82,us,usp000ea95,2015-03-24T00:46:45.620Z,"17 km WNW of Fritch, Texas",earthquake,,,,,reviewed,us,us
+2006-02-18T12:38:16.010Z,37.8136667,-122.0713333,13.363,3.24,ml,153,23,0.007207,0.23,nc,nc21506606,2018-07-09T18:44:05.005Z,"5 km SW of Alamo, California",earthquake,0.2,0.37,,13,reviewed,nc,nc
+2006-02-18T20:33:06.920Z,32.335,-115.1245,5.981,3,ml,11,273,0.4199,0.26,ci,ci14213264,2016-03-09T07:52:40.573Z,"6km NNW of Guadalupe Victoria, B.C., MX",earthquake,2.11,31.61,0.111,56,reviewed,ci,ci
+2006-02-19T06:27:47.140Z,31.47,-116.256,5,3,ml,5,253.2,,0.6,us,usp000eabz,2014-11-07T01:28:20.126Z,"16 km N of San Vicente, Mexico",earthquake,,,,,reviewed,us,pas
+2006-02-19T12:24:03.700Z,32.183,-115.8685,5.927,3.26,ml,18,243,0.4652,0.26,ci,ci14213364,2016-03-09T13:51:43.318Z,"52km SSW of Progreso, B.C., MX",earthquake,2.02,22.15,0.19,112,reviewed,ci,ci
+2006-02-19T15:23:52.090Z,46.1931667,-122.1946667,-1.757,3,md,14,86,0.006319,0.14,uw,uw10689928,2016-07-22T22:08:32.500Z,"37 km NNE of Amboy, Washington",earthquake,,,0.06,5,reviewed,uw,uw
+2006-02-19T19:54:04.663Z,40.5304,-116.5655,0,3.4,ml,3,156.38,0.509,0.2581,nn,nn00176068,2018-04-24T20:28:58.825Z,"12 km N of Crescent Valley, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-02-22T05:37:45.700Z,40.0585,-119.9946,4.7,3,ml,27,128.34,0.174,0.1324,nn,nn00176115,2018-04-24T20:29:05.085Z,"Nevada",earthquake,,2.1,,,reviewed,nn,nn
+2006-02-23T05:26:09.240Z,32.262,-115.1576667,6.006,3.67,ml,15,278,0.4977,0.42,ci,ci14214016,2016-03-09T10:39:22.663Z,"4km NNE of Alberto Oviedo Mota, B.C., MX",earthquake,1.98,31.61,0.116,153,reviewed,ci,ci
+2006-02-23T15:10:38.930Z,38.8266667,-122.8038333,3.824,3.22,ml,47,33,0.01982,0.05,nc,nc21507253,2017-01-14T05:02:23.540Z,"7 km W of Cobb, California",earthquake,0.11,0.3,,10,reviewed,nc,nc
+2006-02-24T19:58:32.630Z,34.4206667,-119.0603333,14.663,3.16,ml,96,35,,0.43,ci,ci14214288,2016-03-08T21:53:05.488Z,"7km N of Santa Paula, CA",earthquake,0.37,0.58,0.124,294,reviewed,ci,ci
+2006-02-24T23:54:47.450Z,40.2296667,-121.1673333,-2.101,3.17,ml,52,112,0.2577,0.14,nc,nc21507488,2017-01-14T05:10:24.710Z,"2 km NNW of Prattville, California",earthquake,0.28,1.05,,2,reviewed,nc,nc
+2006-02-25T01:39:22.790Z,45.6275,-75.2003333,10.56,3.96,md,16,164,,0.24,ld,ld2006022500,2021-05-13T21:56:54.291Z,"4 km NE of Thurso, Canada",earthquake,0.46,0.88,,,reviewed,ld,ld
+2006-02-25T03:17:38.750Z,46.203,-122.1795,-1.852,3,md,17,71,,0.53,uw,uw10691748,2016-07-22T22:08:49.190Z,"38 km NNE of Amboy, Washington",earthquake,0.127,0.19,0.05,5,reviewed,uw,uw
+2006-02-25T12:15:50.590Z,38.3541667,-119.4201667,1.779,3.07,md,40,93,0.1505,0.07,nc,nc21507556,2018-04-24T20:29:11.187Z,"18 km SSE of Walker, California",earthquake,0.22,1.27,0.13,66,reviewed,nc,nc
+2006-02-26T01:08:18.770Z,44.6536667,-110.4303333,5.35,3.05,ml,22,49,0.09107,0.17,uu,uu50310000,2018-08-28T21:36:15.200Z,"41 km SSE of Mammoth, Wyoming",earthquake,0.33,1.59,,6,reviewed,uu,uu
+2006-02-26T04:09:22.490Z,45.5268333,-74.7168333,13.54,3.19,md,11,163,,0.27,ld,ld2006022600,2021-05-13T21:56:54.812Z,"10 km S of L'Orignal, Canada",earthquake,0.7,1.04,,,reviewed,ld,ld
+2006-02-28T05:07:29.770Z,33.7935,-116.1823333,9.394,3.15,ml,78,59,0.1572,0.24,ci,ci14214824,2016-03-08T20:18:09.563Z,"9km NNE of Indio, CA",earthquake,0.22,0.8,0.13,245,reviewed,ci,ci
+2006-03-01T17:42:42.090Z,37.4976667,-88.982,6.16,3,mlg,30,70,,0.31,nm,nm606003,2016-04-08T18:41:13.680Z,"2 km N of Buncombe, Illinois",earthquake,1.2,2.9,0.173,3,reviewed,nm,nm
+2006-03-01T19:34:52.090Z,37.8576667,-122.21,8.292,3.36,ml,128,20,0.02703,0.16,nc,nc21507947,2018-07-09T18:44:36.690Z,"Northern California",earthquake,0.13,0.28,,12,reviewed,nc,nc
+2006-03-02T00:11:55.150Z,36.5561667,-121.1483333,7.149,3.17,ml,84,38,0.03874,0.06,nc,nc21507984,2017-01-14T05:39:21.130Z,"21 km NE of Soledad, California",earthquake,0.09,0.27,,10,reviewed,nc,nc
+2006-03-02T17:02:17.000Z,45.32,-112.63,11.2,3.2,ml,13,70.4,,,us,usp000eb6e,2014-11-07T01:28:26.851Z,"11 km N of Dillon, Montana",earthquake,,,,,reviewed,but,but
+2006-03-03T12:49:50.950Z,39.0315,-123.1141667,5.899,3.69,ml,35,59,0.05045,0.07,nc,nc21508102,2019-06-28T18:48:15.189Z,"6 km N of Hopland, California",earthquake,0.16,0.4,,11,reviewed,nc,nc
+2006-03-03T13:44:05.210Z,35.1213333,-117.5563333,1.157,3.71,ml,106,20,0.219,0.2,ci,ci14215316,2016-03-09T10:39:42.822Z,"16km NNE of Boron, CA",earthquake,0.18,0.52,0.129,393,reviewed,ci,ci
+2006-03-04T02:13:10.740Z,49.518,-81.576,18,3.4,mblg,19,78.4,,,us,usp000ebbd,2014-11-07T01:28:28.035Z,"63 km E of Kapuskasing, Canada",earthquake,,,,,reviewed,ott,ott
+2006-03-04T03:16:42.100Z,32.2435,-115.0233333,5.975,3.25,ml,13,288,0.4953,0.34,ci,ci14215420,2016-03-09T10:39:45.554Z,"6km NNW of Estacion Coahuila, B.C., MX",earthquake,3.05,31.61,0.08,42,reviewed,ci,ci
+2006-03-04T17:38:47.150Z,44.752,-123.717,42.775,3.3,md,23,128,0.196,0.21,uw,uw10687083,2016-09-01T18:41:35.018Z,"16 km ENE of Siletz, Oregon",earthquake,0.7,1.03,0.04,17,reviewed,uw,uw
+2006-03-05T07:27:40.230Z,32.3425,-115.0818333,6.006,3.59,ml,17,275,0.4039,0.32,ci,ci14215592,2016-03-08T20:18:27.436Z,"7km NNE of Guadalupe Victoria, B.C., MX",earthquake,2.45,31.61,0.169,141,reviewed,ci,ci
+2006-03-05T10:43:13.220Z,34.0225,-117.5568333,10.353,3.46,ml,162,19,,0.32,ci,ci14215632,2016-03-09T07:53:25.651Z,"5km NW of Mira Loma, CA",earthquake,0.23,0.44,0.176,388,reviewed,ci,ci
+2006-03-06T06:54:42.960Z,32.5678333,-115.573,9.966,3.74,ml,46,203,0.1528,0.57,ci,ci14215812,2016-03-08T18:32:43.016Z,"2km SE of Progreso, B.C., MX",earthquake,1.84,31.61,0.189,348,reviewed,ci,ci
+2006-03-06T21:11:32.960Z,38.7733333,-122.7456667,2.056,3.02,md,59,31,0.01171,0.08,nc,nc21508414,2017-01-14T06:04:35.690Z,"5 km SSW of Cobb, California",earthquake,0.13,0.26,0.12,60,reviewed,nc,nc
+2006-03-07T01:54:26.250Z,38.777,-122.7496667,-0.592,3.14,md,53,28,0.01441,0.14,nc,nc21508432,2017-01-14T06:05:26.010Z,"5 km SSW of Cobb, California",earthquake,0.17,0.53,0.15,47,reviewed,nc,nc
+2006-03-07T08:52:30.430Z,33.7943333,-119.3938333,5.783,3.13,ml,62,176,0.2837,0.4,ci,ci14215928,2016-03-09T00:44:58.596Z,"29km SSE of Santa Cruz Is. (E end), CA",earthquake,0.83,31.61,0.106,268,reviewed,ci,ci
+2006-03-08T01:23:37.170Z,32.2613333,-115.2211667,6.006,3.39,ml,15,277,0.5165,0.54,ci,ci14216020,2016-03-08T20:18:45.894Z,"6km NW of Alberto Oviedo Mota, B.C., MX",earthquake,2.86,31.61,0.164,63,reviewed,ci,ci
+2006-03-08T02:11:00.870Z,36.5611667,-121.1458333,5.062,3.03,ml,87,23,0.03784,0.06,nc,nc21508524,2017-01-14T06:10:15.000Z,"22 km NE of Soledad, California",earthquake,0.08,0.26,,9,reviewed,nc,nc
+2006-03-08T03:12:08.570Z,46.1988333,-122.19,-1.707,3.1,md,11,78,,0.35,uw,uw10688038,2016-07-22T22:09:18.800Z,"37 km NNE of Amboy, Washington",earthquake,0.1,0.29,0.06,4,reviewed,uw,uw
+2006-03-09T19:06:50.762Z,37.3133,-114.9038,5.7,3.4,ml,5,274.8,0.834,0.2568,nn,nn00177105,2018-04-24T20:29:26.997Z,"23 km ESE of Alamo, Nevada",earthquake,,13.4,,,reviewed,nn,nn
+2006-03-10T07:53:09.000Z,38.437,-118.335,0,3.1,ml,24,66.9,,,us,usp000ebv9,2016-03-09T05:00:20.922Z,"20 km WNW of Mina, Nevada",earthquake,,,,,reviewed,ren,us
+2006-03-11T07:45:03.640Z,34.2895,-116.8281667,3.579,3.53,ml,92,21,0.05838,0.17,ci,ci14216544,2016-03-09T05:00:25.746Z,"4km NNE of Big Bear City, CA",earthquake,0.18,0.47,0.127,382,reviewed,ci,ci
+2006-03-11T12:27:15.600Z,41.78,-81.39,5,3.1,mblg,49,70.6,,,us,usp000ebya,2016-05-27T19:19:46.300Z,"8 km NNW of Mentor-on-the-Lake, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2006-03-11T15:29:59.821Z,38.7069,-118.7196,14.6,3.2,ml,15,78.61,0.472,0.0932,nn,nn00177264,2018-04-24T20:29:32.804Z,"7 km NNE of Walker Lake, Nevada",earthquake,,1.5,0.16,2,reviewed,nn,nn
+2006-03-12T06:26:41.890Z,32.8278333,-118.2603333,5.745,3.21,ml,19,203,0.2849,0.42,ci,ci14216716,2016-03-08T21:53:51.927Z,"8km E of San Clemente Is. (SE tip), CA",earthquake,1.16,31.61,0.152,112,reviewed,ci,ci
+2006-03-13T09:52:53.790Z,33.8028333,-119.3985,10.083,3.11,ml,35,177,0.275,0.33,ci,ci14216848,2016-03-08T20:19:14.840Z,"28km SSE of Santa Cruz Is. (E end), CA",earthquake,0.84,1.65,0.122,213,reviewed,ci,ci
+2006-03-14T01:41:46.140Z,33.8173333,-119.401,5.769,3.23,ml,41,176,0.2636,0.51,ci,ci14216932,2016-03-09T10:40:13.448Z,"26km SSE of Santa Cruz Is. (E end), CA",earthquake,0.6,31.61,0.112,278,reviewed,ci,ci
+2006-03-14T14:50:57.940Z,35.9333333,-117.64,1.811,3.15,ml,32,34,0.01685,0.19,ci,ci14216992,2016-03-09T13:53:15.172Z,"24km E of Little Lake, CA",earthquake,0.29,0.49,0.133,141,reviewed,ci,ci
+2006-03-14T16:32:03.211Z,39.7309,-115.9132,0,3.8,ml,3,157.09,1.137,0.0702,nn,nn00177413,2018-04-24T20:29:35.955Z,"24 km N of Eureka, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-03-15T08:30:25.860Z,35.091,-96.3,5,3,md,8,176.6,,1.35,us,usp000ec6y,2014-11-07T01:28:31.846Z,"4 km W of Horntown, Oklahoma",earthquake,,,,,reviewed,us,tul
+2006-03-20T17:16:19.680Z,32.8736667,-116.2213333,11.64,3.65,ml,70,90,0.04942,0.32,ci,ci14217884,2016-03-08T18:33:40.294Z,"26km NW of Ocotillo, CA",earthquake,0.31,0.67,0.166,351,reviewed,ci,ci
+2006-03-20T17:55:29.120Z,32.6,-104.563,5,3,ml,7,98,,0.75,us,usp000ecjj,2014-11-07T01:28:33.765Z,"24 km SW of Atoka, New Mexico",earthquake,,,,,reviewed,us,us
+2006-03-20T18:47:22.160Z,35.5706667,-117.5288333,8.523,3.43,ml,64,24,0.04129,0.18,ci,ci14217904,2016-03-09T12:06:41.403Z,"14km ESE of Ridgecrest, CA",earthquake,0.19,0.64,0.161,286,reviewed,ci,ci
+2006-03-21T21:41:42.220Z,37.8093333,-122.071,12.653,3.7,mw,145,37,0.00991,0.26,nc,nc21510121,2017-03-17T18:56:25.994Z,"5 km SW of Alamo, California",earthquake,0.2,0.44,,4,reviewed,nc,nc
+2006-03-21T22:06:52.410Z,38.7626667,-122.7203333,1.634,3.06,md,41,49,0.01171,0.13,nc,nc21510127,2017-01-14T07:53:47.760Z,"6 km S of Cobb, California",earthquake,0.13,0.56,0.13,50,reviewed,nc,nc
+2006-03-22T17:24:32.430Z,48.828,-115.2,8.2,4.3,mwr,91,42.1,,,us,usp000ecqm,2015-03-24T01:44:35.964Z,"8 km SSW of Rexford, Montana",earthquake,,,,,reviewed,but,pgc
+2006-03-23T00:13:56.158Z,39.3452,-119.9815,6,3.2,ml,7,100.4,0.062,0.1279,nn,nn00178631,2018-04-24T20:29:52.932Z,"6 km SSE of Floriston, California",earthquake,,3.5,,,reviewed,nn,nn
+2006-03-23T10:17:23.440Z,38.769,-122.7368333,1.416,3.07,md,49,21,0.01622,0.1,nc,nc21510319,2017-01-14T08:06:35.890Z,"6 km SSW of Cobb, California",earthquake,0.15,0.28,0.12,70,reviewed,nc,nc
+2006-03-23T12:55:28.720Z,35.6968333,-121.0243333,7.006,3.04,md,69,52,0.03964,0.08,nc,nc21510325,2017-01-14T08:07:24.750Z,"9 km SSW of Oak Shores, California",earthquake,0.13,0.39,0.09,93,reviewed,nc,nc
+2006-03-23T23:48:57.280Z,34.5805,-116.2615,1.91,3.11,ml,46,29,0.1367,0.18,ci,ci14218424,2016-03-09T13:53:43.021Z,"18km SSW of Ludlow, CA",earthquake,0.19,0.48,0.14,202,reviewed,ci,ci
+2006-03-24T05:54:13.010Z,33.7866667,-116.1785,9.288,3.66,ml,107,33,0.1518,0.22,ci,ci14218504,2016-03-08T20:19:52.656Z,"8km NNE of Indio, CA",earthquake,0.18,0.61,0.124,373,reviewed,ci,ci
+2006-03-25T04:21:10.170Z,35.6515,-121.078,8.919,3.19,ml,68,96,0.05225,0.09,nc,nc21510494,2017-01-14T08:18:17.390Z,"9 km N of Cambria, California",earthquake,0.14,0.41,,7,reviewed,nc,nc
+2006-03-26T01:56:37.600Z,40.2778333,-124.449,22.253,4.6,mw,28,240,0.2153,0.13,nc,nc21510606,2020-05-06T08:10:18.795Z,"36 km SSW of Ferndale, California",earthquake,1.46,0.8,,5,reviewed,nc,nc
+2006-03-28T23:55:11.490Z,35.363,-101.871,5,3,ml,8,120.7,,1.16,us,usp000ed5s,2014-11-07T01:28:36.541Z,"13 km NNE of Bishop Hills, Texas",earthquake,,,,,reviewed,us,us
+2006-03-29T01:36:23.010Z,35.6218333,-117.5875,7.927,4.11,ml,42,46,0.0804,0.16,ci,ci14219360,2020-05-02T01:34:33.898Z,"8km E of Ridgecrest, CA",earthquake,0.23,1.27,0.128,390,reviewed,ci,ci
+2006-03-29T13:13:10.770Z,36.5286667,-121.0961667,0.744,3.02,md,68,65,0.02523,0.17,nc,nc21510968,2017-01-14T08:47:27.900Z,"23 km ENE of Soledad, California",earthquake,0.16,0.52,0.13,93,reviewed,nc,nc
+2006-03-31T07:50:57.910Z,38.8066667,-122.7918333,0.622,3.04,ml,56,33,0.002703,0.06,nc,nc21511151,2018-07-09T18:45:03.738Z,"6 km WSW of Cobb, California",earthquake,0.11,0.16,,9,reviewed,nc,nc
+2006-04-01T12:25:59.780Z,36.5195,-121.0935,1.434,4.34,ml,86,37,0.01712,0.07,nc,nc21511291,2020-05-06T08:11:06.960Z,"23 km ENE of Soledad, California",earthquake,0.09,0.2,,21,reviewed,nc,nc
+2006-04-01T21:39:13.770Z,38.788,-122.7768333,1.804,3.18,ml,69,24,0.00991,0.07,nc,nc21511357,2017-01-14T09:16:31.750Z,"6 km SW of Cobb, California",earthquake,0.1,0.18,,8,reviewed,nc,nc
+2006-04-02T03:25:10.550Z,32.0663333,-115.0658333,6.006,3.4,ml,13,294,0.6744,0.53,ci,ci14219976,2016-03-09T02:10:52.867Z,"15km SSW of Estacion Coahuila, B.C., MX",earthquake,5.46,31.61,0.219,67,reviewed,ci,ci
+2006-04-02T08:16:56.530Z,35.9626667,-119.8753333,21.662,3.08,ml,65,61,0.1198,0.23,nc,nc21511405,2017-01-14T09:19:54.800Z,"9 km ESE of Kettleman City, California",earthquake,0.32,0.38,,9,reviewed,nc,nc
+2006-04-03T15:13:58.280Z,46.2001667,-122.1725,-1.824,3,md,11,113,,0.49,uw,uw10689333,2016-07-22T22:10:49.390Z,"38 km NNE of Amboy, Washington",earthquake,0.108,0.12,0.07,4,reviewed,uw,uw
+2006-04-04T15:31:49.640Z,43.505,-110.353,5,3.2,ml,29,115.1,,0.81,us,usp000edpj,2014-11-07T01:28:43.241Z,"25 km ESE of Kelly, Wyoming",earthquake,,,,,reviewed,us,but
+2006-04-05T01:22:28.320Z,38.8228333,-122.8083333,2.339,3.22,md,59,36,0.001802,0.07,nc,nc21511699,2017-01-14T09:37:21.880Z,"7 km W of Cobb, California",earthquake,0.14,0.2,0.12,57,reviewed,nc,nc
+2006-04-05T12:03:16.885Z,39.082,-119.0062,4.9,3.4,ml,27,106.72,0.207,0.0911,nn,nn00178608,2018-04-24T20:30:13.095Z,"17 km NE of Yerington, Nevada",earthquake,,2.8,,,reviewed,nn,nn
+2006-04-05T14:36:53.350Z,35.7271667,-121.0928333,6.741,3.63,ml,64,47,0.04865,0.09,nc,nc21511755,2017-03-17T18:58:10.941Z,"11 km WSW of Oak Shores, California",earthquake,0.14,0.42,,11,reviewed,nc,nc
+2006-04-05T18:46:23.140Z,34.069,-97.314,5,3,mblg,15,150.4,,,us,usp000edrz,2017-06-26T21:07:19.239Z,"12 km SSW of Lone Grove, Oklahoma",earthquake,,,,,reviewed,tul,tul
+2006-04-07T01:06:54.940Z,35.7251667,-121.0933333,6.761,4.2,ml,66,48,0.04955,0.09,nc,nc21511951,2020-05-06T08:11:28.767Z,"11 km WSW of Oak Shores, California",earthquake,0.14,0.42,,17,reviewed,nc,nc
+2006-04-07T08:31:40.000Z,47.29,-70.47,0,3.7,mwr,17,171.8,,,us,usp000edwa,2016-05-27T19:19:52.620Z,"16 km S of Baie-Saint-Paul, Canada",earthquake,,,,,reviewed,ott,slm
+2006-04-07T09:27:50.980Z,38.7761667,-122.7451667,1.296,3.05,md,49,25,0.01712,0.07,nc,nc21512019,2017-01-14T10:05:27.950Z,"5 km SSW of Cobb, California",earthquake,0.15,0.27,0.12,65,reviewed,nc,nc
+2006-04-07T10:04:28.290Z,39.5646667,-123.35,8.941,3.5,ml,42,98,0.09459,0.21,nc,nc21512022,2017-03-17T18:59:36.241Z,"13 km NNE of Brooktrails, California",earthquake,0.31,0.47,,11,reviewed,nc,nc
+2006-04-07T12:44:26.760Z,46.831,-76.616,18,3.1,mblg,8,136,,,us,usp000edwr,2014-11-07T01:28:44.231Z,"60 km NW of Saint-Boniface, Canada",earthquake,,,,,reviewed,ott,ott
+2006-04-07T12:53:26.390Z,35.7301667,-121.0973333,6.751,3.67,ml,64,46,0.04414,0.09,nc,nc21512041,2017-03-17T19:00:09.767Z,"11 km WSW of Oak Shores, California",earthquake,0.13,0.38,,11,reviewed,nc,nc
+2006-04-08T09:10:48.090Z,35.7331667,-121.1026667,6.871,3.44,ml,70,44,0.03874,0.09,nc,nc21512184,2017-01-14T10:15:36.330Z,"11 km WSW of Oak Shores, California",earthquake,0.13,0.38,,9,reviewed,nc,nc
+2006-04-08T15:59:43.250Z,28.01,-105.123,10,3.6,ml,12,247.4,,1.25,us,usp000edyv,2014-11-07T01:28:44.501Z,"16 km ENE of Estación Conchos, Mexico",earthquake,,,,,reviewed,us,us
+2006-04-11T00:35:13.600Z,38.3331,-118.7043,11.1,3.2,ml,27,69.22,0.095,0.1318,nn,nn00178984,2018-04-24T20:30:23.164Z,"22 km SSW of Hawthorne, Nevada",earthquake,,1.3,,,reviewed,nn,nn
+2006-04-11T03:29:20.800Z,35.3623333,-84.4801667,19.55,3.3,md,16,77,0.04168,0.09,se,se606204,2016-04-08T19:02:48.190Z,"5 km NE of Etowah, Tennessee",earthquake,0.4,0.9,0.061,7,reviewed,se,se
+2006-04-12T10:55:22.358Z,41.994,-118.8353,0,3,ml,4,123.21,0.464,0.2166,nn,nn00179072,2018-04-24T20:30:25.626Z,"16 km W of Denio, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-04-13T17:40:49.730Z,40.9133333,-123.5605,21.195,3.24,ml,12,77,0.136,0.1,nc,nc21512797,2017-01-14T10:58:20.360Z,"5 km NNW of Trinity Village, California",earthquake,0.43,0.79,,4,reviewed,nc,nc
+2006-04-13T19:06:27.940Z,32.6258333,-115.819,14.546,3.6,ml,50,190,0.08158,0.38,ci,ci10178785,2016-03-09T12:07:54.089Z,"20km SE of Ocotillo, CA",earthquake,0.89,0.61,0.199,159,reviewed,ci,ci
+2006-04-16T22:25:42.990Z,40.3485,-124.891,14.05,3.82,md,24,278,0.4423,0.06,nc,nc21513157,2017-03-17T19:00:55.494Z,"58 km WSW of Ferndale, California",earthquake,1.23,0.74,0.15,27,reviewed,nc,nc
+2006-04-17T20:14:51.088Z,36.7135,-116.0556,5.6,3.3,ml,32,88.52,0.039,0.1129,nn,nn00179405,2018-04-24T20:30:34.417Z,"37 km WNW of Indian Springs, Nevada",earthquake,,1,,,reviewed,nn,nn
+2006-04-23T07:51:31.520Z,28.851,-112.697,10,4,ml,16,171.7,,1.22,us,usp000efay,2014-11-07T01:28:54.105Z,"73 km W of Bahía de Kino, Mexico",earthquake,,,,,reviewed,us,us
+2006-04-23T20:17:07.890Z,36.7953333,-121.4246667,10.224,3.22,ml,92,27,0.03604,0.14,nc,nc21514049,2021-03-10T00:05:07.691Z,"5 km WSW of Ridgemark, California",earthquake,0.16,0.34,,9,reviewed,nc,nc
+2006-04-25T06:31:30.910Z,46.1923333,-122.1941667,-1.834,3.3,md,15,58,,1.02,uw,uw10698218,2016-07-22T22:11:44.630Z,"36 km NNE of Amboy, Washington",earthquake,0.38,0.53,0.08,5,reviewed,uw,uw
+2006-04-25T15:16:20.540Z,40.3273333,-124.624,25.044,3,ml,24,256,0.2649,0.1,nc,nc21514279,2017-01-14T12:49:44.634Z,"41 km SW of Ferndale, California",earthquake,1.41,3.13,,4,reviewed,nc,nc
+2006-04-26T14:24:06.620Z,45.0161667,-122.5608333,19.521,3,md,56,46,0.1751,0.32,uw,uw10698823,2016-09-01T18:41:35.693Z,"8 km ESE of Scotts Mills, Oregon",earthquake,0.424,1.03,0.05,14,reviewed,uw,uw
+2006-04-30T18:20:12.100Z,38.953,-123.137,4.649,3.28,ml,37,48,0.04505,0.05,nc,nc21514987,2019-06-28T18:48:15.908Z,"2 km SW of Hopland, California",earthquake,0.13,0.39,,8,reviewed,nc,nc
+2006-05-01T20:53:20.960Z,29.809,-114.588,10,4.9,mwc,40,182,,1.41,us,usp000eg08,2016-11-10T01:21:35.204Z,"113 km ESE of El Rosario de Arriba, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-01T21:04:42.600Z,30.199,-114.332,10,5.1,mwc,61,165.7,,1.17,us,usp000eg09,2016-11-10T01:21:35.698Z,"103 km SSE of San Felipe, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-02T11:04:20.950Z,39.5615,-122.7341667,-0.899,3.14,md,46,53,0.1658,0.32,nc,nc21515225,2017-01-14T13:52:52.090Z,"17 km WSW of Elk Creek, California",earthquake,0.38,1.31,0.11,67,reviewed,nc,nc
+2006-05-03T16:22:49.110Z,33.5208333,-116.5853333,11.349,3.1,ml,73,27,0.0593,0.33,ci,ci10181469,2016-03-09T03:37:02.415Z,"9km ESE of Anza, CA",earthquake,0.24,0.72,0.122,164,reviewed,ci,ci
+2006-05-04T17:45:07.260Z,35.746,-121.2275,4.922,3.39,ml,73,76,0.05135,0.09,nc,nc21515524,2017-01-14T14:12:40.500Z,"11 km NNW of San Simeon, California",earthquake,0.13,0.29,,7,reviewed,nc,nc
+2006-05-05T06:36:19.124Z,38.2284,-118.7567,14,4.3,ml,27,92.77,0.199,0.1408,nn,nn00180665,2018-04-24T20:31:02.530Z,"34 km SSW of Hawthorne, Nevada",earthquake,,1.2,,,reviewed,nn,nn
+2006-05-05T14:35:20.780Z,32.0365,-114.974,5.976,3,ml,13,298,0.7008,0.56,ci,ci10181773,2016-03-09T12:08:56.169Z,"18km S of Estacion Coahuila, B.C., MX",earthquake,2.72,31.61,0.215,33,reviewed,ci,ci
+2006-05-05T15:52:11.150Z,32.191,-115.0378333,5.961,3.08,ml,9,287,0.5484,0.47,ci,ci10181793,2016-03-09T13:55:58.407Z,"3km W of Estacion Coahuila, B.C., MX",earthquake,7.62,31.61,0.171,30,reviewed,ci,ci
+2006-05-05T15:53:45.200Z,32.213,-115.075,7,3.9,ml,7,233.2,,,us,usp000egc0,2014-11-07T01:29:03.415Z,"4 km W of Ejido Plan de Ayala, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2006-05-05T17:09:41.300Z,32.1755,-115.034,5.987,3.03,ml,13,288,0.5636,0.52,ci,ci10181813,2016-03-09T02:12:33.727Z,"4km SW of Estacion Coahuila, B.C., MX",earthquake,4.78,31.61,0.196,55,reviewed,ci,ci
+2006-05-06T17:07:01.340Z,37.014,-104.768,5,3.1,mblg,27,97.6,,1.03,us,usp000ege7,2014-11-07T01:29:03.775Z,"12 km S of Segundo, Colorado",earthquake,,,,,reviewed,us,us
+2006-05-07T13:59:42.997Z,38.2183,-118.7501,13.6,3.6,ml,23,91.5,0.196,0.1377,nn,nn00180802,2018-04-24T20:31:08.129Z,"35 km SSW of Hawthorne, Nevada",earthquake,,1.8,,,reviewed,nn,nn
+2006-05-08T03:38:21.090Z,31.5026667,-115.67,5.925,3.1,ml,10,325,1.144,0.2,ci,ci10182157,2016-03-09T12:09:03.430Z,"88km ESE of Maneadero, B.C., MX",earthquake,2.02,31.61,0.184,49,reviewed,ci,ci
+2006-05-09T00:13:36.790Z,32.6338333,-117.3363333,9.204,3.63,ml,32,217,0.2196,0.27,ci,ci10182265,2016-03-09T03:37:21.146Z,"16km WSW of Coronado, CA",earthquake,0.8,0.93,0.12,366,reviewed,ci,ci
+2006-05-09T00:30:32.940Z,32.6291667,-117.3221667,13.864,3.17,ml,24,250,0.2189,0.13,ci,ci10182269,2016-03-09T06:29:03.489Z,"14km WSW of Coronado, CA",earthquake,0.43,0.41,0.14,178,reviewed,ci,ci
+2006-05-09T03:15:03.560Z,49.988,-66.293,18,3,mblg,33,84.8,,,us,usp000egn2,2014-11-07T01:29:04.724Z,"24 km SSE of Sept-Îles, Canada",earthquake,,,,,reviewed,ott,ott
+2006-05-10T12:17:29.240Z,35.533,-84.396,24.69,3.2,md,18,51,0.132,0.08,se,se606208,2016-04-08T19:03:13.400Z,"3 km WNW of Madisonville, Tennessee",earthquake,0.4,1,0.077,7,reviewed,se,se
+2006-05-11T06:35:39.470Z,46.2323333,-72.7113333,5,3,md,12,265,,0.37,ld,ld2006051100,2021-05-13T21:56:57.944Z,"7 km W of Nicolet, Canada",earthquake,1.2,31.61,,,reviewed,ld,ld
+2006-05-11T20:28:51.250Z,38.8111667,-122.8206667,-0.782,3.24,md,66,28,0.02072,0.22,nc,nc21516816,2018-07-09T18:45:24.737Z,"8 km W of Cobb, California",earthquake,0.2,0.48,0.1,46,reviewed,nc,nc
+2006-05-12T08:35:03.590Z,36.8188333,-121.5395,4.938,3.18,ml,81,34,0.03333,0.15,nc,nc21516936,2017-01-14T15:31:20.760Z,"2 km S of San Juan Bautista, California",earthquake,0.18,0.33,,9,reviewed,nc,nc
+2006-05-12T10:37:29.330Z,38.8171667,-122.8138333,3.618,4.71,mw,47,32,0.01802,0.11,nc,nc21516950,2020-05-06T08:15:03.181Z,"7 km W of Cobb, California",earthquake,0.17,0.47,,7,reviewed,nc,nc
+2006-05-12T10:38:35.860Z,38.8433333,-122.8536667,2.044,4.15,ml,22,54,0.07297,0.04,nc,nc30230549,2017-03-17T19:43:50.864Z,"11 km WNW of Cobb, California",earthquake,0.18,1.3,,0,reviewed,nc,nc
+2006-05-14T01:25:19.430Z,32.4035,-115.374,6.01,3.21,ml,20,249,0.3856,0.45,ci,ci10182989,2016-03-09T00:48:09.556Z,"18km WNW of Delta, B.C., MX",earthquake,1.57,31.61,0.152,80,reviewed,ci,ci
+2006-05-14T17:26:48.100Z,35.6945,-121.5176667,7.98,3.53,ml,74,210,0.191,0.14,nc,nc21517486,2017-03-17T19:01:54.592Z,"30 km W of San Simeon, California",earthquake,0.37,0.58,,6,reviewed,nc,nc
+2006-05-18T10:11:52.140Z,34.0431667,-117.0275,11.407,3.24,ml,131,19,,0.26,ci,ci10183685,2016-03-09T19:14:09.876Z,"2km NE of Yucaipa, CA",earthquake,0.19,0.4,0.185,339,reviewed,ci,ci
+2006-05-18T10:16:19.140Z,44.1891667,-110.2528333,7.42,3.82,ml,13,157,0.3905,0.5,uu,uu50315205,2021-02-18T19:25:34.136Z,"69 km NNE of Kelly, Wyoming",earthquake,1.88,6.93,,18,reviewed,uu,uu
+2006-05-18T19:59:36.028Z,39.5073,-116.2078,10.4,3,ml,5,178.64,1.207,0.6285,nn,nn00181454,2018-04-24T20:31:28.519Z,"21 km W of Eureka, Nevada",earthquake,,23.7,,,reviewed,nn,nn
+2006-05-24T04:19:07.450Z,32.4143333,-115.2823333,6.006,3.91,ml,23,229,0.4097,0.54,ci,ci10184721,2017-02-08T15:57:05.074Z,"11km NW of Delta, B.C., MX",earthquake,3.35,31.61,0.161,152,reviewed,ci,ci
+2006-05-24T04:20:26.010Z,32.3066667,-115.2278333,6.006,5.37,mw,21,263,0.4775,0.36,ci,ci12245763,2020-05-21T00:49:53.104Z,"6km SSW of Delta, B.C., MX",earthquake,1.86,31.61,0.221,0,reviewed,ci,ci
+2006-05-24T04:25:14.500Z,32.418,-115.2,6,3.9,md,8,171.9,,,us,usp000ehtu,2014-11-07T01:29:10.134Z,"1 km NW of Ejido Nuevo León, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2006-05-24T04:49:58.580Z,32.2921667,-115.2476667,6.006,3.38,ml,20,263,0.4979,0.49,ci,ci10184749,2016-03-09T03:38:02.551Z,"9km SW of Delta, B.C., MX",earthquake,2.4,31.61,0.175,115,reviewed,ci,ci
+2006-05-24T09:58:49.370Z,32.3631667,-115.2535,6.006,3.2,ml,21,255,0.4381,0.46,ci,ci10184825,2016-03-09T13:57:14.836Z,"6km W of Delta, B.C., MX",earthquake,1.68,31.61,0.124,67,reviewed,ci,ci
+2006-05-25T05:38:17.710Z,37.811,-122.0805,13.204,3.22,ml,138,36,0.01532,0.2,nc,nc21519010,2018-07-09T18:45:46.038Z,"5 km ESE of Moraga, California",earthquake,0.17,0.34,,11,reviewed,nc,nc
+2006-05-25T13:34:18.430Z,36.8103333,-121.5286667,5.638,3.03,md,82,34,0.02523,0.11,nc,nc21519046,2017-01-14T17:39:41.400Z,"3 km SSE of San Juan Bautista, California",earthquake,0.14,0.25,0.13,115,reviewed,nc,nc
+2006-05-26T06:14:25.120Z,36.795,-104.832,5,3.1,ml,17,73.3,,0.59,us,usp000ej02,2014-11-07T01:29:11.317Z,"32 km NNE of Cimarron, New Mexico",earthquake,,,,,reviewed,us,us
+2006-05-27T09:31:21.380Z,32.3226667,-115.2363333,5.984,3.15,ml,13,270,0.5269,0.28,ci,ci10185293,2016-03-09T07:57:01.116Z,"5km SW of Delta, B.C., MX",earthquake,3.79,31.61,0.286,56,reviewed,ci,ci
+2006-05-27T10:21:34.720Z,32.2783333,-115.2048333,9.976,4.3,ml,20,267,0.5755,0.39,ci,ci10185301,2016-03-09T03:38:12.153Z,"6km NNW of Alberto Oviedo Mota, B.C., MX",earthquake,1.67,31.61,0.144,343,reviewed,ci,ci
+2006-05-27T10:25:49.200Z,32.3496667,-115.2318333,9.976,3.03,ml,15,269,0.5137,0.54,ci,ci10185305,2016-03-08T18:37:07.510Z,"4km W of Delta, B.C., MX",earthquake,2.2,31.61,0.128,16,reviewed,ci,ci
+2006-05-27T17:03:59.300Z,32.317,-115.2255,6.001,3.2,ml,16,271,0.5216,0.37,ci,ci10185345,2016-03-09T09:20:34.281Z,"5km SW of Delta, B.C., MX",earthquake,2.55,31.61,0.203,103,reviewed,ci,ci
+2006-05-28T01:07:25.920Z,38.4795,-122.712,5.848,3.04,md,80,38,0.03964,0.21,nc,nc21519421,2017-01-14T17:56:12.020Z,"4 km N of Santa Rosa, California",earthquake,0.19,0.42,0.13,71,reviewed,nc,nc
+2006-05-28T07:40:17.160Z,32.2433333,-115.1353333,6.006,4.25,ml,17,281,0.5105,0.96,ci,ci10185397,2020-05-02T01:35:22.557Z,"4km ENE of Alberto Oviedo Mota, B.C., MX",earthquake,5.24,31.61,0.11,184,reviewed,ci,ci
+2006-05-28T07:46:36.220Z,32.3116667,-115.159,6.006,3.2,ml,15,274,0.4509,0.42,ci,ci10185405,2016-03-09T10:43:24.099Z,"6km WNW of Guadalupe Victoria, B.C., MX",earthquake,1.91,37.28,0.149,26,reviewed,ci,ci
+2006-05-28T09:23:11.780Z,32.3518333,-115.2106667,6.006,3.04,ml,17,267,0.4307,0.41,ci,ci10185441,2016-03-08T20:23:26.096Z,"2km WSW of Delta, B.C., MX",earthquake,2.17,31.61,0.138,69,reviewed,ci,ci
+2006-05-28T11:20:47.810Z,49.556,-66.277,18,3.6,mblg,40,41,,,us,usp000ej5a,2014-11-07T01:29:12.197Z,"50 km NNE of Sainte-Anne-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2006-05-28T11:32:53.650Z,49.552,-66.296,20,3.3,mblg,29,91.9,,,us,usp000ej5b,2014-11-07T01:29:12.202Z,"49 km NNE of Sainte-Anne-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2006-05-28T11:55:23.140Z,32.3461667,-115.2188333,6.006,4.49,ml,16,267,0.4388,0.46,ci,ci10185465,2020-05-02T01:35:44.142Z,"3km WSW of Delta, B.C., MX",earthquake,3.09,31.61,0.097,332,reviewed,ci,ci
+2006-05-28T12:03:40.190Z,32.3038333,-115.192,6.006,3.53,mw,24,266,0.468,0.77,ci,ci10185469,2016-03-09T05:03:43.430Z,"6km S of Delta, B.C., MX",earthquake,3.12,31.61,,4,reviewed,ci,ci
+2006-05-28T12:06:35.880Z,32.2986667,-115.1956667,6.006,3.5,ml,16,274,0.4739,0.44,ci,ci10185473,2016-03-09T00:48:56.089Z,"6km S of Delta, B.C., MX",earthquake,2,31.61,0.101,107,reviewed,ci,ci
+2006-05-28T14:00:57.590Z,26.752,-111.206,10,4.6,mb,92,94.8,,1.03,us,usp000ej5r,2014-11-07T01:29:12.260Z,"78 km ESE of Mulegé, Mexico",earthquake,,,,41,reviewed,us,us
+2006-05-28T14:02:54.470Z,26.779,-111.089,10,5.2,mwc,42,92.6,,1.27,us,usp000ej5s,2016-11-10T01:23:02.203Z,"88 km NNE of Loreto, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-28T14:18:02.710Z,26.698,-111.227,10,5.1,mwc,87,159.5,,1.07,us,usp000ej5v,2016-11-10T01:23:02.708Z,"76 km N of Loreto, Mexico",earthquake,,,,,reviewed,us,hrv
+2006-05-29T10:38:44.350Z,39.3703333,-120.4558333,6.845,3.7,mw,30,106,0.1072,0.07,nc,nc21519587,2018-07-09T18:46:05.958Z,"5 km NNW of Kingvale, California",earthquake,0.22,0.91,,6,reviewed,nc,nc
+2006-05-29T16:08:09.420Z,46.1961667,-122.1946667,-1.546,3.1,md,16,80,,0.47,uw,uw10698093,2016-07-22T22:14:13.280Z,"37 km NNE of Amboy, Washington",earthquake,0.078,0.13,0.05,5,reviewed,uw,uw
+2006-06-01T09:34:25.710Z,46.582,-67.452,5,3.6,mblg,49,53.7,,,us,usp000ejev,2014-11-07T01:29:16.233Z,"19 km NE of Florenceville-Bristol, Canada",earthquake,,,,,reviewed,ott,ott
+2006-06-01T19:42:16.540Z,32.1021667,-116.302,-0.18,3.09,ml,18,271,0.5809,0.21,ci,ci10186165,2016-03-09T09:20:51.601Z,"40km NE of Ensenada, B.C., MX",earthquake,0.93,31.61,0.158,91,reviewed,ci,ci
+2006-06-01T23:58:10.550Z,35.9586667,-120.5031667,4.598,3.02,md,6,159,0.006306,0.06,nc,nc70032341,2017-01-14T18:34:53.982Z,"9 km NW of Parkfield, California",earthquake,1.13,0.82,,1,reviewed,nc,nc
+2006-06-02T00:56:15.020Z,32.6761667,-115.855,5.973,3.86,ml,43,141,0.06383,0.35,ci,ci10186185,2016-03-08T16:55:36.715Z,"14km ESE of Ocotillo, CA",earthquake,0.54,31.61,0.124,362,reviewed,ci,ci
+2006-06-03T13:56:20.530Z,33.25,-116.1228333,8.646,3.04,ml,59,35,0.1186,0.23,ci,ci10186597,2016-03-09T00:49:24.766Z,"12km N of Ocotillo Wells, CA",earthquake,0.25,2.2,0.162,196,reviewed,ci,ci
+2006-06-04T03:02:19.000Z,45.38,-112.6,11.3,3.8,ml,70,31.9,,,us,usp000ejnr,2015-01-28T23:32:12.134Z,"18 km N of Dillon, Montana",earthquake,,,,,reviewed,but,but
+2006-06-06T16:14:45.000Z,44.99,-111.83,12.6,3,ml,21,55.8,,,us,usp000ejuc,2014-11-07T01:29:19.936Z,"34 km SSE of Virginia City, Montana",earthquake,,,,,reviewed,but,but
+2006-06-07T02:01:52.350Z,39.0388333,-123.0846667,1.019,3.27,ml,47,48,0.04685,0.07,nc,nc21521008,2017-01-14T19:13:56.590Z,"7 km NNE of Hopland, California",earthquake,0.13,0.57,,10,reviewed,nc,nc
+2006-06-07T02:15:11.000Z,45.38,-112.6,11.5,3.5,ml,42,73.7,,,us,usp000ejvc,2014-11-07T01:29:20.061Z,"18 km N of Dillon, Montana",earthquake,,,,,reviewed,but,but
+2006-06-07T04:04:03.600Z,43.354,-111.367,5,3.3,mwr,43,48.2,,0.75,us,usp000ejvk,2014-11-07T01:29:20.114Z,"8 km SW of Irwin, Idaho",earthquake,,,,,reviewed,us,slm
+2006-06-08T22:45:54.810Z,33.9196667,-116.7936667,17.605,3.87,ml,99,17,0.08591,0.25,ci,ci10187953,2016-03-09T00:49:42.238Z,"1km WNW of Cabazon, CA",earthquake,0.21,0.67,0.164,392,reviewed,ci,ci
+2006-06-08T23:02:16.840Z,40.7266667,-124.5521667,14.443,3.21,ml,50,230,0.3,0.13,nc,nc30230630,2017-01-14T19:29:29.860Z,"27 km W of Indianola, California",earthquake,0.68,0.83,,3,reviewed,nc,nc
+2006-06-10T04:04:45.640Z,46.1923333,-122.1885,-1.653,3.2,md,14,47,,1.1,uw,uw10692513,2016-07-22T22:14:55.360Z,"37 km NNE of Amboy, Washington",earthquake,0.348,0.56,0.08,7,reviewed,uw,uw
+2006-06-11T10:01:50.060Z,40.2508333,-111.0731667,14.71,3.41,ml,39,150,0.2135,0.18,uu,uu50316580,2019-06-28T18:48:17.423Z,"Utah",earthquake,0.47,0.56,,20,reviewed,uu,uu
+2006-06-11T15:28:52.311Z,37.1044,-115.1379,0,3.3,ml,4,255.94,0.599,0.277,nn,nn00183046,2018-04-24T20:32:27.985Z,"29 km S of Alamo, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-06-11T21:09:55.000Z,37.4581667,-118.8353333,5.072,3.48,ml,45,78,0.08829,0.06,nc,nc21521790,2017-01-14T19:53:49.290Z,"California-Nevada border region",earthquake,0.25,0.81,,7,reviewed,nc,nc
+2006-06-12T10:22:11.800Z,31.309,-115.373,5,3.5,ml,5,247.4,,,us,usp000ek79,2016-03-09T00:49:50.223Z,"59 km WNW of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,pas
+2006-06-13T09:18:05.058Z,37.3057,-114.8967,0,3.5,ml,4,290.36,0.828,0.045,nn,nn00183145,2018-04-24T20:32:32.836Z,"24 km ESE of Alamo, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-06-13T15:29:51.430Z,31.8315,-116.364,5.477,3.62,ml,14,296,0.8549,0.27,ci,ci14233048,2016-03-08T20:24:42.785Z,"23km ENE of Maneadero, B.C., MX",earthquake,1.34,31.61,0.08,47,reviewed,ci,ci
+2006-06-13T15:30:21.790Z,31.8383333,-116.3625,5.295,4.49,ml,13,291,0.848,0.17,ci,ci14233052,2020-05-02T01:36:04.437Z,"24km NE of Maneadero, B.C., MX",earthquake,0.76,31.61,0.164,357,reviewed,ci,ci
+2006-06-14T12:52:15.060Z,35.9415,-120.4891667,10.69,3.27,ml,62,33,0.01622,0.08,nc,nc21522266,2017-01-14T20:14:26.980Z,"6 km NW of Parkfield, California",earthquake,0.17,0.22,,8,reviewed,nc,nc
+2006-06-14T17:27:34.000Z,44.77,-112.99,9.4,3,ml,14,165.5,,,us,usp000ekcf,2014-11-07T01:29:22.511Z,"30 km ENE of Leadore, Idaho",earthquake,,,,,reviewed,but,but
+2006-06-15T12:24:51.110Z,37.1015,-121.492,2.831,4.3,mw,111,65,0.02432,0.07,nc,nc21522424,2020-05-06T09:00:18.347Z,"10 km E of San Martin, California",earthquake,0.1,0.21,,6,reviewed,nc,nc
+2006-06-16T00:57:26.770Z,35.5121667,-83.2033333,1.37,3.4,md,17,181,0.4817,0.07,se,se606211,2016-04-08T19:03:32.240Z,"9 km W of Maggie Valley, North Carolina",earthquake,2.7,3.4,0.06,4,reviewed,se,se
+2006-06-16T08:46:45.960Z,27.506,-111.597,5,4.4,mb,16,173.2,,1.4,us,usp000ekgt,2014-11-07T01:29:23.045Z,"68 km ENE of Santa Rosalía, Mexico",earthquake,,,,5,reviewed,us,us
+2006-06-17T11:15:45.620Z,31.8251667,-116.3741667,-0.645,3.73,ml,16,287,0.8633,0.19,ci,ci14233708,2016-03-08T20:24:54.990Z,"22km ENE of Maneadero, B.C., MX",earthquake,3.46,5.77,0.165,188,reviewed,ci,ci
+2006-06-17T16:22:13.540Z,45.6,-111.907,11.2,3.8,mwr,81,38.7,,,us,usp000ekmk,2015-01-29T18:04:29.282Z,"6 km S of Pony, Montana",earthquake,,,,,reviewed,but,slm
+2006-06-18T00:05:32.400Z,45.602,-111.902,11.5,4.1,mwr,123,26.6,,,us,usp000eknw,2014-11-07T01:29:23.708Z,"6 km S of Pony, Montana",earthquake,,,,,reviewed,but,slm
+2006-06-18T01:43:26.330Z,31.848,-116.3446667,0.947,3.11,ml,11,294,0.8348,0.21,ci,ci14233816,2016-03-09T12:11:19.106Z,"26km NE of Maneadero, B.C., MX",earthquake,4.62,8.58,0.095,88,reviewed,ci,ci
+2006-06-18T15:41:17.140Z,36.8078333,-121.534,6.928,3.04,md,67,35,0.02973,0.07,nc,nc21522994,2019-06-28T18:48:17.841Z,"4 km S of San Juan Bautista, California",earthquake,0.15,0.26,0.1,109,reviewed,nc,nc
+2006-06-19T05:55:14.880Z,38.7891667,-122.7763333,3.689,3.15,md,72,22,0.00991,0.1,nc,nc21523073,2017-01-14T20:59:04.870Z,"5 km SW of Cobb, California",earthquake,0.14,0.21,0.11,74,reviewed,nc,nc
+2006-06-19T09:25:59.810Z,46.2016667,-122.191,-1.18,3.2,md,16,58,,0.1,uw,uw10694713,2016-07-22T22:15:30.710Z,"37 km NNE of Amboy, Washington",earthquake,,,0.04,7,reviewed,uw,uw
+2006-06-20T04:16:25.262Z,37.2291,-114.6723,0,4.4,ml,6,292.69,0.822,0.1283,nn,nn00183504,2018-04-24T20:32:45.853Z,"45 km SSW of Caliente, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-06-20T20:11:18.540Z,41.84,-81.23,5,3.5,mwr,59,47.9,,,us,usp000ekw5,2016-05-27T19:20:20.430Z,"9 km WNW of North Perry, Ohio",earthquake,,,,,reviewed,ogso,slm
+2006-06-21T05:13:53.230Z,36.6296667,-121.2466667,10.26,3.09,ml,80,39,0.04324,0.07,nc,nc21523375,2017-01-14T21:16:33.060Z,"18 km SSE of Tres Pinos, California",earthquake,0.11,0.22,,8,reviewed,nc,nc
+2006-06-21T19:25:34.000Z,45.6,-111.91,11.4,3.5,ml,29,51.2,,,us,usp000ekyy,2015-01-29T23:19:37.440Z,"6 km S of Pony, Montana",earthquake,,,,,reviewed,but,but
+2006-06-21T19:25:48.000Z,45.61,-111.92,11,3.9,ml,33,48.8,,,us,usp000ekyz,2014-11-07T01:29:26.108Z,"5 km SSW of Pony, Montana",earthquake,,,,,reviewed,but,but
+2006-06-21T23:23:21.300Z,40.339,-124.673,15.793,3.36,md,42,242,0.291,0.09,nc,nc21523473,2017-01-14T21:22:30.555Z,"43 km SW of Ferndale, California",earthquake,0.85,0.96,0.14,39,reviewed,nc,nc
+2006-06-23T10:01:39.713Z,38.2467,-118.3293,7.6,3,ml,37,57.64,0.138,0.1873,nn,nn00183761,2018-04-24T20:32:55.092Z,"California-Nevada border region",earthquake,,2,0.23,3,reviewed,nn,nn
+2006-06-26T22:57:06.080Z,46.201,-122.1916667,-1.814,3,md,13,71,,0.2,uw,uw10696228,2016-07-22T22:18:58.960Z,"37 km NNE of Amboy, Washington",earthquake,,,0.07,3,reviewed,uw,uw
+2006-06-27T19:40:38.080Z,36.1941667,-120.7648333,7.777,3.02,md,71,63,0.03694,0.1,nc,nc21524527,2017-01-14T22:07:55.890Z,"23 km NNE of San Ardo, California",earthquake,0.2,0.38,0.11,98,reviewed,nc,nc
+2006-06-27T21:38:11.870Z,36.0658333,-120.1921667,16.482,3.19,ml,68,69,0.06667,0.1,nc,nc21524551,2017-01-14T22:08:46.590Z,"8 km NW of Avenal, California",earthquake,0.17,0.42,,11,reviewed,nc,nc
+2006-06-29T17:22:09.060Z,40.3836667,-124.987,-0.15,3.07,md,26,261,0.5054,0.15,nc,nc21525069,2017-01-14T22:24:41.295Z,"64 km WSW of Ferndale, California",earthquake,1.79,4.92,0.15,23,reviewed,nc,nc
+2006-06-30T00:28:06.560Z,33.2406667,-116.036,3.459,4.37,ml,79,27,0.1792,0.3,ci,ci14236768,2020-06-27T05:57:13.201Z,"10km SW of Salton City, CA",earthquake,0.27,1.02,0.119,370,reviewed,ci,ci
+2006-06-30T00:30:00.600Z,33.2438333,-116.0335,4.099,3.07,ml,61,39,0.1766,0.28,ci,ci14236772,2016-03-08T21:59:30.996Z,"9km SW of Salton City, CA",earthquake,0.32,1.18,0.135,47,reviewed,ci,ci
+2006-06-30T01:59:39.910Z,33.2441667,-116.0366667,2.479,3.03,ml,61,27,0.1757,0.25,ci,ci14236828,2016-03-09T07:58:52.838Z,"10km SW of Salton City, CA",earthquake,0.25,0.77,0.14,183,reviewed,ci,ci
+2006-06-30T15:20:52.640Z,33.2486667,-116.0278333,3.569,3.43,ml,61,28,0.1731,0.25,ci,ci14237056,2016-03-08T21:59:38.541Z,"9km SW of Salton City, CA",earthquake,0.29,0.99,0.137,238,reviewed,ci,ci
+2006-06-30T16:55:01.240Z,42.4298333,-111.5028333,10.07,4.27,ml,15,115,0.3755,0.16,uu,uu50318110,2019-06-28T18:48:18.228Z,"12 km WSW of Georgetown, Idaho",earthquake,0.69,2.44,,16,reviewed,uu,uu
+2006-07-01T06:31:14.050Z,46.1931667,-122.1948333,-1.874,3.3,md,21,57,,0.34,uw,uw10692903,2016-07-22T22:19:16.490Z,"Washington",earthquake,,,0.06,5,reviewed,uw,uw
+2006-07-01T11:40:19.490Z,38.8345,-122.797,1.384,3.05,md,66,40,0.006306,0.06,nc,nc21525352,2017-01-14T22:40:07.380Z,"6 km WNW of Cobb, California",earthquake,0.11,0.17,0.12,56,reviewed,nc,nc
+2006-07-03T12:44:51.080Z,39.4538333,-123.1205,8.391,3.6,mw,50,48,0.1523,0.18,nc,nc21525602,2017-03-17T19:03:41.558Z,"14 km N of Potter Valley, California",earthquake,0.24,0.54,,3,reviewed,nc,nc
+2006-07-03T16:55:10.312Z,39.685,-115.8155,0,3.1,ml,4,142.66,1.148,0.6575,nn,nn00184485,2018-04-24T20:33:29.791Z,"22 km NNE of Eureka, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-07-04T20:37:02.960Z,48.3546667,-123.1953333,45.453,3.6,md,80,125,0.2266,0.43,uw,uw10694073,2016-09-01T20:49:14.082Z,"13 km SE of Oak Bay, Canada",earthquake,0.893,1.05,0.04,15,reviewed,uw,uw
+2006-07-06T02:36:20.880Z,46.1941667,-122.198,-1.777,3.1,md,17,66,,0.64,uw,uw10694453,2016-07-22T22:19:39.660Z,"36 km NNE of Amboy, Washington",earthquake,0.156,0.26,0.07,5,reviewed,uw,uw
+2006-07-06T06:06:28.150Z,35.898,-120.441,5.964,3.27,ml,63,39,0.03604,0.07,nc,nc21525987,2017-01-14T23:18:09.520Z,"0 km WSW of Parkfield, California",earthquake,0.15,0.22,,11,reviewed,nc,nc
+2006-07-06T20:43:24.060Z,38.5043333,-123.459,-0.511,3.7,mw,83,195,0.2288,0.19,nc,nc21526081,2017-03-17T19:04:16.478Z,"23 km S of Sea Ranch, California",earthquake,0.34,0.73,,5,reviewed,nc,nc
+2006-07-09T12:10:42.040Z,40.876,-124.284,19.119,3.09,md,23,175,0.2018,0.06,nc,nc21526526,2017-01-14T23:41:00.409Z,"10 km NW of Samoa, California",earthquake,0.39,0.41,0.09,18,reviewed,nc,nc
+2006-07-09T12:56:35.430Z,46.1996667,-122.1901667,-1.834,3.2,md,13,77,,0.35,uw,uw10695973,2016-07-22T22:19:55.360Z,"37 km NNE of Amboy, Washington",earthquake,,,0.05,6,reviewed,uw,uw
+2006-07-10T02:54:43.890Z,33.856,-117.1121667,10.953,3.9,ml,141,41,,0.29,ci,ci14239184,2016-03-08T23:26:44.328Z,"7km NNE of Nuevo, CA",earthquake,0.22,0.41,0.128,383,reviewed,ci,ci
+2006-07-11T11:53:37.780Z,36.964,-104.929,5,3.2,mblg,17,132.5,,0.91,us,usp000end4,2014-11-07T01:29:37.887Z,"20 km SSW of Weston, Colorado",earthquake,,,,,reviewed,us,us
+2006-07-12T03:24:48.620Z,46.1973333,-122.1876667,-1.064,3.3,md,36,42,,0.18,uw,uw10697173,2016-07-22T22:20:14.640Z,"37 km NNE of Amboy, Washington",earthquake,0.085,0.17,0.03,7,reviewed,uw,uw
+2006-07-12T22:20:50.220Z,36.071,-117.9021667,2.981,4.02,ml,48,55,0.06037,0.24,ci,ci14239764,2020-05-02T01:36:46.211Z,"5km NE of Coso Junction, CA",earthquake,0.3,0.68,0.109,370,reviewed,ci,ci
+2006-07-12T22:22:46.290Z,36.0755,-117.9035,2.061,3.69,ml,35,55,0.05771,0.2,ci,ci14239768,2016-03-09T14:00:59.682Z,"5km NE of Coso Junction, CA",earthquake,0.31,0.57,0.131,64,reviewed,ci,ci
+2006-07-14T01:05:36.590Z,35.9275,-120.4783333,9.554,3.16,ml,70,38,0.01802,0.08,nc,nc21527162,2017-01-15T00:12:28.480Z,"5 km NW of Parkfield, California",earthquake,0.14,0.21,,8,reviewed,nc,nc
+2006-07-14T08:50:32.560Z,32.4061667,-115.134,5.985,3.43,ml,18,215,,0.52,ci,ci14240140,2016-03-09T00:51:32.761Z,"8km NE of Delta, B.C., MX",earthquake,2.16,31.61,0.115,132,reviewed,ci,ci
+2006-07-14T09:34:48.830Z,46.8763333,-68.6856667,13.81,3.86,md,32,149,,0.59,ld,ld2006071400,2021-05-13T21:57:00.518Z,"13 km SW of Winterville, Maine",earthquake,1.24,1.43,,,reviewed,ld,ld
+2006-07-14T11:17:17.710Z,36.0746667,-117.902,3.401,3.03,ml,31,55,0.0575,0.22,ci,ci14240188,2016-03-09T07:59:53.359Z,"5km NE of Coso Junction, CA",earthquake,0.35,0.64,0.162,121,reviewed,ci,ci
+2006-07-14T17:06:01.140Z,42.4235,-111.5245,6.42,3.97,ml,28,79,0.3615,0.31,uu,uu50319130,2019-06-28T18:48:18.627Z,"14 km WSW of Georgetown, Idaho",earthquake,0.73,0.99,,19,reviewed,uu,uu
+2006-07-15T22:31:16.800Z,46.286,-110.933,9.6,3,ml,20,79.6,,,us,usp000enpq,2014-11-07T01:29:39.157Z,"Western Montana",earthquake,,,,,reviewed,but,us
+2006-07-16T14:37:37.280Z,32.4145,-115.1381667,6.001,3.39,ml,14,213,,0.48,ci,ci14240572,2016-03-09T09:23:12.419Z,"8km NE of Delta, B.C., MX",earthquake,1.73,31.61,0.115,140,reviewed,ci,ci
+2006-07-17T01:29:11.590Z,46.1998333,-122.1955,-1.797,3,md,13,73,,0.44,uw,uw10699308,2016-07-22T22:20:35.880Z,"37 km NNE of Amboy, Washington",earthquake,0.12,0.28,0.06,5,reviewed,uw,uw
+2006-07-18T16:55:46.440Z,46.1966667,-122.1878333,-1.194,3.5,md,45,37,,0.34,uw,uw10700288,2016-07-22T22:20:42.510Z,"37 km NNE of Amboy, Washington",earthquake,0.581,0.39,0.05,10,reviewed,uw,uw
+2006-07-18T18:52:19.700Z,37.2405,-121.628,4.624,3.08,md,92,80,0.04054,0.07,nc,nc21527897,2017-01-15T00:42:35.650Z,"12 km N of Morgan Hill, California",earthquake,0.1,0.25,0.1,98,reviewed,nc,nc
+2006-07-19T11:41:43.460Z,40.2806667,-124.4331667,20.064,5,mw,39,223,0.2081,0.09,nc,nc21527987,2020-05-06T09:05:26.783Z,"35 km SSW of Ferndale, California",earthquake,0.61,0.45,,6,reviewed,nc,nc
+2006-07-19T13:23:19.610Z,35.5195,-116.4256667,5.255,3.49,ml,40,75,0.3789,0.16,ci,ci14241380,2016-03-08T20:26:49.796Z,"37km NE of Fort Irwin, CA",earthquake,0.24,31.61,0.143,222,reviewed,ci,ci
+2006-07-20T06:50:19.040Z,32.1865,-115.8653333,5.787,3.41,ml,17,254,0.462,0.29,ci,ci14241544,2016-03-09T02:16:28.008Z,"51km SSW of Progreso, B.C., MX",earthquake,2.29,31.61,0.191,120,reviewed,ci,ci
+2006-07-20T08:29:58.210Z,40.272,-124.3948333,21.654,3.44,ml,34,221,0.2081,0.09,nc,nc21528200,2017-01-15T00:52:31.200Z,"34 km SW of Scotia, California",earthquake,0.54,0.62,,8,reviewed,nc,nc
+2006-07-23T15:58:52.450Z,33.73,-117.4778333,10.442,3.69,ml,154,54,,0.33,ci,ci14242516,2016-03-08T16:59:01.603Z,"13km NE of Trabuco Canyon, CA",earthquake,0.22,0.5,0.14,369,reviewed,ci,ci
+2006-07-24T21:06:08.186Z,39.0672,-118.0642,6.9,3.5,ml,11,127.71,0.171,0.1588,nn,nn00185870,2018-04-24T20:34:11.843Z,"25 km NNW of Gabbs, Nevada",earthquake,,2.8,,,reviewed,nn,nn
+2006-07-25T06:13:37.880Z,47.6368333,-120.207,5.387,3.1,md,44,45,0.09162,0.28,uw,uw10702538,2017-04-01T21:41:02.042Z,"4 km S of Entiat, Washington",earthquake,0.424,0.9,0.03,14,reviewed,uw,uw
+2006-07-25T12:31:45.730Z,46.1961667,-122.1905,-1.424,3.6,md,47,39,,0.21,uw,uw10702618,2016-07-22T22:21:17.510Z,"37 km NNE of Amboy, Washington",earthquake,0.355,0.27,0.04,9,reviewed,uw,uw
+2006-07-25T16:12:54.320Z,42.414,-111.5028333,4.51,3.09,ml,17,116,0.3624,0.13,uu,uu50319650,2018-08-28T21:56:30.790Z,"13 km SW of Georgetown, Idaho",earthquake,0.6,0.93,,14,reviewed,uu,uu
+2006-07-26T04:43:42.390Z,46.197,-122.1891667,-1.274,3.1,md,30,47,,0.13,uw,uw10702843,2016-07-22T22:21:19.650Z,"37 km NNE of Amboy, Washington",earthquake,0.248,0.19,0.03,7,reviewed,uw,uw
+2006-07-26T17:34:46.000Z,47.38,-114.37,10.1,3.3,ml,22,73.6,,,us,usp000epmy,2014-11-07T01:29:46.761Z,"7 km NW of Old Agency, Montana",earthquake,,,,,reviewed,but,but
+2006-07-27T23:41:59.260Z,46.1971667,-122.1895,-0.914,3.3,md,43,42,,0.21,uw,uw10703463,2016-07-22T22:21:27.340Z,"37 km NNE of Amboy, Washington",earthquake,0.389,0.25,0.03,8,reviewed,uw,uw
+2006-07-28T01:58:24.200Z,46.1963333,-122.1903333,-0.944,3.1,md,27,46,,0.12,uw,uw10703628,2016-07-22T22:21:28.710Z,"37 km NNE of Amboy, Washington",earthquake,0.014,0.01,0.03,6,reviewed,uw,uw
+2006-07-30T01:20:59.250Z,26.864,-111.209,10,5.9,mwb,294,108.1,,1.17,us,usp000epv9,2016-11-10T01:26:21.136Z,"76 km E of Mulegé, Mexico",earthquake,,,,,reviewed,us,us
+2006-07-30T03:02:27.480Z,38.3674,-118.7127,11.4,3,ml,23,60.45,0.309,0.132,nn,nn00186191,2018-04-24T20:34:21.986Z,"19 km SSW of Hawthorne, Nevada",earthquake,,2.5,,,reviewed,nn,nn
+2006-07-30T13:32:53.490Z,33.6896667,-116.795,14.032,3.16,ml,81,21,0.07344,0.22,ci,ci14243724,2016-03-08T18:41:23.629Z,"9km SW of Idyllwild, CA",earthquake,0.2,0.28,0.151,323,reviewed,ci,ci
+2006-07-31T09:33:59.580Z,46.1966667,-122.1895,-1.034,3.6,md,49,40,,0.24,uw,uw10705188,2016-07-22T22:21:52.810Z,"37 km NNE of Amboy, Washington",earthquake,0.411,0.27,0.03,9,reviewed,uw,uw
+2006-07-31T11:23:21.100Z,31.286,-115.402,5,3.3,ml,8,281.3,,,us,usp000epyq,2016-03-08T22:01:37.693Z,"60 km WNW of San Felipe, Mexico",earthquake,,,,,reviewed,ecx,ecx
+2006-07-31T16:44:25.490Z,46.1966667,-122.1891667,-1.154,3.3,md,44,41,,0.24,uw,uw10705378,2016-07-22T22:21:55.260Z,"37 km NNE of Amboy, Washington",earthquake,0.405,0.29,0.04,14,reviewed,uw,uw
+2006-08-01T09:16:22.740Z,33.2488333,-116.1283333,2.936,3,ml,68,21,0.1234,0.28,ci,ci14244008,2016-03-09T09:24:00.325Z,"12km N of Ocotillo Wells, CA",earthquake,0.25,0.65,0.137,195,reviewed,ci,ci
+2006-08-02T11:23:24.670Z,37.4291667,-118.4833333,13.321,3.12,ml,42,40,0.04324,0.08,nc,nc21530258,2018-04-24T20:34:26.663Z,"5 km ENE of Mesa, California",earthquake,0.28,0.53,,3,reviewed,nc,nc
+2006-08-02T15:54:45.000Z,44.56,-114.23,12.6,3.5,ml,43,74.8,,,us,usp000eq3c,2014-11-07T01:29:52.981Z,"southern Idaho",earthquake,,,,,reviewed,but,but
+2006-08-02T16:03:02.350Z,34.111,-117.3155,15.68,3.31,ml,92,23,0.01815,0.29,ci,ci14244212,2016-03-09T02:17:11.185Z,"3km SW of San Bernardino, CA",earthquake,0.26,0.49,0.135,348,reviewed,ci,ci
+2006-08-03T03:08:12.860Z,38.3635,-122.5886667,8.55,4.5,mw,107,28,0.01712,0.14,nc,nc21530368,2020-05-06T09:05:57.951Z,"5 km W of Glen Ellen, California",earthquake,0.14,0.27,,6,reviewed,nc,nc
+2006-08-03T08:39:18.620Z,45.8021667,-122.6066667,14.254,3.8,md,72,26,,0.17,uw,uw10695763,2016-09-01T18:41:36.648Z,"2 km WNW of Cherry Grove, Washington",earthquake,0.15,0.23,0.03,8,reviewed,uw,uw
+2006-08-05T16:45:43.040Z,46.1853333,-122.2115,-1.797,3.2,md,13,96,,0.39,uw,uw10697013,2016-07-22T22:22:50.720Z,"35 km NNE of Amboy, Washington",earthquake,0.054,0.08,0.06,4,reviewed,uw,uw
+2006-08-05T20:15:14.330Z,46.197,-122.189,-1.064,3.6,md,41,46,,0.23,uw,uw10697073,2016-07-22T22:22:51.140Z,"37 km NNE of Amboy, Washington",earthquake,0.419,0.27,0.03,11,reviewed,uw,uw
+2006-08-07T01:01:42.370Z,33.243,-116.0356667,9.182,3.68,ml,84,24,0.05578,0.29,ci,ci10200841,2016-03-09T02:17:15.904Z,"10km SW of Salton City, CA",earthquake,0.27,1.01,0.118,348,reviewed,ci,ci
+2006-08-07T02:50:56.860Z,27.196,-112.261,10,4.3,mb,30,185,,1.23,us,usp000eqdd,2014-11-07T01:29:55.144Z,"16 km S of Santa Rosalía, Mexico",earthquake,,,,13,reviewed,us,us
+2006-08-08T04:29:38.820Z,27.488,-112.069,10,3.8,mb,23,252.9,,1.47,us,usp000eqfv,2014-11-07T01:29:55.788Z,"25 km NE of Santa Rosalía, Mexico",earthquake,,,,7,reviewed,us,us
+2006-08-09T03:01:05.460Z,46.1978333,-122.1875,-1.344,3.3,md,31,45,,0.15,uw,uw10698598,2016-07-22T22:23:10.270Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.21,0.03,9,reviewed,uw,uw
+2006-08-09T18:05:20.090Z,40.3088333,-124.5453333,18.961,3,md,36,228,0.2306,0.09,nc,nc21531572,2017-01-15T03:01:30.490Z,"38 km SW of Ferndale, California",earthquake,0.56,0.6,0.13,30,reviewed,nc,nc
+2006-08-11T09:02:02.560Z,44.797,-65.359,5,3.2,mblg,31,148.6,,,us,usp000eqq3,2014-11-07T01:29:56.793Z,"27 km SW of Middleton, Canada",earthquake,,,,,reviewed,ott,ott
+2006-08-13T13:46:30.430Z,46.2006667,-122.1901667,-1.814,3.1,md,12,92,,0.31,uw,uw10700753,2016-07-22T22:23:35.420Z,"37 km NNE of Amboy, Washington",earthquake,0.1,0.2,0.07,4,reviewed,uw,uw
+2006-08-14T18:38:28.720Z,40.3511667,-124.976,0.02,3.14,md,30,287,0.5036,0.25,nc,nc21532356,2017-01-15T03:23:45.055Z,"65 km WSW of Ferndale, California",earthquake,4.92,8.88,0.17,18,reviewed,nc,nc
+2006-08-14T22:25:13.120Z,46.196,-122.198,-1.234,3,md,12,80,,0.12,uw,uw10701178,2016-07-22T22:23:41.430Z,"37 km NNE of Amboy, Washington",earthquake,,,0.05,3,reviewed,uw,uw
+2006-08-17T05:41:29.900Z,46.1963333,-122.1891667,-1.884,3.1,md,16,63,,0.31,uw,uw10702503,2016-07-22T22:23:53.930Z,"37 km NNE of Amboy, Washington",earthquake,,,0.08,6,reviewed,uw,uw
+2006-08-17T16:40:58.280Z,44.218,-106.17,5,3.1,mblg,31,53.6,,1.16,us,usp000er60,2014-11-07T01:29:59.343Z,"44 km ESE of Buffalo, Wyoming",earthquake,,,,,reviewed,us,us
+2006-08-19T16:20:00.870Z,46.1981667,-122.1921667,-1.884,3.1,md,14,76,,0.16,uw,uw10703743,2016-07-22T22:24:05.380Z,"37 km NNE of Amboy, Washington",earthquake,,,0.06,5,reviewed,uw,uw
+2006-08-20T20:44:23.610Z,32.1558333,-116.669,5.27,3.13,ml,16,267,0.5019,0.18,ci,ci14247324,2016-03-08T17:00:24.262Z,"24km ESE of Primo Tapia, B.C., MX",earthquake,0.72,31.61,0.125,96,reviewed,ci,ci
+2006-08-21T00:09:15.660Z,37.2186667,-117.6128333,5.055,3.07,ml,13,120,0.297,0.51,ci,ci14247364,2018-04-24T20:35:05.383Z,"60km E of Big Pine, CA",earthquake,1.43,27.59,0.137,89,reviewed,ci,ci
+2006-08-21T06:23:39.630Z,46.1973333,-122.1916667,-1.834,3.2,md,16,77,,0.14,uw,uw10704358,2016-07-22T22:24:13.040Z,"37 km NNE of Amboy, Washington",earthquake,0.028,0.05,0.04,6,reviewed,uw,uw
+2006-08-22T01:06:09.590Z,47.2068333,-118.9176667,5.253,3,md,35,123,0.2292,0.23,uw,uw10704733,2017-04-01T21:46:00.693Z,"22 km SW of Odessa, Washington",earthquake,0.705,1.82,0.05,18,reviewed,uw,uw
+2006-08-24T07:55:06.660Z,36.1291667,-117.9085,0.783,3.33,ml,35,59,0.04492,0.21,ci,ci14247976,2016-03-09T02:18:18.689Z,"10km NNE of Coso Junction, CA",earthquake,0.38,0.68,0.107,170,reviewed,ci,ci
+2006-08-24T14:04:25.880Z,37.014,-105.013,5,3.1,mblg,24,116.8,,1.17,us,usp000ern3,2014-11-07T01:30:01.213Z,"15 km S of Stonewall Gap, Colorado",earthquake,,,,,reviewed,us,us
+2006-08-24T18:51:28.770Z,33.9803333,-116.2718333,4.425,3.23,ml,64,33,0.1202,0.2,ci,ci14248144,2016-03-09T02:18:26.529Z,"18km SSE of Joshua Tree, CA",earthquake,0.23,0.58,0.136,271,reviewed,ci,ci
+2006-08-25T22:38:30.730Z,46.2001667,-122.1886667,-1.852,3.2,md,16,56,,0.17,uw,uw10706783,2016-07-22T22:24:50.150Z,"37 km NNE of Amboy, Washington",earthquake,,0.03,0.06,6,reviewed,uw,uw
+2006-08-26T02:49:21.920Z,39.7281667,-123.3628333,3.025,3.27,ml,26,103,0.1018,0.08,nc,nc21533998,2017-01-15T04:32:34.600Z,"11 km ENE of Laytonville, California",earthquake,0.18,0.83,,9,reviewed,nc,nc
+2006-08-26T08:45:39.530Z,35.4655,-120.7751667,3.237,3.09,ml,67,79,0.09189,0.08,nc,nc21534022,2018-07-09T18:46:37.383Z,"9 km WSW of Atascadero, California",earthquake,0.15,0.95,,6,reviewed,nc,nc
+2006-08-26T12:07:20.690Z,39.5996667,-123.4045,5.157,3.4,ml,39,127,0.04234,0.18,nc,nc21534034,2017-01-15T04:35:27.310Z,"11 km SE of Laytonville, California",earthquake,0.29,0.48,,9,reviewed,nc,nc
+2006-08-26T21:19:55.950Z,34.29,-116.9056667,5.014,3.48,ml,114,26,,0.17,ci,ci14248536,2016-03-08T20:29:12.914Z,"5km N of Big Bear Lake, CA",earthquake,0.15,1.05,0.123,362,reviewed,ci,ci
+2006-08-28T10:25:51.300Z,33.1851667,-115.6096667,1.937,3.16,ml,46,46,0.009166,0.27,ci,ci14248808,2016-03-08T17:00:57.238Z,"10km SW of Niland, CA",earthquake,0.36,0.48,0.113,167,reviewed,ci,ci
+2006-08-29T10:31:53.340Z,46.1893333,-122.1916667,-1.874,3.2,md,12,120,,0.37,uw,uw10708178,2016-07-22T22:25:09.160Z,"36 km NNE of Amboy, Washington",earthquake,0.106,0.23,0.06,3,reviewed,uw,uw
+2006-08-29T11:46:53.680Z,44.22,-106.289,5,3.2,ml,11,91.7,,0.49,us,usp000es0z,2014-11-07T01:30:03.088Z,"35 km ESE of Buffalo, Wyoming",earthquake,,,,,reviewed,us,us
+2006-08-29T11:50:24.150Z,32.1665,-116.6563333,5.643,3.03,ml,20,266,0.4972,0.24,ci,ci14248996,2016-03-09T15:55:55.124Z,"25km ESE of Primo Tapia, B.C., MX",earthquake,0.92,31.61,0.102,93,reviewed,ci,ci
+2006-08-30T15:02:27.500Z,35.7273333,-121.104,7.161,3.42,ml,63,46,0.04144,0.08,nc,nc21534633,2017-01-15T05:02:54.530Z,"12 km NE of San Simeon, California",earthquake,0.13,0.35,,3,reviewed,nc,nc
+2006-09-02T16:29:42.040Z,33.9453333,-116.368,8.367,3.62,ml,107,32,,0.2,ci,ci10205997,2016-03-09T00:54:21.517Z,"12km E of Desert Hot Springs, CA",earthquake,0.17,0.49,0.142,352,reviewed,ci,ci
+2006-09-02T19:54:59.720Z,42.4308333,-111.5153333,2.35,3.57,ml,23,80,0.3713,0.2,uu,uu50322105,2019-06-28T18:48:19.354Z,"13 km WSW of Georgetown, Idaho",earthquake,0.58,1.15,,18,reviewed,uu,uu
+2006-09-03T08:00:10.050Z,46.1958333,-122.187,-1.864,3.2,md,16,51,0.0004966,0.29,uw,uw10697548,2016-07-22T22:25:34.520Z,"37 km NNE of Amboy, Washington",earthquake,0.078,0.12,0.06,6,reviewed,uw,uw
+2006-09-04T02:24:44.580Z,31.7455,-115.5526667,5.925,3.55,ml,15,269,0.9131,0.7,ci,ci10206289,2016-03-09T10:48:43.938Z,"65km SW of Alberto Oviedo Mota, B.C., MX",earthquake,3.72,31.61,0.164,225,reviewed,ci,ci
+2006-09-05T15:22:58.590Z,32.6975,-116.0578333,5.633,3.01,ml,43,111,0.05257,0.27,ci,ci10206481,2016-03-09T12:16:13.374Z,"7km SW of Ocotillo, CA",earthquake,0.49,2.73,0.156,118,reviewed,ci,ci
+2006-09-06T13:52:12.850Z,46.1971667,-122.189,-1.864,3.2,md,19,50,,0.23,uw,uw10698733,2016-07-22T22:25:48.990Z,"37 km NNE of Amboy, Washington",earthquake,0.05,0.07,0.05,8,reviewed,uw,uw
+2006-09-06T22:18:01.510Z,33.1758333,-116.0436667,12.813,3.66,ml,70,29,0.1147,0.32,ci,ci10206665,2016-03-08T17:01:37.749Z,"9km ENE of Ocotillo Wells, CA",earthquake,0.27,0.68,0.142,320,reviewed,ci,ci
+2006-09-07T01:38:59.930Z,37.3118333,-118.2831667,6.546,3.4,mw,43,140,0.164,0.06,nc,nc21535818,2018-04-24T20:35:43.606Z,"9 km ENE of Wilkerson, California",earthquake,0.28,0.98,,2,reviewed,nc,nc
+2006-09-07T13:51:12.640Z,36.2715,-89.4996667,7.56,3.3,md,35,35,0.01798,0.06,nm,nm606109,2016-04-08T18:52:39.560Z,"1 km NW of Ridgely, Tennessee",earthquake,0.2,0.6,0.076,10,reviewed,nm,nm
+2006-09-07T14:44:47.610Z,33.9751667,-117.078,13.965,3.12,ml,104,29,0.0666,0.25,ci,ci10206813,2016-03-09T08:02:53.599Z,"3km WSW of Calimesa, CA",earthquake,0.19,0.28,0.146,323,reviewed,ci,ci
+2006-09-09T09:54:06.650Z,37.296,-104.77,5,3.2,mblg,16,203,,0.99,us,usp000ess3,2014-11-07T01:30:11.243Z,"15 km SW of Aguilar, Colorado",earthquake,,,,,reviewed,us,us
+2006-09-09T12:53:14.210Z,37.368,-104.865,5,3,mblg,11,200.7,,1.33,us,usp000essf,2014-11-07T01:30:11.296Z,"19 km WSW of Aguilar, Colorado",earthquake,,,,,reviewed,us,us
+2006-09-09T19:03:34.810Z,46.2003333,-122.1885,-1.842,3.1,md,14,72,,0.4,uw,uw10700033,2016-07-22T22:29:03.540Z,"37 km NNE of Amboy, Washington",earthquake,0.106,0.18,0.07,4,reviewed,uw,uw
+2006-09-09T23:14:35.540Z,37.298,-104.794,5,3.6,mblg,15,111.3,,0.93,us,usp000este,2014-11-07T01:30:11.420Z,"17 km SW of Aguilar, Colorado",earthquake,,,,,reviewed,us,us
+2006-09-10T09:22:39.960Z,46.1968333,-122.1903333,-0.784,3,md,16,78,,0.1,uw,uw10700218,2016-07-22T22:29:05.590Z,"37 km NNE of Amboy, Washington",earthquake,,,0.03,5,reviewed,uw,uw
+2006-09-10T14:56:08.160Z,26.319,-86.606,14,5.9,mwc,590,46.9,,0.83,us,usp000esv9,2016-11-10T01:28:07.497Z,"Gulf of Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-09-12T08:21:14.910Z,32.0436667,-115.8116667,5.787,3.1,ml,13,277,0.6082,0.43,ci,ci10207473,2016-03-08T20:30:05.227Z,"63km SSW of Progreso, B.C., MX",earthquake,2.17,31.61,0.249,86,reviewed,ci,ci
+2006-09-12T14:22:13.320Z,38.8028333,-122.7351667,1.597,3.12,md,67,37,0.01712,0.08,nc,nc21536805,2018-07-09T18:46:52.175Z,"2 km SSW of Cobb, California",earthquake,0.12,0.18,0.12,75,reviewed,nc,nc
+2006-09-13T17:56:07.450Z,46.1951667,-122.1931667,-1.874,3.2,md,19,46,,0.24,uw,uw10701798,2016-09-01T18:41:37.297Z,"37 km NNE of Amboy, Washington",earthquake,0.071,0.12,0.07,7,reviewed,uw,uw
+2006-09-14T00:11:06.110Z,32.6951667,-116.0528333,9.92,4.05,ml,69,116,0.05398,0.34,ci,ci10207681,2020-06-27T05:58:03.852Z,"7km SW of Ocotillo, CA",earthquake,0.43,0.8,0.152,355,reviewed,ci,ci
+2006-09-14T01:25:14.630Z,32.6986667,-116.0636667,9.37,3.64,ml,49,106,0.05023,0.3,ci,ci10207737,2016-03-09T02:19:26.222Z,"8km WSW of Ocotillo, CA",earthquake,0.35,0.89,0.154,302,reviewed,ci,ci
+2006-09-14T13:03:24.260Z,37.01,-104.867,5,3,mblg,9,124.5,,1.38,us,usp000et2z,2014-11-07T01:30:13.408Z,"13 km S of Weston, Colorado",earthquake,,,,,reviewed,us,us
+2006-09-15T17:04:44.890Z,36.4535,-121.0033333,7.929,3.09,ml,81,64,0.03153,0.09,nc,nc21537448,2017-01-15T07:10:30.110Z,"26 km NE of Greenfield, California",earthquake,0.15,0.3,,8,reviewed,nc,nc
+2006-09-16T18:50:56.840Z,36.437,-121.0121667,6.509,3.19,ml,92,53,0.01351,0.09,nc,nc21537594,2017-01-15T07:17:04.190Z,"24 km ENE of Greenfield, California",earthquake,0.13,0.3,,9,reviewed,nc,nc
+2006-09-18T01:33:56.440Z,33.1848333,-115.6118333,1.427,3.03,ml,55,46,0.008007,0.34,ci,ci10208533,2016-03-08T18:44:19.864Z,"11km SW of Niland, CA",earthquake,0.43,0.51,0.135,152,reviewed,ci,ci
+2006-09-18T16:25:30.180Z,34.5755,-116.5421667,3.605,3.08,ml,64,42,0.09616,0.17,ci,ci10208641,2016-03-09T12:16:52.937Z,"38km WSW of Ludlow, CA",earthquake,0.17,0.52,0.166,228,reviewed,ci,ci
+2006-09-19T09:56:59.370Z,40.3073333,-124.5233333,21.204,3.12,ml,48,226,0.2198,0.08,nc,nc21537986,2017-01-15T07:37:33.080Z,"37 km SW of Ferndale, California",earthquake,0.64,0.41,,5,reviewed,nc,nc
+2006-09-22T10:39:22.480Z,44.4265,-68.181,11.29,3.19,md,17,203,,0.36,ld,ld2006092200,2021-05-13T21:57:02.134Z,"4 km NNE of Bar Harbor, Maine",earthquake,1.9,0.97,,,reviewed,ld,ld
+2006-09-22T11:22:02.630Z,34.4923333,-79.692,5,3.4,mlg,14,191,,0.56,se,se606230,2016-04-08T19:05:32.000Z,"4 km WSW of Blenheim, South Carolina",earthquake,5.9,24.6,0.134,1,reviewed,se,se
+2006-09-24T04:52:48.110Z,46.2001667,-122.188,-1.852,3,md,16,56,,0.33,uw,uw10706463,2016-07-22T22:30:11.450Z,"37 km NNE of Amboy, Washington",earthquake,0.057,0.13,0.05,6,reviewed,uw,uw
+2006-09-24T12:42:52.084Z,38.803,-117.9084,10.7,3.3,ml,11,136.34,0.418,0.1029,nn,nn00189060,2018-04-24T20:36:28.373Z,"7 km S of Gabbs, Nevada",earthquake,,2.2,,,reviewed,nn,nn
+2006-09-25T05:44:20.270Z,34.5401667,-79.3748333,5,3.7,mlg,18,241,,0.21,se,se606232,2016-04-08T19:07:01.969Z,"7 km W of Rowland, North Carolina",earthquake,4.7,33.3,0.176,3,reviewed,se,se
+2006-09-26T20:56:13.420Z,39.312,-123.2185,11.522,3.9,mw,59,45,0.1243,0.13,nc,nc21539036,2018-07-09T18:47:04.834Z,"5 km NNW of Redwood Valley, California",earthquake,0.17,0.32,,6,reviewed,nc,nc
+2006-09-29T10:40:32.000Z,45.01,-111.75,6.6,3.1,ml,33,43.6,,,us,usp000eu28,2014-11-07T01:30:20.373Z,"35 km SSE of Virginia City, Montana",earthquake,,,,,reviewed,but,but
+2006-09-29T21:54:09.460Z,37.4493333,-118.8425,6.332,3.8,ml,48,79,0.0982,0.06,nc,nc21539696,2017-03-17T19:06:30.685Z,"16 km SW of Aspen Springs, California",earthquake,0.27,0.84,,10,reviewed,nc,nc
+2006-09-29T23:17:18.120Z,40.4268333,-124.7226667,16.027,3.01,md,50,236,0.2982,0.06,nc,nc21539706,2017-01-15T08:46:06.380Z,"42 km WSW of Ferndale, California",earthquake,0.47,0.4,0.11,41,reviewed,nc,nc
+2006-10-01T07:04:00.430Z,46.1943333,-122.1975,-1.884,3.2,md,13,118,,0.6,uw,uw10698933,2016-07-22T22:30:38.780Z,"37 km NNE of Amboy, Washington",earthquake,0.22,9.76,0.07,3,reviewed,uw,uw
+2006-10-01T12:46:39.170Z,46.199,-122.19,-1.864,3.1,md,17,46,,0.16,uw,uw10699253,2016-07-22T22:30:40.680Z,"37 km NNE of Amboy, Washington",earthquake,0.028,0.06,0.05,5,reviewed,uw,uw
+2006-10-02T15:44:45.420Z,34.3505,-116.461,3.336,3.07,ml,73,22,0.1033,0.2,ci,ci14254376,2016-03-09T03:45:06.354Z,"26km N of Yucca Valley, CA",earthquake,0.18,0.4,0.145,245,reviewed,ci,ci
+2006-10-03T00:07:38.150Z,44.3666667,-68.1468333,10,3.66,md,23,171,,0.63,ld,ld2006100300,2021-05-13T21:57:02.644Z,"5 km ESE of Bar Harbor, Maine",earthquake,1.23,31.61,,,reviewed,ld,ld
+2006-10-05T19:54:09.530Z,33.4433333,-116.5983333,9.794,3.18,ml,74,19,0.05133,0.26,ci,ci14254944,2016-03-09T03:45:14.323Z,"14km SSE of Anza, CA",earthquake,0.2,0.53,0.184,258,reviewed,ci,ci
+2006-10-06T20:18:09.510Z,46.1991667,-122.1898333,-1.819,3.4,md,16,46,,0.22,uw,uw10701023,2016-07-22T22:31:08.680Z,"37 km NNE of Amboy, Washington",earthquake,0.057,0.1,0.06,5,reviewed,uw,uw
+2006-10-06T22:13:16.780Z,34.122,-97.625,5,3.5,mblg,8,95.5,,1.51,us,usp000eumb,2017-06-26T21:07:07.128Z,"4 km SSW of Cornish, Oklahoma",earthquake,,,,,reviewed,us,us
+2006-10-08T02:48:26.650Z,46.8498333,-121.6001667,1.649,4.5,md,96,23,,0.35,uw,uw10701498,2017-07-18T00:25:02.143Z,"27 km NNE of Packwood, Washington",earthquake,0.336,0.63,0.04,18,reviewed,uw,uw
+2006-10-09T01:20:51.580Z,32.8996667,-115.877,15.582,3.15,ml,49,36,0.07861,0.37,ci,ci14255516,2016-03-09T15:58:14.080Z,"21km NNE of Ocotillo, CA",earthquake,0.43,0.67,0.206,164,reviewed,ci,ci
+2006-10-09T20:26:50.860Z,33.261,-116.0678333,8.997,4.01,ml,128,22,0.07128,0.37,ci,ci14255632,2020-06-27T05:59:01.508Z,"11km WSW of Salton City, CA",earthquake,0.29,0.66,0.113,368,reviewed,ci,ci
+2006-10-10T20:32:08.600Z,46.2003333,-122.1991667,-1.722,3.3,md,10,87,,0.61,uw,uw10704233,2016-07-22T22:31:57.190Z,"37 km NNE of Amboy, Washington",earthquake,0.186,0.41,0.08,3,reviewed,uw,uw
+2006-10-11T10:55:24.060Z,35.935,-117.6808333,1.968,3.2,ml,33,34,0.03016,0.17,ci,ci14255908,2016-03-09T08:04:30.578Z,"20km E of Little Lake, CA",earthquake,0.29,0.47,0.107,178,reviewed,ci,ci
+2006-10-12T22:41:17.350Z,32.3361667,-115.1598333,14.97,3.4,ml,23,227,0.4281,0.41,ci,ci14256200,2016-03-09T12:18:14.673Z,"4km SE of Delta, B.C., MX",earthquake,1.84,31.61,0.089,97,reviewed,ci,ci
+2006-10-14T18:01:54.030Z,38.8138333,-122.7905,2.68,3.18,md,69,36,0.007207,0.06,nc,nc21542675,2017-01-15T10:39:46.990Z,"5 km W of Cobb, California",earthquake,0.11,0.19,0.14,73,reviewed,nc,nc
+2006-10-17T15:32:33.570Z,32.339,-115.1188333,5.994,3.25,ml,16,227,0.4147,0.35,ci,ci14256988,2016-03-09T02:21:21.807Z,"6km NNW of Guadalupe Victoria, B.C., MX",earthquake,1.74,31.61,0.105,85,reviewed,ci,ci
+2006-10-18T10:08:45.120Z,32.165,-115.8906667,7.152,3.3,ml,19,245,0.4817,0.33,ci,ci14257096,2016-03-09T03:45:52.059Z,"54km SSW of Progreso, B.C., MX",earthquake,1.01,24.86,0.158,113,reviewed,ci,ci
+2006-10-18T20:59:20.580Z,36.537,-89.6405,7.83,3.4,md,30,34,0.02399,0.07,nm,nm606143,2016-04-08T18:56:18.200Z,"3 km NW of Marston, Missouri",earthquake,0.2,0.5,0.122,10,reviewed,nm,nm
+2006-10-19T15:20:05.290Z,40.2795,-124.3246667,15.937,3.65,mw,8,250,0.03423,0.18,nc,nc21543593,2017-03-17T19:07:05.305Z,"29 km SW of Scotia, California",earthquake,4.45,1.56,,7,reviewed,nc,nc
+2006-10-19T15:53:28.945Z,38.1256,-118.2338,7.6,3,ml,30,74.89,0.108,0.1325,nn,nn00190383,2018-04-24T20:37:23.178Z,"31 km SSW of Mina, Nevada",earthquake,,2.1,0,1,reviewed,nn,nn
+2006-10-20T08:12:48.450Z,31.6921667,-115.5843333,17.702,3.28,ml,14,273,0.9946,0.26,ci,ci14257408,2016-03-09T05:11:34.713Z,"71km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,1.8,1.39,0.168,68,reviewed,ci,ci
+2006-10-20T17:00:08.100Z,38.8666667,-122.7873333,2.546,4.56,mw,69,39,0.04685,0.08,nc,nc21543835,2020-05-06T09:10:38.703Z,"7 km NW of Cobb, California",earthquake,0.13,0.4,,7,reviewed,nc,nc
+2006-10-20T23:31:39.690Z,38.865,-122.783,1.979,3.86,mw,74,36,0.02703,0.09,nc,nc21544051,2018-07-09T18:47:27.527Z,"7 km NW of Cobb, California",earthquake,0.13,0.34,,6,reviewed,nc,nc
+2006-10-21T22:13:38.630Z,46.1971667,-122.1871667,-1.388,3.4,md,41,45,,0.2,uw,uw10709363,2016-07-22T22:33:05.040Z,"37 km NNE of Amboy, Washington",earthquake,0.328,0.24,0.03,7,reviewed,uw,uw
+2006-10-22T12:45:36.960Z,32.1241667,-115.8256667,5.812,3.1,ml,18,250,0.528,0.56,ci,ci14257704,2016-03-09T15:59:20.680Z,"56km SSW of Progreso, B.C., MX",earthquake,2.28,31.61,0.206,96,reviewed,ci,ci
+2006-10-22T13:25:20.030Z,40.392,-124.9366667,-0.309,3.13,md,51,245,0.4658,0.11,nc,nc21544451,2017-01-15T11:59:26.097Z,"60 km WSW of Ferndale, California",earthquake,0.95,3.24,0.14,29,reviewed,nc,nc
+2006-10-23T20:17:29.940Z,46.1951667,-122.1893333,-1.958,3,md,14,69,,0.35,uw,uw10709573,2016-07-22T22:33:16.770Z,"37 km NNE of Amboy, Washington",earthquake,0.12,2,0.06,3,reviewed,uw,uw
+2006-10-26T09:13:14.900Z,46.197,-122.1871667,-0.978,3.4,md,34,50,,0.17,uw,uw10709728,2016-07-22T22:33:24.850Z,"37 km NNE of Amboy, Washington",earthquake,0.333,0.23,0.03,5,reviewed,uw,uw
+2006-10-28T21:40:29.130Z,46.197,-122.1886667,-1.208,3.2,md,33,45,,0.14,uw,uw10709943,2016-07-22T22:33:37.630Z,"37 km NNE of Amboy, Washington",earthquake,0.277,0.19,0.04,9,reviewed,uw,uw
+2006-10-30T02:35:13.470Z,36.811,-104.963,5,3.5,ml,11,145,,1.21,us,usp000ew9g,2014-11-07T01:30:39.059Z,"31 km NNE of Ute Park, New Mexico",earthquake,,,,,reviewed,us,us
+2006-10-30T09:56:57.950Z,40.5271667,-124.0626667,18.078,3.09,md,15,105,0.1189,0.1,nc,nc21545639,2017-01-15T12:53:48.030Z,"3 km SE of Hydesville, California",earthquake,0.34,0.51,0.11,34,reviewed,nc,nc
+2006-10-30T11:23:54.350Z,40.5266667,-124.0593333,18.371,3.24,ml,18,105,0.1189,0.13,nc,nc21545659,2017-01-15T12:54:44.160Z,"3 km SE of Hydesville, California",earthquake,0.33,0.49,,12,reviewed,nc,nc
+2006-10-31T03:43:19.760Z,38.7928333,-122.7648333,1.275,3.31,ml,77,32,0.009009,0.1,nc,nc21545805,2018-07-09T18:47:43.033Z,"4 km SW of Cobb, California",earthquake,0.11,0.17,,18,reviewed,nc,nc
+2006-10-31T20:26:06.920Z,35.8555,-120.4073333,8.765,3.63,ml,78,39,0.02072,0.05,nc,nc21545945,2017-03-17T19:09:07.171Z,"5 km SSE of Parkfield, California",earthquake,0.13,0.2,,14,reviewed,nc,nc
+2006-11-01T08:27:28.350Z,40.5288333,-124.0605,18.658,3.34,ml,15,106,0.1207,0.13,nc,nc30230986,2017-01-15T13:13:11.020Z,"3 km SE of Hydesville, California",earthquake,0.38,0.69,,15,reviewed,nc,nc
+2006-11-02T09:36:13.810Z,40.3128333,-124.4198333,7.867,3.33,ml,15,257,0.1072,0.08,nc,nc21546298,2017-01-15T13:21:34.480Z,"32 km SSW of Ferndale, California",earthquake,0.93,0.34,,8,reviewed,nc,nc
+2006-11-02T12:43:14.550Z,31.9321667,-118.8921667,4.449,3.15,ml,18,297,2.289,0.53,ci,ci10215505,2016-03-08T22:06:16.451Z,"111km SSW of San Clemente Is. (SE tip), CA",earthquake,3.18,31.61,0.18,8,reviewed,ci,ci
+2006-11-02T13:50:44.580Z,46.1986667,-122.1935,-1.958,3,md,15,62,,0.22,uw,uw10699748,2016-07-22T22:33:58.960Z,"37 km NNE of Amboy, Washington",earthquake,,,0.08,5,reviewed,uw,uw
+2006-11-02T17:53:02.110Z,37.2,-81.92,1,4.3,mb,61,55.4,,,us,usp000ewg9,2015-03-24T02:19:12.758Z,"13 km NNW of Raven, Virginia",earthquake,,,,15,reviewed,ceri,us
+2006-11-03T15:56:43.050Z,32.676,-116.0481667,13.436,4.62,ml,48,145,0.04732,0.44,ci,ci10215753,2020-06-27T06:05:57.191Z,"8km SW of Ocotillo, CA",earthquake,0.48,0.64,0.173,378,reviewed,ci,ci
+2006-11-03T16:12:13.310Z,32.6975,-116.057,8.88,3.65,ml,47,111,0.05306,0.35,ci,ci10215765,2016-03-09T16:00:01.001Z,"7km SW of Ocotillo, CA",earthquake,0.43,1.16,0.179,259,reviewed,ci,ci
+2006-11-03T20:19:18.260Z,32.7016667,-116.0578333,6.85,3.34,ml,48,106,0.05567,0.3,ci,ci10215853,2016-03-09T09:28:52.573Z,"7km WSW of Ocotillo, CA",earthquake,0.35,1.59,0.183,203,reviewed,ci,ci
+2006-11-04T00:30:31.600Z,31.8055,-116.0843333,5.48,3.41,ml,14,292,0.8505,0.43,ci,ci10215949,2016-03-08T17:05:12.716Z,"47km ENE of Maneadero, B.C., MX",earthquake,1.39,31.61,0.107,111,reviewed,ci,ci
+2006-11-04T19:19:55.070Z,32.686,-116.0693333,9.23,3,ml,44,118,0.03759,0.38,ci,ci10216097,2016-03-09T00:57:19.619Z,"9km SW of Ocotillo, CA",earthquake,0.49,1.22,0.189,160,reviewed,ci,ci
+2006-11-04T19:43:44.610Z,34.2058333,-117.5761667,3.846,3.6,ml,166,12,,0.34,ci,ci10216101,2016-03-09T08:05:38.512Z,"9km N of Rancho Cucamonga, CA",earthquake,0.21,0.44,0.178,388,reviewed,ci,ci
+2006-11-06T00:32:43.770Z,40.3345,-124.5716667,29.227,3.1,md,27,253,0.2198,0.2,nc,nc21546826,2017-01-15T13:47:30.108Z,"37 km SW of Ferndale, California",earthquake,2.05,0.99,0.12,32,reviewed,nc,nc
+2006-11-08T04:22:05.780Z,32.7086667,-116.05,9.96,3.04,ml,57,102,0.06527,0.35,ci,ci10216565,2016-03-08T23:32:20.993Z,"6km WSW of Ocotillo, CA",earthquake,0.48,0.76,0.184,173,reviewed,ci,ci
+2006-11-08T08:03:10.937Z,40.2054,-118.2585,10.1,3.7,ml,6,114.66,0.186,0.0647,nn,nn00191620,2018-04-24T20:38:03.744Z,"18 km E of Lovelock, Nevada",earthquake,,4,,,reviewed,nn,nn
+2006-11-08T08:13:46.680Z,40.194,-118.2495,10.4,3.2,ml,6,113.66,0.179,0.0554,nn,nn00191621,2018-04-24T20:38:03.861Z,"19 km E of Lovelock, Nevada",earthquake,,4.6,,,reviewed,nn,nn
+2006-11-09T08:38:13.440Z,39.3586667,-123.2823333,4.06,4.1,mw,55,44,0.1541,0.1,nc,nc21547350,2020-05-06T09:14:15.806Z,"8 km SE of Willits, California",earthquake,0.15,0.44,,5,reviewed,nc,nc
+2006-11-09T12:37:30.410Z,32.7236667,-116.0516667,3.98,3.07,ml,36,89,0.07643,0.33,ci,ci10216769,2016-03-09T00:57:24.919Z,"6km WSW of Ocotillo, CA",earthquake,0.53,0.88,0.171,149,reviewed,ci,ci
+2006-11-09T22:42:51.440Z,31.8381667,-116.058,5.48,3.03,ml,11,302,0.8149,0.24,ci,ci10216845,2016-03-09T16:00:25.792Z,"50km ENE of Maneadero, B.C., MX",earthquake,1.21,31.61,0.129,81,reviewed,ci,ci
+2006-11-10T05:05:56.300Z,39.3576667,-123.2808333,2.59,3.7,mw,42,43,0.1532,0.09,nc,nc21547458,2019-06-28T18:48:20.437Z,"8 km SE of Willits, California",earthquake,0.16,0.58,,5,reviewed,nc,nc
+2006-11-13T09:19:39.120Z,36.2386667,-120.8073333,6.573,3.02,ml,85,73,0.02342,0.1,nc,nc21547806,2017-01-15T14:37:54.000Z,"22 km ENE of San Lucas, California",earthquake,0.17,0.32,,8,reviewed,nc,nc
+2006-11-13T23:42:04.150Z,40.7078333,-124.5825,11.997,3.39,ml,36,230,0.2982,0.07,nc,nc21547850,2017-01-15T14:40:31.840Z,"29 km W of Indianola, California",earthquake,0.46,0.61,,6,reviewed,nc,nc
+2006-11-14T13:32:14.960Z,32.6921667,-116.0416667,7.966,3.94,ml,61,124,0.05963,0.33,ci,ci10217433,2016-03-08T23:32:43.318Z,"7km SW of Ocotillo, CA",earthquake,0.52,1.23,0.132,285,reviewed,ci,ci
+2006-11-14T17:35:17.890Z,40.2898333,-124.5988333,20.097,3.1,md,19,280,0.2261,0.11,nc,nc21547950,2017-01-15T14:43:30.346Z,"42 km SW of Ferndale, California",earthquake,2.1,0.48,0.14,13,reviewed,nc,nc
+2006-11-16T05:30:49.110Z,32.6951667,-116.0466667,7.446,3.17,ml,45,118,0.05796,0.31,ci,ci10217729,2016-03-09T14:09:17.375Z,"7km SW of Ocotillo, CA",earthquake,0.48,1.42,0.18,171,reviewed,ci,ci
+2006-11-17T13:33:36.950Z,40.1513333,-122.0715,27.662,3.5,md,33,46,0.07027,0.23,nc,nc21548264,2017-01-15T15:00:45.670Z,"11 km NE of Proberta, California",earthquake,0.58,0.46,0.08,45,reviewed,nc,nc
+2006-11-17T23:11:19.106Z,41.2094,-117.178,0.5,3,ml,18,71.75,0.443,0.1977,nn,nn00194066,2018-04-24T20:38:21.097Z,"38 km NE of Golconda, Nevada",earthquake,,2.2,,,reviewed,nn,nn
+2006-11-19T04:20:32.990Z,46.1978333,-122.188,-1.688,3.4,md,37,43,,0.15,uw,uw10706778,2016-07-22T22:35:04.760Z,"37 km NNE of Amboy, Washington",earthquake,0.262,0.21,0.04,7,reviewed,uw,uw
+2006-11-21T14:52:13.440Z,46.1981667,-122.1948333,-1.712,3.1,md,11,103,,0.1,uw,uw10707608,2016-07-22T22:35:12.030Z,"37 km NNE of Amboy, Washington",earthquake,,0.02,0.06,2,reviewed,uw,uw
+2006-11-21T19:37:58.380Z,38.171,-108.004,5,3.3,ml,19,73.2,,0.9,us,usp000eyg0,2015-03-24T02:01:05.115Z,"19 km N of Sawpit, Colorado",earthquake,,,,,reviewed,us,us
+2006-11-21T20:28:56.214Z,37.6034,-114.7583,0,3,ml,4,237.29,0.304,0.1325,nn,nn00192580,2018-04-24T20:38:32.136Z,"21 km W of Caliente, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-11-23T10:42:57.420Z,37.157,-81.975,0,4.3,mb,61,40.7,,,us,usp000eym9,2015-03-24T00:48:38.649Z,"13 km NW of Raven, Virginia",earthquake,,,,15,reviewed,bla,us
+2006-11-24T16:08:08.500Z,38.7491667,-122.7113333,1.89,3.12,md,59,29,0.02523,0.1,nc,nc21549226,2017-01-15T15:42:18.260Z,"8 km S of Cobb, California",earthquake,0.11,0.57,0.13,73,reviewed,nc,nc
+2006-11-24T21:45:17.550Z,46.1953333,-122.1888333,-1.866,3.1,md,17,66,,0.11,uw,uw10708608,2016-07-22T22:35:26.660Z,"37 km NNE of Amboy, Washington",earthquake,0.036,0.05,0.11,7,reviewed,uw,uw
+2006-11-24T23:22:24.100Z,37.04,-104.996,5,3.1,mblg,11,77.5,,0.87,us,usp000eyrt,2014-11-07T01:30:56.729Z,"12 km SSE of Stonewall Gap, Colorado",earthquake,,,,,reviewed,us,us
+2006-11-25T07:39:44.400Z,34.3666667,-116.1225,5.209,3.48,ml,78,36,0.03373,0.21,ci,ci14262712,2016-03-09T03:47:22.696Z,"26km N of Twentynine Palms, CA",earthquake,0.23,1.58,0.119,371,reviewed,ci,ci
+2006-11-26T09:40:22.010Z,38.7586667,-122.7151667,1.092,3,md,57,28,0.01532,0.08,nc,nc21549419,2017-01-15T15:51:42.070Z,"7 km S of Cobb, California",earthquake,0.1,0.18,0.1,59,reviewed,nc,nc
+2006-11-26T15:24:33.940Z,38.7876667,-122.7758333,0.947,3.45,md,58,30,0.02523,0.08,nc,nc21549441,2017-01-15T15:53:10.970Z,"Northern California",earthquake,0.11,0.32,0.14,76,reviewed,nc,nc
+2006-11-26T22:11:48.820Z,37.4536667,-118.8403333,6.206,3.8,mw,49,78,0.09459,0.07,nc,nc21549461,2020-05-06T09:14:37.892Z,"California-Nevada border region",earthquake,0.26,1.02,,8,reviewed,nc,nc
+2006-11-26T23:07:15.300Z,26.664,-114.251,10,4.3,mb,52,131.7,,1.32,us,usp000eyxs,2014-11-07T01:30:57.844Z,"53 km S of Bahía Asunción, Mexico",earthquake,,,,11,reviewed,us,us
+2006-11-27T02:23:02.580Z,32.4843333,-117.4365,9.844,3.06,ml,28,290,0.3896,0.21,ci,ci14263000,2016-03-08T20:34:21.940Z,"32km WSW of Imperial Beach, CA",earthquake,0.68,31.61,0.126,135,reviewed,ci,ci
+2006-11-27T07:39:37.680Z,26.733,-114.073,10,4.1,mb,26,133.6,,0.88,us,usp000eyyu,2014-11-07T01:30:57.934Z,"50 km SSE of Bahía Asunción, Mexico",earthquake,,,,6,reviewed,us,us
+2006-11-27T10:46:31.330Z,31.9583333,-117.0711667,5.771,3.63,ml,15,297,0.6584,0.32,ci,ci14263048,2016-03-09T12:20:29.563Z,"32km SSW of Primo Tapia, B.C., MX",earthquake,1.52,31.61,0.191,211,reviewed,ci,ci
+2006-11-27T21:14:16.580Z,36.0611667,-117.7116667,-0.302,3.88,ml,35,41,0.05672,0.22,ci,ci14263132,2016-03-09T16:01:22.145Z,"21km E of Coso Junction, CA",earthquake,0.32,0.65,0.11,345,reviewed,ci,ci
+2006-11-27T21:21:02.710Z,36.0633333,-117.7111667,-0.872,3.48,ml,34,41,0.05836,0.2,ci,ci14263136,2016-03-09T09:30:04.548Z,"21km E of Coso Junction, CA",earthquake,0.3,0.73,0.106,204,reviewed,ci,ci
+2006-11-28T04:06:40.160Z,35.6318333,-120.7543333,6.442,3.8,mw,75,31,0.09189,0.08,nc,nc21549695,2018-07-09T18:48:01.780Z,"5 km W of Paso Robles, California",earthquake,0.13,0.69,,3,reviewed,nc,nc
+2006-11-28T04:35:25.150Z,36.0585,-117.716,0.608,3.17,ml,33,41,0.05231,0.21,ci,ci14263256,2016-03-08T20:34:30.351Z,"21km E of Coso Junction, CA",earthquake,0.33,0.59,0.131,139,reviewed,ci,ci
+2006-11-29T03:20:22.210Z,38.6545,-122.2613333,-0.428,3.23,ml,77,55,0.05405,0.39,nc,nc21549856,2017-01-15T16:14:03.240Z,"18 km ENE of Angwin, California",earthquake,0.28,1.32,,17,reviewed,nc,nc
+2006-11-29T03:56:13.150Z,31.791,-116.083,5.48,3.05,ml,13,299,0.8646,0.43,ci,ci14263492,2016-03-08T17:06:48.299Z,"46km E of Maneadero, B.C., MX",earthquake,1.57,31.61,0.097,114,reviewed,ci,ci
+2006-11-29T05:12:10.000Z,38.6633333,-122.265,-0.448,3.16,md,52,47,0.05495,0.33,nc,nc21549866,2017-01-15T16:14:50.460Z,"18 km ENE of Angwin, California",earthquake,0.3,1.54,0.13,45,reviewed,nc,nc
+2006-11-29T07:22:55.110Z,46.482,-81.168,1,4.1,mblg,53,28,,,us,usp000ez4b,2015-03-24T02:26:10.070Z,"5 km NNW of Lively, Canada",earthquake,,,,,reviewed,ott,ott
+2006-11-29T07:38:17.160Z,46.475,-81.207,1,3.1,mblg,13,140.6,,,us,usp000ez4f,2014-11-07T01:30:58.955Z,"6 km NW of Lively, Canada",earthquake,,,,,reviewed,ott,ott
+2006-11-29T12:17:35.540Z,32.8181667,-115.9708333,3.081,3.9,ml,107,49,0.06848,0.49,ci,ci14263544,2016-03-09T02:23:41.184Z,"10km NNE of Ocotillo, CA",earthquake,0.43,0.96,0.11,367,reviewed,ci,ci
+2006-11-29T13:14:48.730Z,37.4941667,-118.2198333,-0.386,3.08,md,25,227,0.4396,0.2,nc,nc21549926,2018-04-24T20:38:52.235Z,"21 km NE of Dixon Lane-Meadow Creek, California",earthquake,1.52,3.94,0.14,15,reviewed,nc,nc
+2006-11-29T14:34:02.630Z,26.728,-114.161,10,5,mwc,87,128.1,,1.5,us,usp000ez53,2016-11-10T01:31:53.695Z,"47 km SSE of Bahía Asunción, Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-11-29T16:15:13.480Z,26.786,-114.198,10,4.5,mb,57,128.2,,1.2,us,usp000ez5a,2014-11-07T01:30:59.074Z,"40 km SSE of Bahía Asunción, Mexico",earthquake,,,,18,reviewed,us,us
+2006-11-29T21:10:55.430Z,32.8205,-115.9725,3.621,4.11,ml,80,48,0.06619,0.41,ci,ci14263712,2020-05-02T01:38:12.682Z,"10km NNE of Ocotillo, CA",earthquake,0.5,1.04,0.139,370,reviewed,ci,ci
+2006-11-29T21:12:52.410Z,32.8255,-115.977,2.191,3.75,ml,38,48,0.0615,0.29,ci,ci14263716,2016-03-09T08:06:35.563Z,"10km N of Ocotillo, CA",earthquake,0.45,1.03,0.143,21,reviewed,ci,ci
+2006-11-29T21:20:46.780Z,36.8485,-121.4538333,3.05,3.7,mw,93,21,0.03874,0.13,nc,nc21549979,2018-07-09T18:48:33.189Z,"4 km W of Hollister, California",earthquake,0.13,0.37,,3,reviewed,nc,nc
+2006-11-29T21:26:17.500Z,32.8206667,-115.9671667,1.831,3.12,ml,41,48,0.06599,0.3,ci,ci14263748,2016-03-09T09:30:19.702Z,"10km NNE of Ocotillo, CA",earthquake,0.33,0.74,0.125,160,reviewed,ci,ci
+2006-11-29T22:15:39.200Z,32.8228333,-115.9796667,1.211,3.87,ml,48,49,0.06442,0.34,ci,ci14263768,2016-03-08T23:33:18.198Z,"10km N of Ocotillo, CA",earthquake,0.35,0.82,0.131,353,reviewed,ci,ci
+2006-11-30T04:39:16.310Z,46.1955,-122.1925,-1.634,3,md,13,81,0.006803,0.06,uw,uw10709528,2016-07-22T22:35:44.970Z,"37 km NNE of Amboy, Washington",earthquake,0.072,0.08,0.05,4,reviewed,uw,uw
+2006-11-30T20:12:58.070Z,36.402,-116.894,9.298,3.13,ml,23,56,0.06963,0.26,ci,ci10220301,2018-04-24T20:38:56.083Z,"6km SW of Furnace Creek, CA",earthquake,0.39,1.25,0.141,90,reviewed,ci,ci
+2006-12-01T19:33:08.150Z,26.716,-114.199,10,4.9,mwc,92,128.2,,1.39,us,usp000eza7,2016-11-10T01:32:00.304Z,"48 km SSE of Bahía Asunción, Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-12-02T00:10:11.910Z,46.198,-122.1925,-1.147,3.4,md,23,46,,0.11,uw,uw10701493,2016-07-22T22:35:50.760Z,"37 km NNE of Amboy, Washington",earthquake,0.248,0.19,0.04,8,reviewed,uw,uw
+2006-12-04T06:15:52.830Z,46.1968333,-122.1885,-1.708,3.1,md,15,62,,0.08,uw,uw10702348,2016-07-22T22:35:56.540Z,"37 km NNE of Amboy, Washington",earthquake,0.22,0.34,0.04,6,reviewed,uw,uw
+2006-12-05T19:40:25.950Z,32.8191667,-115.98,0.947,3.06,ml,47,49,0.06808,0.3,ci,ci10221221,2016-03-09T12:21:17.194Z,"9km N of Ocotillo, CA",earthquake,0.32,0.78,0.118,168,reviewed,ci,ci
+2006-12-06T12:28:58.770Z,46.1968333,-122.1901667,-1.748,3.1,md,14,100,,0.16,uw,uw10703048,2016-07-22T22:36:04.840Z,"37 km NNE of Amboy, Washington",earthquake,0.028,0.07,0.05,4,reviewed,uw,uw
+2006-12-06T14:09:58.810Z,27.593,-111.295,10,5,mwc,47,92.6,,0.98,us,usp000eznj,2016-11-10T01:32:12.675Z,"47 km SSW of San Carlos, Mexico",earthquake,,,,,reviewed,us,gcmt
+2006-12-06T22:13:26.457Z,40.9555,-116.402,0,3,ml,6,136.55,0.523,0.0826,nn,nn00193901,2018-04-24T20:39:07.115Z,"36 km NW of Carlin, Nevada",earthquake,,0,,,reviewed,nn,nn
+2006-12-07T04:44:59.290Z,49.516,-81.537,16,4.2,mblg,80,27.3,,,us,usp000ezq5,2016-05-27T19:21:09.080Z,"65 km E of Kapuskasing, Canada",earthquake,,,,,reviewed,ott,ott
+2006-12-07T07:51:47.880Z,31.8138333,-115.663,5.883,3.09,ml,13,265,0.8348,0.25,ci,ci10221581,2016-03-09T05:13:48.527Z,"65km SW of Alberto Oviedo Mota, B.C., MX",earthquake,1.62,31.61,0.222,50,reviewed,ci,ci
+2006-12-07T19:49:20.360Z,36.06,-117.718,-0.912,3.24,ml,35,41,0.05196,0.24,ci,ci10221693,2016-03-09T16:02:14.063Z,"21km E of Coso Junction, CA",earthquake,0.29,0.68,0.113,153,reviewed,ci,ci
+2006-12-08T21:36:06.000Z,26.938,-114.435,10,4.1,mb,20,132.1,,1.1,us,usp000ezu3,2014-11-07T01:31:06.291Z,"26 km SSW of Bahía Asunción, Mexico",earthquake,,,,2,reviewed,us,us
+2006-12-08T22:46:10.000Z,31.7943333,-116.3118333,5.119,4.33,ml,20,279,0.8807,0.38,ci,ci10221893,2016-03-08T18:49:45.781Z,"26km ENE of Maneadero, B.C., MX",earthquake,2.13,31.61,0.157,253,reviewed,ci,ci
+2006-12-08T23:09:38.410Z,31.8278333,-116.3535,5.477,3.11,ml,13,300,0.8562,0.18,ci,ci10221897,2016-03-09T12:21:29.166Z,"24km ENE of Maneadero, B.C., MX",earthquake,1.07,31.61,0.08,55,reviewed,ci,ci
+2006-12-09T02:20:07.590Z,40.4978333,-124.5786667,25.757,3.38,ml,20,267,0.1847,0.2,nc,nc51176670,2017-01-15T17:01:59.909Z,"28 km WSW of Ferndale, California",earthquake,1.82,1.15,0.305,7,reviewed,nc,nc
+2006-12-10T01:55:20.480Z,46.1975,-122.1821667,-1.868,3.2,md,16,57,,0.5,uw,uw10704488,2016-07-22T22:36:16.730Z,"37 km NNE of Amboy, Washington",earthquake,0.177,0.35,0.07,5,reviewed,uw,uw
+2006-12-10T18:00:32.690Z,40.37,-124.6395,16.427,3.45,ml,39,235,0.2532,0.17,nc,nc51176706,2017-01-15T17:06:31.650Z,"39 km SW of Ferndale, California",earthquake,0.84,0.34,0.365,2,reviewed,nc,nc
+2006-12-10T19:04:47.850Z,36.7663333,-121.4733333,7.05,3.02,ml,90,34,0.01982,0.14,nc,nc51176708,2017-01-15T17:06:48.040Z,"10 km SSE of San Juan Bautista, California",earthquake,0.14,0.28,0.181,10,reviewed,nc,nc
+2006-12-10T23:04:37.557Z,38.1872,-118.3889,9.3,3.6,ml,42,31.1,0.112,0.1531,nn,nn00194205,2018-04-24T20:39:14.109Z,"33 km SW of Mina, Nevada",earthquake,,2.4,0.14,7,reviewed,nn,nn
+2006-12-11T08:17:35.200Z,34.1713333,-116.4528333,8.733,3.02,ml,73,22,0.1104,0.18,ci,ci10222165,2016-03-08T17:07:34.584Z,"7km NNW of Yucca Valley, CA",earthquake,0.21,1.13,0.147,227,reviewed,ci,ci
+2006-12-11T11:00:45.150Z,49.508,-119.465,0,3.4,md,33,70.2,,,us,usp000f00k,2016-07-22T22:36:20.990Z,"9 km ENE of Penticton, Canada",earthquake,,,,,reviewed,pgc,sea
+2006-12-11T13:21:08.410Z,31.8205,-116.3543333,5.119,4.07,ml,19,287,0.8634,0.19,ci,ci10222185,2016-03-08T17:07:38.495Z,"23km ENE of Maneadero, B.C., MX",earthquake,1,31.61,0.127,350,reviewed,ci,ci
+2006-12-12T02:42:42.310Z,40.3705,-124.4006667,20.657,3.42,ml,15,229,0.1153,0.23,nc,nc51176748,2017-01-15T17:10:25.260Z,"25 km SSW of Ferndale, California",earthquake,1.25,0.56,0.327,8,reviewed,nc,nc
+2006-12-14T13:21:32.140Z,46.1956667,-122.1856667,-1.758,3.1,md,13,79,,0.2,uw,uw10705248,2016-07-22T22:36:28.190Z,"37 km NNE of Amboy, Washington",earthquake,0.057,0.09,0.05,4,reviewed,uw,uw
+2006-12-15T19:21:55.920Z,36.172,-120.2915,9.659,3.88,ml,74,61,0.08739,0.11,nc,nc51176830,2017-03-17T20:25:28.028Z,"7 km ENE of Coalinga, California",earthquake,0.18,0.36,0.239,20,reviewed,nc,nc
+2006-12-16T04:18:23.370Z,36.836,-117.473,4.447,3.18,ml,19,58,0.1813,0.42,ci,ci10222749,2018-04-24T20:39:21.486Z,"39km NW of Stovepipe Wells, CA",earthquake,0.65,2.57,0.134,108,reviewed,ci,ci
+2006-12-16T05:38:06.950Z,46.196,-122.1891667,-1.34,3.2,md,27,45,,0.14,uw,uw10705323,2016-07-22T22:39:32.670Z,"37 km NNE of Amboy, Washington",earthquake,0.308,0.21,0.04,15,reviewed,uw,uw
+2006-12-16T06:14:05.350Z,36.173,-120.2916667,10.21,4.2,mw,79,69,0.08662,0.06,nc,nc51176849,2020-08-15T07:22:22.411Z,"7km ENE of Coalinga, CA",earthquake,0.15,0.31,,2,reviewed,nc,nc
+2006-12-18T08:34:26.520Z,35.356,-84.3508333,17.69,3.3,md,24,67,,0.11,se,se606243,2016-04-08T19:06:47.030Z,"5 km W of Tellico Plains, Tennessee",earthquake,0.4,0.7,0.361,6,reviewed,se,se
+2006-12-18T11:01:46.290Z,33.1723333,-118.6853333,-0.183,3.24,ml,27,129,0.2243,0.51,ci,ci10222949,2016-03-08T22:08:46.489Z,"17km NNW of San Clemente Is. (NW tip), CA",earthquake,0.65,1.62,0.131,271,reviewed,ci,ci
+2006-12-19T06:36:28.280Z,40.345,-124.4273333,17.867,3.3,ml,15,251,0.1333,0.18,nc,nc51176964,2017-01-15T17:38:01.142Z,"29 km SSW of Ferndale, California",earthquake,1.09,0.5,0.456,6,reviewed,nc,nc
+2006-12-19T07:15:51.480Z,34.3448333,-116.753,1.001,3.06,ml,50,39,0.06169,0.17,ci,ci10223081,2016-03-09T12:22:01.759Z,"13km NE of Big Bear City, CA",earthquake,0.25,0.55,0.135,254,reviewed,ci,ci
+2006-12-19T15:18:40.640Z,37.4918333,-118.1901667,6.13,3.22,ml,37,151,0.01712,0.07,nc,nc51176975,2017-01-15T17:39:39.860Z,"22 km SSW of Dyer, Nevada",earthquake,0.29,1.71,0.049,4,reviewed,nc,nc
+2006-12-19T15:18:46.720Z,37.5053333,-118.1978333,-2.165,3.26,ml,4,237,0.0221,0.61,ci,ci12265659,2016-03-09T14:11:08.703Z,"23km NE of Dixon Lane-Meadow Creek, CA",earthquake,8.89,6.23,0.205,93,reviewed,ci,ci
+2006-12-19T15:21:42.410Z,37.4956667,-118.1878333,3.938,3.7,mw,40,111,0.01351,0.07,nc,nc51176976,2018-04-24T20:39:25.820Z,"21 km SSW of Dyer, Nevada",earthquake,0.28,0.87,,6,reviewed,nc,nc
+2006-12-20T09:43:26.580Z,46.0948333,-118.513,13.186,3.4,md,42,56,0.2735,0.39,uw,uw10706298,2017-04-01T21:51:05.742Z,"9 km WNW of Garrett, Washington",earthquake,0.807,3.22,0.07,13,reviewed,uw,uw
+2006-12-20T18:15:36.180Z,41.1266667,-111.5808333,9.54,3.35,ml,52,130,0.1029,0.18,uu,uu50328180,2019-06-28T18:48:21.138Z,"12 km NE of Morgan, Utah",earthquake,0.31,0.54,,15,reviewed,uu,uu
+2006-12-21T03:12:28.760Z,37.8571667,-122.2446667,8.643,3.6,mw,168,14,,0.17,nc,nc51177042,2017-03-17T20:28:40.143Z,"2 km ESE of Berkeley, California",earthquake,0.12,0.21,,5,reviewed,nc,nc
+2006-12-23T06:49:57.280Z,37.8576667,-122.2451667,9.153,3.6,mw,170,13,,0.18,nc,nc51177103,2017-03-17T20:29:14.869Z,"2 km ESE of Berkeley, California",earthquake,0.12,0.24,,4,reviewed,nc,nc
+2006-12-23T17:21:15.110Z,37.8593333,-122.2486667,9.293,3.4,mw,169,12,,0.2,nc,nc51177121,2017-01-15T17:59:43.270Z,"2 km ESE of Berkeley, California",earthquake,0.12,0.26,,3,reviewed,nc,nc
+2006-12-24T03:43:38.860Z,33.7068333,-116.0508333,12.696,4.11,ml,75,33,0.07228,0.26,ci,ci10223765,2020-05-02T01:38:56.951Z,"11km NE of Thermal, CA",earthquake,0.25,0.53,0.085,378,reviewed,ci,ci
+2006-12-24T11:50:21.470Z,36.935,-104.75,5,3.6,mblg,20,41.6,,1.39,us,usp000f0wh,2014-11-07T01:31:11.143Z,"20 km S of Sequndo, Colorado",earthquake,,,,,reviewed,us,us
+2006-12-25T08:44:10.700Z,37.2381,-114.641,4.1,3.5,ml,18,235.91,0.81,0.0918,nn,nn00195898,2018-04-24T20:39:39.961Z,"43 km SSW of Caliente, Nevada",earthquake,,7.1,,,reviewed,nn,nn
+2006-12-25T16:56:46.950Z,33.701,-116.0428333,12.638,3,ml,58,32,0.06346,0.19,ci,ci10224017,2016-03-09T16:03:05.779Z,"11km NE of Thermal, CA",earthquake,0.26,0.56,0.149,239,reviewed,ci,ci
+2006-12-26T21:53:34.480Z,34.7531667,-121.4338333,25.182,3.02,md,34,263,0.6694,0.29,nc,nc51177202,2017-01-15T18:08:47.254Z,"79 km SW of Avila Beach, California",earthquake,4.07,31.61,0.328,15,reviewed,nc,nc
+2006-12-27T17:42:49.230Z,46.198,-122.1881667,-0.653,3.1,md,13,46,0.01157,0.07,uw,uw10707618,2016-07-22T22:40:07.890Z,"37 km NNE of Amboy, Washington",earthquake,0.222,0.18,0.04,7,reviewed,uw,uw
+2006-12-27T21:36:19.780Z,33.759,-116.0808333,4.926,3.19,ml,51,65,0.1247,0.18,ci,ci10224265,2016-03-08T17:08:19.009Z,"12km NE of Coachella, CA",earthquake,0.23,0.72,0.137,206,reviewed,ci,ci
+2006-12-29T21:21:10.780Z,44.354,-68.168,8.4,3.2,mblg,24,169.9,,,us,usp000f19d,2014-11-07T01:31:13.018Z,"4 km SE of Bar Harbor, Maine",earthquake,,,,,reviewed,wes,ott
+2006-12-30T13:53:49.680Z,49.256,-112.794,20,3.5,mwr,42,82.1,,,us,usp000f1b4,2014-11-07T01:31:13.269Z,"18 km SSE of Magrath, Canada",earthquake,,,,,reviewed,pgc,pgc
+2006-12-30T16:39:10.920Z,38.8121667,-122.7896667,4.109,3.43,ml,50,39,0.006306,0.06,nc,nc51177286,2017-01-15T18:19:40.340Z,"5 km W of Cobb, California",earthquake,0.13,0.32,0.263,14,reviewed,nc,nc
+2006-12-31T00:50:51.990Z,36.297,-118.328,-0.463,3.32,ml,39,48,0.1448,0.27,ci,ci10224601,2016-03-09T02:25:16.066Z,"29km W of Olancha, CA",earthquake,0.46,1.36,0.161,135,reviewed,ci,ci
